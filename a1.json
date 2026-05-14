@@ -4646,6 +4646,20 @@
   },
   {
     "id": "a1-0328",
+    "lemma": "das",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "это",
+      "то"
+    ],
+    "example_de": "Das ist mein neues Auto.",
+    "example_ru": "Это моя новая машина.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0329",
     "lemma": "Datum",
     "article": "das",
     "plural": "Daten",
@@ -4659,7 +4673,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0329",
+    "id": "a1-0330",
     "lemma": "dauern",
     "article": null,
     "plural": null,
@@ -4677,7 +4691,7 @@
     }
   },
   {
-    "id": "a1-0330",
+    "id": "a1-0331",
     "lemma": "denn",
     "article": null,
     "plural": null,
@@ -4691,7 +4705,21 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0331",
+    "id": "a1-0332",
+    "lemma": "der",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "этот",
+      "тот"
+    ],
+    "example_de": "Der Mann dort ist mein Vater.",
+    "example_ru": "Тот мужчина — мой отец.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0333",
     "lemma": "deutsch",
     "article": null,
     "plural": null,
@@ -4704,7 +4732,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0332",
+    "id": "a1-0334",
     "lemma": "Deutsche",
     "article": "der",
     "plural": "Deutschen",
@@ -4718,7 +4746,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0333",
+    "id": "a1-0335",
     "lemma": "Deutschkurs",
     "article": "der",
     "plural": "Deutschkurse",
@@ -4731,7 +4759,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0334",
+    "id": "a1-0336",
     "lemma": "Dezember",
     "article": "der",
     "plural": "Dezember",
@@ -4744,7 +4772,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0335",
+    "id": "a1-0337",
     "lemma": "dich",
     "article": null,
     "plural": null,
@@ -4757,7 +4785,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0336",
+    "id": "a1-0338",
     "lemma": "dick",
     "article": null,
     "plural": null,
@@ -4771,7 +4799,22 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0337",
+    "id": "a1-0339",
+    "lemma": "die",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "эта",
+      "та",
+      "эти"
+    ],
+    "example_de": "Die Frau dort kenne ich gut.",
+    "example_ru": "Ту женщину я хорошо знаю.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0340",
     "lemma": "Dienstag",
     "article": "der",
     "plural": "Dienstage",
@@ -4784,7 +4827,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0338",
+    "id": "a1-0341",
     "lemma": "Ding",
     "article": "das",
     "plural": "Dinge",
@@ -4798,7 +4841,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0339",
+    "id": "a1-0342",
     "lemma": "Disco",
     "article": "die",
     "plural": "Discos",
@@ -4811,7 +4854,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0340",
+    "id": "a1-0343",
     "lemma": "doch",
     "article": null,
     "plural": null,
@@ -4826,7 +4869,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0341",
+    "id": "a1-0344",
     "lemma": "Donnerstag",
     "article": "der",
     "plural": "Donnerstage",
@@ -4839,7 +4882,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0342",
+    "id": "a1-0345",
     "lemma": "durch",
     "article": null,
     "plural": null,
@@ -4854,7 +4897,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0343",
+    "id": "a1-0346",
     "lemma": "Durst",
     "article": "der",
     "plural": null,
@@ -4867,7 +4910,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0344",
+    "id": "a1-0347",
     "lemma": "Dusche",
     "article": "die",
     "plural": "Duschen",
@@ -4880,7 +4923,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0345",
+    "id": "a1-0348",
     "lemma": "dünn",
     "article": null,
     "plural": null,
@@ -4894,7 +4937,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0346",
+    "id": "a1-0349",
     "lemma": "E-Mail",
     "article": "die",
     "plural": "E-Mails",
@@ -4908,7 +4951,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0347",
+    "id": "a1-0350",
     "lemma": "einfach",
     "article": null,
     "plural": null,
@@ -4923,7 +4966,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0348",
+    "id": "a1-0351",
     "lemma": "einladen",
     "article": null,
     "plural": null,
@@ -4940,7 +4983,7 @@
     }
   },
   {
-    "id": "a1-0349",
+    "id": "a1-0352",
     "lemma": "Einladung",
     "article": "die",
     "plural": "Einladungen",
@@ -4953,7 +4996,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0350",
+    "id": "a1-0353",
     "lemma": "einmal",
     "article": null,
     "plural": null,
@@ -4967,7 +5010,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0351",
+    "id": "a1-0354",
     "lemma": "Eis",
     "article": "das",
     "plural": null,
@@ -4981,7 +5024,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0352",
+    "id": "a1-0355",
     "lemma": "Englisch",
     "article": null,
     "plural": null,
@@ -4995,7 +5038,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0353",
+    "id": "a1-0356",
     "lemma": "entschuldigen",
     "article": null,
     "plural": null,
@@ -5013,7 +5056,7 @@
     }
   },
   {
-    "id": "a1-0354",
+    "id": "a1-0357",
     "lemma": "Entschuldigung",
     "article": "die",
     "plural": "Entschuldigungen",
@@ -5027,7 +5070,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0355",
+    "id": "a1-0358",
     "lemma": "Er",
     "article": null,
     "plural": null,
@@ -5040,7 +5083,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0356",
+    "id": "a1-0359",
     "lemma": "erst",
     "article": null,
     "plural": null,
@@ -5055,7 +5098,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0357",
+    "id": "a1-0360",
     "lemma": "erste",
     "article": null,
     "plural": null,
@@ -5068,7 +5111,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0358",
+    "id": "a1-0361",
     "lemma": "erzählen",
     "article": null,
     "plural": null,
@@ -5085,7 +5128,7 @@
     }
   },
   {
-    "id": "a1-0359",
+    "id": "a1-0362",
     "lemma": "es",
     "article": null,
     "plural": null,
@@ -5099,7 +5142,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0360",
+    "id": "a1-0363",
     "lemma": "etwas",
     "article": null,
     "plural": null,
@@ -5113,7 +5156,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0361",
+    "id": "a1-0364",
     "lemma": "euch",
     "article": null,
     "plural": null,
@@ -5127,7 +5170,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0362",
+    "id": "a1-0365",
     "lemma": "Euro",
     "article": "der",
     "plural": "Euro",
@@ -5140,7 +5183,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0363",
+    "id": "a1-0366",
     "lemma": "Europa",
     "article": null,
     "plural": null,
@@ -5153,7 +5196,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0364",
+    "id": "a1-0367",
     "lemma": "Fahrt",
     "article": "die",
     "plural": "Fahrten",
@@ -5167,7 +5210,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0365",
+    "id": "a1-0368",
     "lemma": "Familienname",
     "article": "der",
     "plural": "Familiennamen",
@@ -5180,7 +5223,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0366",
+    "id": "a1-0369",
     "lemma": "Farbe",
     "article": "die",
     "plural": "Farben",
@@ -5194,7 +5237,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0367",
+    "id": "a1-0370",
     "lemma": "fast",
     "article": null,
     "plural": null,
@@ -5207,7 +5250,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0368",
+    "id": "a1-0371",
     "lemma": "Februar",
     "article": "der",
     "plural": "Februare",
@@ -5220,7 +5263,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0369",
+    "id": "a1-0372",
     "lemma": "fehlen",
     "article": null,
     "plural": null,
@@ -5238,7 +5281,7 @@
     }
   },
   {
-    "id": "a1-0370",
+    "id": "a1-0373",
     "lemma": "Fehler",
     "article": "der",
     "plural": "Fehler",
@@ -5251,7 +5294,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0371",
+    "id": "a1-0374",
     "lemma": "Fernsehen",
     "article": "das",
     "plural": null,
@@ -5264,7 +5307,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0372",
+    "id": "a1-0375",
     "lemma": "fertig",
     "article": null,
     "plural": null,
@@ -5278,7 +5321,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0373",
+    "id": "a1-0376",
     "lemma": "Fest",
     "article": "das",
     "plural": "Feste",
@@ -5292,7 +5335,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0374",
+    "id": "a1-0377",
     "lemma": "Fieber",
     "article": "das",
     "plural": null,
@@ -5306,7 +5349,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0375",
+    "id": "a1-0378",
     "lemma": "Firma",
     "article": "die",
     "plural": "Firmen",
@@ -5320,7 +5363,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0376",
+    "id": "a1-0379",
     "lemma": "Flasche",
     "article": "die",
     "plural": "Flaschen",
@@ -5333,7 +5376,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0377",
+    "id": "a1-0380",
     "lemma": "fliegen",
     "article": null,
     "plural": null,
@@ -5351,7 +5394,7 @@
     }
   },
   {
-    "id": "a1-0378",
+    "id": "a1-0381",
     "lemma": "Fluss",
     "article": "der",
     "plural": "Flüsse",
@@ -5364,7 +5407,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0379",
+    "id": "a1-0382",
     "lemma": "Formular",
     "article": "das",
     "plural": "Formulare",
@@ -5378,7 +5421,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0380",
+    "id": "a1-0383",
     "lemma": "fotografieren",
     "article": null,
     "plural": null,
@@ -5395,7 +5438,7 @@
     }
   },
   {
-    "id": "a1-0381",
+    "id": "a1-0384",
     "lemma": "Frankreich",
     "article": null,
     "plural": null,
@@ -5408,7 +5451,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0382",
+    "id": "a1-0385",
     "lemma": "Französisch",
     "article": null,
     "plural": null,
@@ -5422,7 +5465,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0383",
+    "id": "a1-0386",
     "lemma": "Freitag",
     "article": "der",
     "plural": "Freitage",
@@ -5435,7 +5478,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0384",
+    "id": "a1-0387",
     "lemma": "Freizeit",
     "article": "die",
     "plural": null,
@@ -5449,7 +5492,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0385",
+    "id": "a1-0388",
     "lemma": "freuen",
     "article": null,
     "plural": null,
@@ -5466,7 +5509,7 @@
     }
   },
   {
-    "id": "a1-0386",
+    "id": "a1-0389",
     "lemma": "freundlich",
     "article": null,
     "plural": null,
@@ -5480,7 +5523,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0387",
+    "id": "a1-0390",
     "lemma": "Friseur",
     "article": "der",
     "plural": "Friseure",
@@ -5493,7 +5536,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0388",
+    "id": "a1-0391",
     "lemma": "früh",
     "article": null,
     "plural": null,
@@ -5507,7 +5550,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0389",
+    "id": "a1-0392",
     "lemma": "früher",
     "article": null,
     "plural": null,
@@ -5521,7 +5564,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0390",
+    "id": "a1-0393",
     "lemma": "Frühling",
     "article": "der",
     "plural": "Frühlinge",
@@ -5534,7 +5577,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0391",
+    "id": "a1-0394",
     "lemma": "frühstücken",
     "article": null,
     "plural": null,
@@ -5551,7 +5594,7 @@
     }
   },
   {
-    "id": "a1-0392",
+    "id": "a1-0395",
     "lemma": "Fußball",
     "article": "der",
     "plural": "Fußbälle",
@@ -5565,7 +5608,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0393",
+    "id": "a1-0396",
     "lemma": "für",
     "article": null,
     "plural": null,
@@ -5579,7 +5622,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0394",
+    "id": "a1-0397",
     "lemma": "ganz",
     "article": null,
     "plural": null,
@@ -5594,7 +5637,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0395",
+    "id": "a1-0398",
     "lemma": "Garten",
     "article": "der",
     "plural": "Gärten",
@@ -5607,7 +5650,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0396",
+    "id": "a1-0399",
     "lemma": "Gast",
     "article": "der",
     "plural": "Gäste",
@@ -5620,7 +5663,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0397",
+    "id": "a1-0400",
     "lemma": "Geburtsdatum",
     "article": "das",
     "plural": "Geburtsdaten",
@@ -5633,7 +5676,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0398",
+    "id": "a1-0401",
     "lemma": "Geburtsort",
     "article": "der",
     "plural": "Geburtsorte",
@@ -5646,7 +5689,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0399",
+    "id": "a1-0402",
     "lemma": "Geburtstag",
     "article": "der",
     "plural": "Geburtstage",
@@ -5659,7 +5702,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0400",
+    "id": "a1-0403",
     "lemma": "gefallen",
     "article": null,
     "plural": null,
@@ -5676,7 +5719,7 @@
     }
   },
   {
-    "id": "a1-0401",
+    "id": "a1-0404",
     "lemma": "gegen",
     "article": null,
     "plural": null,
@@ -5690,7 +5733,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0402",
+    "id": "a1-0405",
     "lemma": "gehören",
     "article": null,
     "plural": null,
@@ -5707,7 +5750,7 @@
     }
   },
   {
-    "id": "a1-0403",
+    "id": "a1-0406",
     "lemma": "genau",
     "article": null,
     "plural": null,
@@ -5721,7 +5764,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0404",
+    "id": "a1-0407",
     "lemma": "genug",
     "article": null,
     "plural": null,
@@ -5735,7 +5778,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0405",
+    "id": "a1-0408",
     "lemma": "geradeaus",
     "article": null,
     "plural": null,
@@ -5748,7 +5791,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0406",
+    "id": "a1-0409",
     "lemma": "gern",
     "article": null,
     "plural": null,
@@ -5762,7 +5805,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0407",
+    "id": "a1-0410",
     "lemma": "Geschichte",
     "article": "die",
     "plural": "Geschichten",
@@ -5776,7 +5819,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0408",
+    "id": "a1-0411",
     "lemma": "Geschwister",
     "article": "die",
     "plural": "Geschwister",
@@ -5789,7 +5832,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0409",
+    "id": "a1-0412",
     "lemma": "Gesundheit",
     "article": "die",
     "plural": null,
@@ -5802,7 +5845,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0410",
+    "id": "a1-0413",
     "lemma": "Getränk",
     "article": "das",
     "plural": "Getränke",
@@ -5815,7 +5858,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0411",
+    "id": "a1-0414",
     "lemma": "geöffnet",
     "article": null,
     "plural": null,
@@ -5829,7 +5872,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0412",
+    "id": "a1-0415",
     "lemma": "Gitarre",
     "article": "die",
     "plural": "Gitarren",
@@ -5842,7 +5885,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0413",
+    "id": "a1-0416",
     "lemma": "Glas",
     "article": "das",
     "plural": "Gläser",
@@ -5856,7 +5899,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0414",
+    "id": "a1-0417",
     "lemma": "gleich",
     "article": null,
     "plural": null,
@@ -5870,7 +5913,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0415",
+    "id": "a1-0418",
     "lemma": "Gleis",
     "article": "das",
     "plural": "Gleise",
@@ -5884,7 +5927,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0416",
+    "id": "a1-0419",
     "lemma": "Glückwunsch",
     "article": "der",
     "plural": "Glückwünsche",
@@ -5897,7 +5940,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0417",
+    "id": "a1-0420",
     "lemma": "Grad",
     "article": "das",
     "plural": "Grade",
@@ -5910,7 +5953,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0418",
+    "id": "a1-0421",
     "lemma": "grau",
     "article": null,
     "plural": null,
@@ -5923,7 +5966,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0419",
+    "id": "a1-0422",
     "lemma": "Großeltern",
     "article": "die",
     "plural": "Großeltern",
@@ -5937,7 +5980,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0420",
+    "id": "a1-0423",
     "lemma": "Gruppe",
     "article": "die",
     "plural": "Gruppen",
@@ -5950,7 +5993,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0421",
+    "id": "a1-0424",
     "lemma": "Gruß",
     "article": "der",
     "plural": "Grüße",
@@ -5964,7 +6007,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0422",
+    "id": "a1-0425",
     "lemma": "Größe",
     "article": "die",
     "plural": "Größen",
@@ -5978,7 +6021,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0423",
+    "id": "a1-0426",
     "lemma": "Grüße",
     "article": null,
     "plural": null,
@@ -5992,7 +6035,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0424",
+    "id": "a1-0427",
     "lemma": "halb",
     "article": null,
     "plural": null,
@@ -6006,7 +6049,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0425",
+    "id": "a1-0428",
     "lemma": "hallo",
     "article": null,
     "plural": null,
@@ -6020,7 +6063,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0426",
+    "id": "a1-0429",
     "lemma": "Hals",
     "article": "der",
     "plural": "Hälse",
@@ -6034,7 +6077,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0427",
+    "id": "a1-0430",
     "lemma": "Halsschmerzen",
     "article": "die",
     "plural": "Halsschmerzen",
@@ -6047,7 +6090,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0428",
+    "id": "a1-0431",
     "lemma": "Haltestelle",
     "article": "die",
     "plural": "Haltestellen",
@@ -6060,7 +6103,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0429",
+    "id": "a1-0432",
     "lemma": "Handy",
     "article": "das",
     "plural": "Handys",
@@ -6074,7 +6117,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0430",
+    "id": "a1-0433",
     "lemma": "Hauptbahnhof",
     "article": "der",
     "plural": "Hauptbahnhöfe",
@@ -6087,7 +6130,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0431",
+    "id": "a1-0434",
     "lemma": "Hausaufgabe",
     "article": "die",
     "plural": "Hausaufgaben",
@@ -6100,7 +6143,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0432",
+    "id": "a1-0435",
     "lemma": "Hausfrau",
     "article": "die",
     "plural": "Hausfrauen",
@@ -6113,7 +6156,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0433",
+    "id": "a1-0436",
     "lemma": "Hausnummer",
     "article": "die",
     "plural": "Hausnummern",
@@ -6126,7 +6169,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0434",
+    "id": "a1-0437",
     "lemma": "heiraten",
     "article": null,
     "plural": null,
@@ -6144,7 +6187,7 @@
     }
   },
   {
-    "id": "a1-0435",
+    "id": "a1-0438",
     "lemma": "Herbst",
     "article": "der",
     "plural": "Herbste",
@@ -6157,7 +6200,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0436",
+    "id": "a1-0439",
     "lemma": "Herr",
     "article": "der",
     "plural": "Herren",
@@ -6171,7 +6214,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0437",
+    "id": "a1-0440",
     "lemma": "Hilfe",
     "article": "die",
     "plural": "Hilfen",
@@ -6185,7 +6228,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0438",
+    "id": "a1-0441",
     "lemma": "hinten",
     "article": null,
     "plural": null,
@@ -6199,7 +6242,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0439",
+    "id": "a1-0442",
     "lemma": "hinter",
     "article": null,
     "plural": null,
@@ -6213,7 +6256,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0440",
+    "id": "a1-0443",
     "lemma": "Hobby",
     "article": "das",
     "plural": "Hobbys",
@@ -6227,7 +6270,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0441",
+    "id": "a1-0444",
     "lemma": "Hotelzimmer",
     "article": "das",
     "plural": "Hotelzimmer",
@@ -6241,7 +6284,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0442",
+    "id": "a1-0445",
     "lemma": "hundert",
     "article": null,
     "plural": null,
@@ -6254,7 +6297,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0443",
+    "id": "a1-0446",
     "lemma": "Hunger",
     "article": "der",
     "plural": null,
@@ -6267,7 +6310,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0444",
+    "id": "a1-0447",
     "lemma": "ich",
     "article": null,
     "plural": null,
@@ -6280,7 +6323,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0445",
+    "id": "a1-0448",
     "lemma": "ihm",
     "article": null,
     "plural": null,
@@ -6293,7 +6336,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0446",
+    "id": "a1-0449",
     "lemma": "ihn",
     "article": null,
     "plural": null,
@@ -6306,7 +6349,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0447",
+    "id": "a1-0450",
     "lemma": "ihnen",
     "article": null,
     "plural": null,
@@ -6319,7 +6362,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0448",
+    "id": "a1-0451",
     "lemma": "ihr",
     "article": null,
     "plural": null,
@@ -6333,7 +6376,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0449",
+    "id": "a1-0452",
     "lemma": "im",
     "article": null,
     "plural": null,
@@ -6346,7 +6389,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0450",
+    "id": "a1-0453",
     "lemma": "in",
     "article": null,
     "plural": null,
@@ -6359,7 +6402,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0451",
+    "id": "a1-0454",
     "lemma": "Information",
     "article": "die",
     "plural": "Informationen",
@@ -6373,7 +6416,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0452",
+    "id": "a1-0455",
     "lemma": "interessant",
     "article": null,
     "plural": null,
@@ -6387,7 +6430,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0453",
+    "id": "a1-0456",
     "lemma": "Internet",
     "article": "das",
     "plural": null,
@@ -6400,7 +6443,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0454",
+    "id": "a1-0457",
     "lemma": "ja",
     "article": null,
     "plural": null,
@@ -6413,7 +6456,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0455",
+    "id": "a1-0458",
     "lemma": "Jahreszeit",
     "article": "die",
     "plural": "Jahreszeiten",
@@ -6427,7 +6470,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0456",
+    "id": "a1-0459",
     "lemma": "Januar",
     "article": "der",
     "plural": "Januare",
@@ -6440,7 +6483,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0457",
+    "id": "a1-0460",
     "lemma": "jedem",
     "article": null,
     "plural": null,
@@ -6453,7 +6496,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0458",
+    "id": "a1-0461",
     "lemma": "jeder",
     "article": null,
     "plural": null,
@@ -6467,7 +6510,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0459",
+    "id": "a1-0462",
     "lemma": "jemand",
     "article": null,
     "plural": null,
@@ -6481,7 +6524,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0460",
+    "id": "a1-0463",
     "lemma": "Job",
     "article": "der",
     "plural": "Jobs",
@@ -6495,7 +6538,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0461",
+    "id": "a1-0464",
     "lemma": "Juli",
     "article": "der",
     "plural": "Julis",
@@ -6508,7 +6551,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0462",
+    "id": "a1-0465",
     "lemma": "Juni",
     "article": "der",
     "plural": "Junis",
@@ -6521,7 +6564,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0463",
+    "id": "a1-0466",
     "lemma": "Kakao",
     "article": "der",
     "plural": "Kakaos",
@@ -6534,7 +6577,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0464",
+    "id": "a1-0467",
     "lemma": "Kalender",
     "article": "der",
     "plural": "Kalender",
@@ -6547,7 +6590,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0465",
+    "id": "a1-0468",
     "lemma": "kaputt",
     "article": null,
     "plural": null,
@@ -6561,7 +6604,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0466",
+    "id": "a1-0469",
     "lemma": "Karte",
     "article": "die",
     "plural": "Karten",
@@ -6576,7 +6619,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0467",
+    "id": "a1-0470",
     "lemma": "Kellner",
     "article": "der",
     "plural": "Kellner",
@@ -6589,7 +6632,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0468",
+    "id": "a1-0471",
     "lemma": "Kellnerin",
     "article": "die",
     "plural": "Kellnerinnen",
@@ -6602,7 +6645,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0469",
+    "id": "a1-0472",
     "lemma": "Kilometer",
     "article": "der",
     "plural": "Kilometer",
@@ -6615,7 +6658,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0470",
+    "id": "a1-0473",
     "lemma": "Kindergarten",
     "article": "der",
     "plural": "Kindergärten",
@@ -6628,7 +6671,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0471",
+    "id": "a1-0474",
     "lemma": "klar",
     "article": null,
     "plural": null,
@@ -6642,7 +6685,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0472",
+    "id": "a1-0475",
     "lemma": "Kleid",
     "article": "das",
     "plural": "Kleider",
@@ -6655,7 +6698,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0473",
+    "id": "a1-0476",
     "lemma": "Kleidung",
     "article": "die",
     "plural": null,
@@ -6668,7 +6711,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0474",
+    "id": "a1-0477",
     "lemma": "Knie",
     "article": "das",
     "plural": "Knie",
@@ -6681,7 +6724,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0475",
+    "id": "a1-0478",
     "lemma": "Koch",
     "article": "der",
     "plural": "Köche",
@@ -6694,7 +6737,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0476",
+    "id": "a1-0479",
     "lemma": "Koffer",
     "article": "der",
     "plural": "Koffer",
@@ -6707,7 +6750,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0477",
+    "id": "a1-0480",
     "lemma": "Kollege",
     "article": "der",
     "plural": "Kollegen",
@@ -6721,7 +6764,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0478",
+    "id": "a1-0481",
     "lemma": "Kollegin",
     "article": "die",
     "plural": "Kolleginnen",
@@ -6735,7 +6778,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0479",
+    "id": "a1-0482",
     "lemma": "Kontakt",
     "article": "der",
     "plural": "Kontakte",
@@ -6749,7 +6792,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0480",
+    "id": "a1-0483",
     "lemma": "Konzert",
     "article": "das",
     "plural": "Konzerte",
@@ -6762,7 +6805,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0481",
+    "id": "a1-0484",
     "lemma": "Kopfschmerzen",
     "article": "die",
     "plural": null,
@@ -6775,7 +6818,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0482",
+    "id": "a1-0485",
     "lemma": "Krankenschwester",
     "article": "die",
     "plural": "Krankenschwestern",
@@ -6788,7 +6831,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0483",
+    "id": "a1-0486",
     "lemma": "Kuchen",
     "article": "der",
     "plural": "Kuchen",
@@ -6802,7 +6845,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0484",
+    "id": "a1-0487",
     "lemma": "Kugelschreiber",
     "article": "der",
     "plural": "Kugelschreiber",
@@ -6815,7 +6858,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0485",
+    "id": "a1-0488",
     "lemma": "Kunde",
     "article": "der",
     "plural": "Kunden",
@@ -6829,7 +6872,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0486",
+    "id": "a1-0489",
     "lemma": "Kurs",
     "article": "der",
     "plural": "Kurse",
@@ -6843,7 +6886,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0487",
+    "id": "a1-0490",
     "lemma": "Kühlschrank",
     "article": "der",
     "plural": "Kühlschränke",
@@ -6856,7 +6899,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0488",
+    "id": "a1-0491",
     "lemma": "lachen",
     "article": null,
     "plural": null,
@@ -6873,7 +6916,7 @@
     }
   },
   {
-    "id": "a1-0489",
+    "id": "a1-0492",
     "lemma": "Laden",
     "article": "der",
     "plural": "Läden",
@@ -6887,7 +6930,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0490",
+    "id": "a1-0493",
     "lemma": "langweilig",
     "article": null,
     "plural": null,
@@ -6900,7 +6943,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0491",
+    "id": "a1-0494",
     "lemma": "Laptop",
     "article": "der",
     "plural": "Laptops",
@@ -6914,7 +6957,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0492",
+    "id": "a1-0495",
     "lemma": "Lebensmittel",
     "article": "das",
     "plural": "Lebensmittel",
@@ -6928,7 +6971,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0493",
+    "id": "a1-0496",
     "lemma": "lecker",
     "article": null,
     "plural": null,
@@ -6941,7 +6984,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0494",
+    "id": "a1-0497",
     "lemma": "legen",
     "article": null,
     "plural": null,
@@ -6959,7 +7002,7 @@
     }
   },
   {
-    "id": "a1-0495",
+    "id": "a1-0498",
     "lemma": "leider",
     "article": null,
     "plural": null,
@@ -6972,7 +7015,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0496",
+    "id": "a1-0499",
     "lemma": "Licht",
     "article": "das",
     "plural": "Lichter",
@@ -6986,7 +7029,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0497",
+    "id": "a1-0500",
     "lemma": "Liebe",
     "article": "die",
     "plural": null,
@@ -6999,7 +7042,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0498",
+    "id": "a1-0501",
     "lemma": "lieber",
     "article": null,
     "plural": null,
@@ -7013,7 +7056,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0499",
+    "id": "a1-0502",
     "lemma": "Lied",
     "article": "das",
     "plural": "Lieder",
@@ -7026,7 +7069,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0500",
+    "id": "a1-0503",
     "lemma": "links",
     "article": null,
     "plural": null,
@@ -7040,7 +7083,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0501",
+    "id": "a1-0504",
     "lemma": "Liste",
     "article": "die",
     "plural": "Listen",
@@ -7054,7 +7097,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0502",
+    "id": "a1-0505",
     "lemma": "los",
     "article": null,
     "plural": null,
@@ -7068,7 +7111,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0503",
+    "id": "a1-0506",
     "lemma": "lustig",
     "article": null,
     "plural": null,
@@ -7082,7 +7125,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0504",
+    "id": "a1-0507",
     "lemma": "Mai",
     "article": "der",
     "plural": "Maie",
@@ -7095,7 +7138,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0505",
+    "id": "a1-0508",
     "lemma": "Mail",
     "article": "die",
     "plural": "Mails",
@@ -7109,7 +7152,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0506",
+    "id": "a1-0509",
     "lemma": "Mal",
     "article": "das",
     "plural": "Male",
@@ -7122,7 +7165,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0507",
+    "id": "a1-0510",
     "lemma": "malen",
     "article": null,
     "plural": null,
@@ -7140,7 +7183,7 @@
     }
   },
   {
-    "id": "a1-0508",
+    "id": "a1-0511",
     "lemma": "Mama",
     "article": "die",
     "plural": "Mamas",
@@ -7153,7 +7196,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0509",
+    "id": "a1-0512",
     "lemma": "man",
     "article": null,
     "plural": null,
@@ -7167,7 +7210,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0510",
+    "id": "a1-0513",
     "lemma": "Mantel",
     "article": "der",
     "plural": "Mäntel",
@@ -7180,7 +7223,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0511",
+    "id": "a1-0514",
     "lemma": "Marmelade",
     "article": "die",
     "plural": "Marmeladen",
@@ -7194,7 +7237,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0512",
+    "id": "a1-0515",
     "lemma": "Meer",
     "article": "das",
     "plural": "Meere",
@@ -7207,7 +7250,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0513",
+    "id": "a1-0516",
     "lemma": "meinen",
     "article": null,
     "plural": null,
@@ -7226,7 +7269,7 @@
     }
   },
   {
-    "id": "a1-0514",
+    "id": "a1-0517",
     "lemma": "Meter",
     "article": "der",
     "plural": "Meter",
@@ -7239,7 +7282,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0515",
+    "id": "a1-0518",
     "lemma": "mich",
     "article": null,
     "plural": null,
@@ -7252,7 +7295,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0516",
+    "id": "a1-0519",
     "lemma": "Miete",
     "article": "die",
     "plural": "Mieten",
@@ -7266,7 +7309,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0517",
+    "id": "a1-0520",
     "lemma": "Million",
     "article": "die",
     "plural": "Millionen",
@@ -7279,7 +7322,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0518",
+    "id": "a1-0521",
     "lemma": "minus",
     "article": null,
     "plural": null,
@@ -7292,7 +7335,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0519",
+    "id": "a1-0522",
     "lemma": "mir",
     "article": null,
     "plural": null,
@@ -7305,7 +7348,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0520",
+    "id": "a1-0523",
     "lemma": "mit",
     "article": null,
     "plural": null,
@@ -7319,7 +7362,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0521",
+    "id": "a1-0524",
     "lemma": "mitbringen",
     "article": null,
     "plural": null,
@@ -7337,7 +7380,7 @@
     }
   },
   {
-    "id": "a1-0522",
+    "id": "a1-0525",
     "lemma": "mitnehmen",
     "article": null,
     "plural": null,
@@ -7355,7 +7398,7 @@
     }
   },
   {
-    "id": "a1-0523",
+    "id": "a1-0526",
     "lemma": "Mittwoch",
     "article": "der",
     "plural": "Mittwoche",
@@ -7368,7 +7411,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0524",
+    "id": "a1-0527",
     "lemma": "Moment",
     "article": "der",
     "plural": "Momente",
@@ -7382,7 +7425,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0525",
+    "id": "a1-0528",
     "lemma": "Montag",
     "article": "der",
     "plural": "Montage",
@@ -7395,7 +7438,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0526",
+    "id": "a1-0529",
     "lemma": "morgens",
     "article": null,
     "plural": null,
@@ -7409,7 +7452,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0527",
+    "id": "a1-0530",
     "lemma": "Motorrad",
     "article": "das",
     "plural": "Motorräder",
@@ -7422,7 +7465,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0528",
+    "id": "a1-0531",
     "lemma": "Musiker",
     "article": "der",
     "plural": "Musiker",
@@ -7435,7 +7478,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0529",
+    "id": "a1-0532",
     "lemma": "März",
     "article": "der",
     "plural": null,
@@ -7448,7 +7491,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0530",
+    "id": "a1-0533",
     "lemma": "Möbel",
     "article": "die",
     "plural": "Möbel",
@@ -7461,7 +7504,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0531",
+    "id": "a1-0534",
     "lemma": "möchten",
     "article": null,
     "plural": null,
@@ -7479,7 +7522,7 @@
     }
   },
   {
-    "id": "a1-0532",
+    "id": "a1-0535",
     "lemma": "Müsli",
     "article": "das",
     "plural": "Müslis",
@@ -7492,7 +7535,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0533",
+    "id": "a1-0536",
     "lemma": "na",
     "article": null,
     "plural": null,
@@ -7506,7 +7549,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0534",
+    "id": "a1-0537",
     "lemma": "nach",
     "article": null,
     "plural": null,
@@ -7521,7 +7564,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0535",
+    "id": "a1-0538",
     "lemma": "Nachbar",
     "article": "der",
     "plural": "Nachbarn",
@@ -7534,7 +7577,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0536",
+    "id": "a1-0539",
     "lemma": "Nachmittag",
     "article": "der",
     "plural": "Nachmittage",
@@ -7548,7 +7591,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0537",
+    "id": "a1-0540",
     "lemma": "nachmittags",
     "article": null,
     "plural": null,
@@ -7562,7 +7605,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0538",
+    "id": "a1-0541",
     "lemma": "Nachname",
     "article": "der",
     "plural": "Nachnamen",
@@ -7575,7 +7618,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0539",
+    "id": "a1-0542",
     "lemma": "natürlich",
     "article": null,
     "plural": null,
@@ -7589,7 +7632,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0540",
+    "id": "a1-0543",
     "lemma": "nein",
     "article": null,
     "plural": null,
@@ -7602,7 +7645,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0541",
+    "id": "a1-0544",
     "lemma": "nennen",
     "article": null,
     "plural": null,
@@ -7619,7 +7662,7 @@
     }
   },
   {
-    "id": "a1-0542",
+    "id": "a1-0545",
     "lemma": "nicht",
     "article": null,
     "plural": null,
@@ -7632,7 +7675,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0543",
+    "id": "a1-0546",
     "lemma": "nie",
     "article": null,
     "plural": null,
@@ -7645,7 +7688,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0544",
+    "id": "a1-0547",
     "lemma": "noch",
     "article": null,
     "plural": null,
@@ -7658,7 +7701,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0545",
+    "id": "a1-0548",
     "lemma": "Norden",
     "article": "der",
     "plural": null,
@@ -7671,7 +7714,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0546",
+    "id": "a1-0549",
     "lemma": "normal",
     "article": null,
     "plural": null,
@@ -7685,7 +7728,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0547",
+    "id": "a1-0550",
     "lemma": "November",
     "article": "der",
     "plural": "November",
@@ -7698,7 +7741,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0548",
+    "id": "a1-0551",
     "lemma": "Nummer",
     "article": "die",
     "plural": "Nummern",
@@ -7711,7 +7754,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0549",
+    "id": "a1-0552",
     "lemma": "nur",
     "article": null,
     "plural": null,
@@ -7725,7 +7768,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0550",
+    "id": "a1-0553",
     "lemma": "oben",
     "article": null,
     "plural": null,
@@ -7739,7 +7782,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0551",
+    "id": "a1-0554",
     "lemma": "oder",
     "article": null,
     "plural": null,
@@ -7752,7 +7795,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0552",
+    "id": "a1-0555",
     "lemma": "ohne",
     "article": null,
     "plural": null,
@@ -7765,7 +7808,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0553",
+    "id": "a1-0556",
     "lemma": "okay",
     "article": null,
     "plural": null,
@@ -7780,7 +7823,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0554",
+    "id": "a1-0557",
     "lemma": "Oktober",
     "article": "der",
     "plural": "Oktober",
@@ -7793,7 +7836,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0555",
+    "id": "a1-0558",
     "lemma": "Oma",
     "article": "die",
     "plural": "Omas",
@@ -7806,7 +7849,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0556",
+    "id": "a1-0559",
     "lemma": "Opa",
     "article": "der",
     "plural": "Opas",
@@ -7819,7 +7862,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0557",
+    "id": "a1-0560",
     "lemma": "Orangensaft",
     "article": "der",
     "plural": "Orangensäfte",
@@ -7832,7 +7875,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0558",
+    "id": "a1-0561",
     "lemma": "Ort",
     "article": "der",
     "plural": "Orte",
@@ -7846,7 +7889,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0559",
+    "id": "a1-0562",
     "lemma": "Osten",
     "article": "der",
     "plural": null,
@@ -7859,7 +7902,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0560",
+    "id": "a1-0563",
     "lemma": "Paar",
     "article": "das",
     "plural": "Paare",
@@ -7872,7 +7915,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0561",
+    "id": "a1-0564",
     "lemma": "Papa",
     "article": "der",
     "plural": "Papas",
@@ -7885,7 +7928,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0562",
+    "id": "a1-0565",
     "lemma": "parken",
     "article": null,
     "plural": null,
@@ -7903,7 +7946,7 @@
     }
   },
   {
-    "id": "a1-0563",
+    "id": "a1-0566",
     "lemma": "Partner",
     "article": "der",
     "plural": "Partner",
@@ -7916,7 +7959,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0564",
+    "id": "a1-0567",
     "lemma": "Partnerin",
     "article": "die",
     "plural": "Partnerinnen",
@@ -7930,7 +7973,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0565",
+    "id": "a1-0568",
     "lemma": "Party",
     "article": "die",
     "plural": "Partys",
@@ -7943,7 +7986,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0566",
+    "id": "a1-0569",
     "lemma": "passen",
     "article": null,
     "plural": null,
@@ -7961,7 +8004,7 @@
     }
   },
   {
-    "id": "a1-0567",
+    "id": "a1-0570",
     "lemma": "Pause",
     "article": "die",
     "plural": "Pausen",
@@ -7975,7 +8018,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0568",
+    "id": "a1-0571",
     "lemma": "Person",
     "article": "die",
     "plural": "Personen",
@@ -7990,7 +8033,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0569",
+    "id": "a1-0572",
     "lemma": "Pizza",
     "article": "die",
     "plural": "Pizzas",
@@ -8003,7 +8046,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0570",
+    "id": "a1-0573",
     "lemma": "Platz",
     "article": "der",
     "plural": "Plätze",
@@ -8017,7 +8060,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0571",
+    "id": "a1-0574",
     "lemma": "Polizei",
     "article": "die",
     "plural": null,
@@ -8030,7 +8073,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0572",
+    "id": "a1-0575",
     "lemma": "Pommes",
     "article": "die",
     "plural": null,
@@ -8043,7 +8086,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0573",
+    "id": "a1-0576",
     "lemma": "Postkarte",
     "article": "die",
     "plural": "Postkarten",
@@ -8057,7 +8100,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0574",
+    "id": "a1-0577",
     "lemma": "Preis",
     "article": "der",
     "plural": "Preise",
@@ -8071,7 +8114,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0575",
+    "id": "a1-0578",
     "lemma": "Pullover",
     "article": "der",
     "plural": "Pullover",
@@ -8085,7 +8128,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0576",
+    "id": "a1-0579",
     "lemma": "Punkt",
     "article": "der",
     "plural": "Punkte",
@@ -8099,7 +8142,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0577",
+    "id": "a1-0580",
     "lemma": "Rad",
     "article": "das",
     "plural": "Räder",
@@ -8113,7 +8156,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0578",
+    "id": "a1-0581",
     "lemma": "Radio",
     "article": "das",
     "plural": "Radios",
@@ -8127,7 +8170,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0579",
+    "id": "a1-0582",
     "lemma": "Rechnung",
     "article": "die",
     "plural": "Rechnungen",
@@ -8141,7 +8184,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0580",
+    "id": "a1-0583",
     "lemma": "rechts",
     "article": null,
     "plural": null,
@@ -8155,7 +8198,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0581",
+    "id": "a1-0584",
     "lemma": "regnen",
     "article": null,
     "plural": null,
@@ -8173,7 +8216,7 @@
     }
   },
   {
-    "id": "a1-0582",
+    "id": "a1-0585",
     "lemma": "Reisebüro",
     "article": "das",
     "plural": "Reisebüros",
@@ -8187,7 +8230,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0583",
+    "id": "a1-0586",
     "lemma": "Rezept",
     "article": "das",
     "plural": "Rezepte",
@@ -8201,7 +8244,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0584",
+    "id": "a1-0587",
     "lemma": "Rock",
     "article": "der",
     "plural": "Röcke",
@@ -8214,7 +8257,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0585",
+    "id": "a1-0588",
     "lemma": "rosa",
     "article": null,
     "plural": null,
@@ -8227,7 +8270,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0586",
+    "id": "a1-0589",
     "lemma": "rufen",
     "article": null,
     "plural": null,
@@ -8245,7 +8288,7 @@
     }
   },
   {
-    "id": "a1-0587",
+    "id": "a1-0590",
     "lemma": "Russisch",
     "article": "das",
     "plural": null,
@@ -8258,7 +8301,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0588",
+    "id": "a1-0591",
     "lemma": "S-Bahn",
     "article": "die",
     "plural": "S-Bahnen",
@@ -8272,7 +8315,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0589",
+    "id": "a1-0592",
     "lemma": "Samstag",
     "article": "der",
     "plural": "Samstage",
@@ -8285,7 +8328,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0590",
+    "id": "a1-0593",
     "lemma": "Satz",
     "article": "der",
     "plural": "Sätze",
@@ -8299,7 +8342,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0591",
+    "id": "a1-0594",
     "lemma": "sauber",
     "article": null,
     "plural": null,
@@ -8313,7 +8356,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0592",
+    "id": "a1-0595",
     "lemma": "schade",
     "article": null,
     "plural": null,
@@ -8327,7 +8370,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0593",
+    "id": "a1-0596",
     "lemma": "schauen",
     "article": null,
     "plural": null,
@@ -8345,7 +8388,7 @@
     }
   },
   {
-    "id": "a1-0594",
+    "id": "a1-0597",
     "lemma": "Schauspieler",
     "article": "der",
     "plural": "Schauspieler",
@@ -8358,7 +8401,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0595",
+    "id": "a1-0598",
     "lemma": "schicken",
     "article": null,
     "plural": null,
@@ -8376,7 +8419,7 @@
     }
   },
   {
-    "id": "a1-0596",
+    "id": "a1-0599",
     "lemma": "Schiff",
     "article": "das",
     "plural": "Schiffe",
@@ -8390,7 +8433,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0597",
+    "id": "a1-0600",
     "lemma": "Schmerz",
     "article": "der",
     "plural": "Schmerzen",
@@ -8403,7 +8446,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0598",
+    "id": "a1-0601",
     "lemma": "schmutzig",
     "article": null,
     "plural": null,
@@ -8416,7 +8459,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0599",
+    "id": "a1-0602",
     "lemma": "Schokolade",
     "article": "die",
     "plural": "Schokoladen",
@@ -8429,7 +8472,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0600",
+    "id": "a1-0603",
     "lemma": "Schwimmbad",
     "article": "das",
     "plural": "Schwimmbäder",
@@ -8443,7 +8486,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0601",
+    "id": "a1-0604",
     "lemma": "schwimmen",
     "article": null,
     "plural": null,
@@ -8461,7 +8504,7 @@
     }
   },
   {
-    "id": "a1-0602",
+    "id": "a1-0605",
     "lemma": "See",
     "article": "der",
     "plural": "Seen",
@@ -8474,7 +8517,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0603",
+    "id": "a1-0606",
     "lemma": "seit",
     "article": null,
     "plural": null,
@@ -8488,7 +8531,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0604",
+    "id": "a1-0607",
     "lemma": "Seite",
     "article": "die",
     "plural": "Seiten",
@@ -8502,7 +8545,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0605",
+    "id": "a1-0608",
     "lemma": "September",
     "article": "der",
     "plural": "September",
@@ -8515,7 +8558,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0606",
+    "id": "a1-0609",
     "lemma": "sich",
     "article": null,
     "plural": null,
@@ -8529,7 +8572,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0607",
+    "id": "a1-0610",
     "lemma": "sie",
     "article": null,
     "plural": null,
@@ -8543,7 +8586,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0608",
+    "id": "a1-0611",
     "lemma": "sitzen",
     "article": null,
     "plural": null,
@@ -8560,7 +8603,7 @@
     }
   },
   {
-    "id": "a1-0609",
+    "id": "a1-0612",
     "lemma": "SMS",
     "article": "die",
     "plural": "SMS",
@@ -8574,7 +8617,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0610",
+    "id": "a1-0613",
     "lemma": "Sofa",
     "article": "das",
     "plural": "Sofas",
@@ -8587,7 +8630,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0611",
+    "id": "a1-0614",
     "lemma": "sofort",
     "article": null,
     "plural": null,
@@ -8601,7 +8644,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0612",
+    "id": "a1-0615",
     "lemma": "Sommer",
     "article": "der",
     "plural": "Sommer",
@@ -8614,7 +8657,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0613",
+    "id": "a1-0616",
     "lemma": "Sonntag",
     "article": "der",
     "plural": "Sonntage",
@@ -8627,7 +8670,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0614",
+    "id": "a1-0617",
     "lemma": "Spanisch",
     "article": "das",
     "plural": null,
@@ -8640,7 +8683,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0615",
+    "id": "a1-0618",
     "lemma": "Spaziergang",
     "article": "der",
     "plural": "Spaziergänge",
@@ -8653,7 +8696,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0616",
+    "id": "a1-0619",
     "lemma": "Spaß",
     "article": "der",
     "plural": "Späße",
@@ -8667,7 +8710,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0617",
+    "id": "a1-0620",
     "lemma": "Speisekarte",
     "article": "die",
     "plural": "Speisekarten",
@@ -8680,7 +8723,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0618",
+    "id": "a1-0621",
     "lemma": "Stadtplan",
     "article": "der",
     "plural": "Stadtpläne",
@@ -8694,7 +8737,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0619",
+    "id": "a1-0622",
     "lemma": "Station",
     "article": "die",
     "plural": "Stationen",
@@ -8708,7 +8751,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0620",
+    "id": "a1-0623",
     "lemma": "stellen",
     "article": null,
     "plural": null,
@@ -8726,7 +8769,7 @@
     }
   },
   {
-    "id": "a1-0621",
+    "id": "a1-0624",
     "lemma": "stimmen",
     "article": null,
     "plural": null,
@@ -8744,7 +8787,7 @@
     }
   },
   {
-    "id": "a1-0622",
+    "id": "a1-0625",
     "lemma": "Straßenbahn",
     "article": "die",
     "plural": "Straßenbahnen",
@@ -8757,7 +8800,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0623",
+    "id": "a1-0626",
     "lemma": "Student",
     "article": "der",
     "plural": "Studenten",
@@ -8770,7 +8813,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0624",
+    "id": "a1-0627",
     "lemma": "Studentin",
     "article": "die",
     "plural": "Studentinnen",
@@ -8783,7 +8826,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0625",
+    "id": "a1-0628",
     "lemma": "studieren",
     "article": null,
     "plural": null,
@@ -8801,7 +8844,7 @@
     }
   },
   {
-    "id": "a1-0626",
+    "id": "a1-0629",
     "lemma": "Stück",
     "article": "das",
     "plural": "Stücke",
@@ -8815,7 +8858,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0627",
+    "id": "a1-0630",
     "lemma": "super",
     "article": null,
     "plural": null,
@@ -8829,7 +8872,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0628",
+    "id": "a1-0631",
     "lemma": "Süden",
     "article": "der",
     "plural": null,
@@ -8842,7 +8885,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0629",
+    "id": "a1-0632",
     "lemma": "T-Shirt",
     "article": "das",
     "plural": "T-Shirts",
@@ -8856,7 +8899,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0630",
+    "id": "a1-0633",
     "lemma": "Tablette",
     "article": "die",
     "plural": "Tabletten",
@@ -8869,7 +8912,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0631",
+    "id": "a1-0634",
     "lemma": "Tafel",
     "article": "die",
     "plural": "Tafeln",
@@ -8883,7 +8926,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0632",
+    "id": "a1-0635",
     "lemma": "tanzen",
     "article": null,
     "plural": null,
@@ -8900,7 +8943,7 @@
     }
   },
   {
-    "id": "a1-0633",
+    "id": "a1-0636",
     "lemma": "Tasse",
     "article": "die",
     "plural": "Tassen",
@@ -8913,7 +8956,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0634",
+    "id": "a1-0637",
     "lemma": "Taxi",
     "article": "das",
     "plural": "Taxis",
@@ -8926,7 +8969,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0635",
+    "id": "a1-0638",
     "lemma": "telefonieren",
     "article": null,
     "plural": null,
@@ -8944,7 +8987,7 @@
     }
   },
   {
-    "id": "a1-0636",
+    "id": "a1-0639",
     "lemma": "Teller",
     "article": "der",
     "plural": "Teller",
@@ -8957,7 +9000,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0637",
+    "id": "a1-0640",
     "lemma": "Tennis",
     "article": "das",
     "plural": null,
@@ -8970,7 +9013,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0638",
+    "id": "a1-0641",
     "lemma": "Termin",
     "article": "der",
     "plural": "Termine",
@@ -8984,7 +9027,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0639",
+    "id": "a1-0642",
     "lemma": "Text",
     "article": "der",
     "plural": "Texte",
@@ -8997,7 +9040,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0640",
+    "id": "a1-0643",
     "lemma": "Thema",
     "article": "das",
     "plural": "Themen",
@@ -9010,7 +9053,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0641",
+    "id": "a1-0644",
     "lemma": "Toilette",
     "article": "die",
     "plural": "Toiletten",
@@ -9023,7 +9066,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0642",
+    "id": "a1-0645",
     "lemma": "toll",
     "article": null,
     "plural": null,
@@ -9037,7 +9080,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0643",
+    "id": "a1-0646",
     "lemma": "tragen",
     "article": null,
     "plural": null,
@@ -9055,7 +9098,7 @@
     }
   },
   {
-    "id": "a1-0644",
+    "id": "a1-0647",
     "lemma": "Traum",
     "article": "der",
     "plural": "Träume",
@@ -9069,7 +9112,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0645",
+    "id": "a1-0648",
     "lemma": "Treppe",
     "article": "die",
     "plural": "Treppen",
@@ -9082,7 +9125,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0646",
+    "id": "a1-0649",
     "lemma": "tschüs",
     "article": null,
     "plural": null,
@@ -9096,7 +9139,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0647",
+    "id": "a1-0650",
     "lemma": "täglich",
     "article": null,
     "plural": null,
@@ -9110,7 +9153,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0648",
+    "id": "a1-0651",
     "lemma": "U-Bahn",
     "article": "die",
     "plural": "U-Bahnen",
@@ -9123,7 +9166,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0649",
+    "id": "a1-0652",
     "lemma": "Uhrzeit",
     "article": "die",
     "plural": "Uhrzeiten",
@@ -9137,7 +9180,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0650",
+    "id": "a1-0653",
     "lemma": "um",
     "article": null,
     "plural": null,
@@ -9151,7 +9194,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0651",
+    "id": "a1-0654",
     "lemma": "umsteigen",
     "article": null,
     "plural": null,
@@ -9169,7 +9212,7 @@
     }
   },
   {
-    "id": "a1-0652",
+    "id": "a1-0655",
     "lemma": "umziehen",
     "article": null,
     "plural": null,
@@ -9187,7 +9230,7 @@
     }
   },
   {
-    "id": "a1-0653",
+    "id": "a1-0656",
     "lemma": "unfreundlich",
     "article": null,
     "plural": null,
@@ -9201,7 +9244,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0654",
+    "id": "a1-0657",
     "lemma": "Uni",
     "article": "die",
     "plural": "Unis",
@@ -9215,7 +9258,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0655",
+    "id": "a1-0658",
     "lemma": "unser",
     "article": null,
     "plural": null,
@@ -9228,7 +9271,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0656",
+    "id": "a1-0659",
     "lemma": "unten",
     "article": null,
     "plural": null,
@@ -9241,7 +9284,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0657",
+    "id": "a1-0660",
     "lemma": "unter",
     "article": null,
     "plural": null,
@@ -9255,7 +9298,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0658",
+    "id": "a1-0661",
     "lemma": "verheiratet",
     "article": null,
     "plural": null,
@@ -9269,7 +9312,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0659",
+    "id": "a1-0662",
     "lemma": "Verkäufer",
     "article": "der",
     "plural": "Verkäufer",
@@ -9282,7 +9325,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0660",
+    "id": "a1-0663",
     "lemma": "Verkäuferin",
     "article": "die",
     "plural": "Verkäuferinnen",
@@ -9295,7 +9338,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0661",
+    "id": "a1-0664",
     "lemma": "viele",
     "article": null,
     "plural": null,
@@ -9309,7 +9352,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0662",
+    "id": "a1-0665",
     "lemma": "vielleicht",
     "article": null,
     "plural": null,
@@ -9323,7 +9366,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0663",
+    "id": "a1-0666",
     "lemma": "Viertel",
     "article": "das",
     "plural": "Viertel",
@@ -9337,7 +9380,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0664",
+    "id": "a1-0667",
     "lemma": "von",
     "article": null,
     "plural": null,
@@ -9351,7 +9394,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0665",
+    "id": "a1-0668",
     "lemma": "vor",
     "article": null,
     "plural": null,
@@ -9366,7 +9409,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0666",
+    "id": "a1-0669",
     "lemma": "Vormittag",
     "article": "der",
     "plural": "Vormittage",
@@ -9380,7 +9423,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0667",
+    "id": "a1-0670",
     "lemma": "Vorname",
     "article": "der",
     "plural": "Vornamen",
@@ -9393,7 +9436,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0668",
+    "id": "a1-0671",
     "lemma": "Wald",
     "article": "der",
     "plural": "Wälder",
@@ -9406,7 +9449,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0669",
+    "id": "a1-0672",
     "lemma": "wandern",
     "article": null,
     "plural": null,
@@ -9424,7 +9467,7 @@
     }
   },
   {
-    "id": "a1-0670",
+    "id": "a1-0673",
     "lemma": "wann",
     "article": null,
     "plural": null,
@@ -9437,7 +9480,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0671",
+    "id": "a1-0674",
     "lemma": "warum",
     "article": null,
     "plural": null,
@@ -9450,7 +9493,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0672",
+    "id": "a1-0675",
     "lemma": "was",
     "article": null,
     "plural": null,
@@ -9463,7 +9506,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0673",
+    "id": "a1-0676",
     "lemma": "Wecker",
     "article": "der",
     "plural": "Wecker",
@@ -9476,7 +9519,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0674",
+    "id": "a1-0677",
     "lemma": "Weg",
     "article": "der",
     "plural": "Wege",
@@ -9490,7 +9533,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0675",
+    "id": "a1-0678",
     "lemma": "wehtun",
     "article": null,
     "plural": null,
@@ -9508,7 +9551,7 @@
     }
   },
   {
-    "id": "a1-0676",
+    "id": "a1-0679",
     "lemma": "Weihnachten",
     "article": "das",
     "plural": null,
@@ -9521,7 +9564,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0677",
+    "id": "a1-0680",
     "lemma": "welche",
     "article": null,
     "plural": null,
@@ -9535,7 +9578,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0678",
+    "id": "a1-0681",
     "lemma": "Welt",
     "article": "die",
     "plural": "Welten",
@@ -9549,7 +9592,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0679",
+    "id": "a1-0682",
     "lemma": "wenig",
     "article": null,
     "plural": null,
@@ -9563,7 +9606,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0680",
+    "id": "a1-0683",
     "lemma": "wer",
     "article": null,
     "plural": null,
@@ -9576,7 +9619,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0681",
+    "id": "a1-0684",
     "lemma": "wichtige",
     "article": null,
     "plural": null,
@@ -9589,7 +9632,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0682",
+    "id": "a1-0685",
     "lemma": "wie",
     "article": null,
     "plural": null,
@@ -9602,7 +9645,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0683",
+    "id": "a1-0686",
     "lemma": "wieder",
     "article": null,
     "plural": null,
@@ -9616,7 +9659,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0684",
+    "id": "a1-0687",
     "lemma": "Wiederhören",
     "article": "das",
     "plural": null,
@@ -9629,7 +9672,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0685",
+    "id": "a1-0688",
     "lemma": "Winter",
     "article": "der",
     "plural": "Winter",
@@ -9642,7 +9685,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0686",
+    "id": "a1-0689",
     "lemma": "wirklich",
     "article": null,
     "plural": null,
@@ -9656,7 +9699,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0687",
+    "id": "a1-0690",
     "lemma": "wo",
     "article": null,
     "plural": null,
@@ -9669,7 +9712,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0688",
+    "id": "a1-0691",
     "lemma": "Wochentag",
     "article": "der",
     "plural": "Wochentage",
@@ -9683,7 +9726,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0689",
+    "id": "a1-0692",
     "lemma": "woher",
     "article": null,
     "plural": null,
@@ -9696,7 +9739,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0690",
+    "id": "a1-0693",
     "lemma": "wohin",
     "article": null,
     "plural": null,
@@ -9709,7 +9752,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0691",
+    "id": "a1-0694",
     "lemma": "Wohnort",
     "article": "der",
     "plural": "Wohnorte",
@@ -9722,7 +9765,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0692",
+    "id": "a1-0695",
     "lemma": "wählen",
     "article": null,
     "plural": null,
@@ -9740,7 +9783,7 @@
     }
   },
   {
-    "id": "a1-0693",
+    "id": "a1-0696",
     "lemma": "Wörterbuch",
     "article": "das",
     "plural": "Wörterbücher",
@@ -9753,7 +9796,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0694",
+    "id": "a1-0697",
     "lemma": "wünschen",
     "article": null,
     "plural": null,
@@ -9770,7 +9813,7 @@
     }
   },
   {
-    "id": "a1-0695",
+    "id": "a1-0698",
     "lemma": "Zahl",
     "article": "die",
     "plural": "Zahlen",
@@ -9784,7 +9827,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0696",
+    "id": "a1-0699",
     "lemma": "Zeit",
     "article": "die",
     "plural": null,
@@ -9797,7 +9840,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0697",
+    "id": "a1-0700",
     "lemma": "Zitrone",
     "article": "die",
     "plural": "Zitronen",
@@ -9810,7 +9853,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0698",
+    "id": "a1-0701",
     "lemma": "Zoo",
     "article": "der",
     "plural": "Zoos",
@@ -9823,7 +9866,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0699",
+    "id": "a1-0702",
     "lemma": "zu",
     "article": null,
     "plural": null,
@@ -9837,7 +9880,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0700",
+    "id": "a1-0703",
     "lemma": "zuerst",
     "article": null,
     "plural": null,
@@ -9851,7 +9894,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0701",
+    "id": "a1-0704",
     "lemma": "zufrieden",
     "article": null,
     "plural": null,
@@ -9865,7 +9908,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0702",
+    "id": "a1-0705",
     "lemma": "zumachen",
     "article": null,
     "plural": null,
@@ -9882,7 +9925,7 @@
     }
   },
   {
-    "id": "a1-0703",
+    "id": "a1-0706",
     "lemma": "zurückkommen",
     "article": null,
     "plural": null,
@@ -9899,7 +9942,7 @@
     }
   },
   {
-    "id": "a1-0704",
+    "id": "a1-0707",
     "lemma": "zusammen",
     "article": null,
     "plural": null,
@@ -9912,7 +9955,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0705",
+    "id": "a1-0708",
     "lemma": "zwischen",
     "article": null,
     "plural": null,
@@ -9925,7 +9968,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0706",
+    "id": "a1-0709",
     "lemma": "zählen",
     "article": null,
     "plural": null,
@@ -9942,7 +9985,7 @@
     }
   },
   {
-    "id": "a1-0707",
+    "id": "a1-0710",
     "lemma": "Österreich",
     "article": "das",
     "plural": null,
@@ -9955,7 +9998,7 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0708",
+    "id": "a1-0711",
     "lemma": "über",
     "article": null,
     "plural": null,
