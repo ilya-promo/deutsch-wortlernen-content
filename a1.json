@@ -1080,8 +1080,8 @@
     "plural": "Füße",
     "pos": "noun",
     "translations": [
-      "нога",
-      "ступня"
+      "ступня",
+      "стопа"
     ],
     "example_de": "Mein Fuß ist müde.",
     "example_ru": "Моя нога устала.",
@@ -5071,7 +5071,7 @@
   },
   {
     "id": "a1-0358",
-    "lemma": "Er",
+    "lemma": "er",
     "article": null,
     "plural": null,
     "pos": "other",
@@ -6483,19 +6483,6 @@
     "verb_forms": null
   },
   {
-    "id": "a1-0460",
-    "lemma": "jedem",
-    "article": null,
-    "plural": null,
-    "pos": "other",
-    "translations": [
-      "каждому"
-    ],
-    "example_de": "Ich helfe jedem Kollegen gern.",
-    "example_ru": "Я охотно помогаю каждому коллеге.",
-    "verb_forms": null
-  },
-  {
     "id": "a1-0461",
     "lemma": "jeder",
     "article": null,
@@ -6612,7 +6599,8 @@
     "translations": [
       "карта",
       "открытка",
-      "билет"
+      "билет",
+      "меню"
     ],
     "example_de": "Ich kaufe zwei Karten für das Konzert.",
     "example_ru": "Я покупаю два билета на концерт.",
@@ -7517,8 +7505,8 @@
     "example_ru": "Я хотел бы кофе, пожалуйста.",
     "verb_forms": {
       "praesens": "möchte",
-      "praeteritum": "wollte",
-      "partizip_ii": "gewollt"
+      "praeteritum": "möchte",
+      "partizip_ii": "möchten"
     }
   },
   {
@@ -7598,7 +7586,7 @@
     "pos": "adverb",
     "translations": [
       "после обеда",
-      "по вечерам"
+      "днём"
     ],
     "example_de": "Nachmittags treffe ich mich mit Freunden.",
     "example_ru": "После обеда я встречаюсь с друзьями.",
@@ -8290,11 +8278,12 @@
   {
     "id": "a1-0590",
     "lemma": "Russisch",
-    "article": "das",
+    "article": null,
     "plural": null,
-    "pos": "noun",
+    "pos": "other",
     "translations": [
-      "русский язык"
+      "русский язык",
+      "по-русски"
     ],
     "example_de": "Meine Freundin spricht sehr gut Russisch.",
     "example_ru": "Моя подруга очень хорошо говорит по-русски.",
@@ -8672,11 +8661,12 @@
   {
     "id": "a1-0617",
     "lemma": "Spanisch",
-    "article": "das",
+    "article": null,
     "plural": null,
-    "pos": "noun",
+    "pos": "other",
     "translations": [
-      "испанский язык"
+      "испанский язык",
+      "по-испански"
     ],
     "example_de": "In Mexiko spricht man Spanisch.",
     "example_ru": "В Мексике говорят по-испански.",
@@ -9339,13 +9329,13 @@
   },
   {
     "id": "a1-0664",
-    "lemma": "viele",
+    "lemma": "viel / viele",
     "article": null,
     "plural": null,
     "pos": "other",
     "translations": [
-      "многие",
-      "много"
+      "много",
+      "многие"
     ],
     "example_de": "Viele Menschen besuchen jedes Jahr Berlin.",
     "example_ru": "Многие люди каждый год посещают Берлин.",
@@ -9553,9 +9543,9 @@
   {
     "id": "a1-0679",
     "lemma": "Weihnachten",
-    "article": "das",
+    "article": null,
     "plural": null,
-    "pos": "noun",
+    "pos": "other",
     "translations": [
       "Рождество"
     ],
@@ -9565,7 +9555,7 @@
   },
   {
     "id": "a1-0680",
-    "lemma": "welche",
+    "lemma": "welcher / welche / welches",
     "article": null,
     "plural": null,
     "pos": "other",
@@ -9620,7 +9610,7 @@
   },
   {
     "id": "a1-0684",
-    "lemma": "wichtige",
+    "lemma": "wichtig",
     "article": null,
     "plural": null,
     "pos": "adjective",
@@ -9987,9 +9977,9 @@
   {
     "id": "a1-0710",
     "lemma": "Österreich",
-    "article": "das",
+    "article": null,
     "plural": null,
-    "pos": "noun",
+    "pos": "other",
     "translations": [
       "Австрия"
     ],
@@ -10010,6 +10000,451 @@
     ],
     "example_de": "Das Flugzeug fliegt hoch über den Wolken.",
     "example_ru": "Самолёт летит высоко над облаками.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0712",
+    "lemma": "null",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "ноль"
+    ],
+    "example_de": "Ich habe null Geld dabei.",
+    "example_ru": "У меня с собой ноль денег.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0713",
+    "lemma": "eins",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "один"
+    ],
+    "example_de": "Eins plus eins ist zwei.",
+    "example_ru": "Один плюс один — два.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0714",
+    "lemma": "zwei",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "два"
+    ],
+    "example_de": "Ich habe zwei Kinder.",
+    "example_ru": "У меня двое детей.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0715",
+    "lemma": "drei",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "три"
+    ],
+    "example_de": "Drei Stunden sind genug.",
+    "example_ru": "Три часа достаточно.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0716",
+    "lemma": "vier",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "четыре"
+    ],
+    "example_de": "Die Familie hat vier Mitglieder.",
+    "example_ru": "В семье четыре человека.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0717",
+    "lemma": "fünf",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "пять"
+    ],
+    "example_de": "Die Schule beginnt um fünf.",
+    "example_ru": "Школа начинается в пять.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0718",
+    "lemma": "sechs",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "шесть"
+    ],
+    "example_de": "Er kommt um sechs nach Hause.",
+    "example_ru": "Он приходит домой в шесть.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0719",
+    "lemma": "sieben",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "семь"
+    ],
+    "example_de": "Die Woche hat sieben Tage.",
+    "example_ru": "В неделе семь дней.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0720",
+    "lemma": "acht",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "восемь"
+    ],
+    "example_de": "Ich arbeite acht Stunden am Tag.",
+    "example_ru": "Я работаю восемь часов в день.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0721",
+    "lemma": "neun",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "девять"
+    ],
+    "example_de": "Das Spiel dauert neun Minuten.",
+    "example_ru": "Игра длится девять минут.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0722",
+    "lemma": "zehn",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "десять"
+    ],
+    "example_de": "Ich bin in zehn Minuten zurück.",
+    "example_ru": "Я вернусь через десять минут.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0723",
+    "lemma": "elf",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "одиннадцать"
+    ],
+    "example_de": "Mein Sohn ist elf Jahre alt.",
+    "example_ru": "Моему сыну одиннадцать лет.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0724",
+    "lemma": "zwölf",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "двенадцать"
+    ],
+    "example_de": "Es ist zwölf Uhr mittags.",
+    "example_ru": "Сейчас двенадцать часов дня.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0725",
+    "lemma": "zwanzig",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "двадцать"
+    ],
+    "example_de": "Sie ist zwanzig Jahre alt.",
+    "example_ru": "Ей двадцать лет.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0726",
+    "lemma": "dreißig",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "тридцать"
+    ],
+    "example_de": "Wir warten schon dreißig Minuten.",
+    "example_ru": "Мы уже ждём тридцать минут.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0727",
+    "lemma": "tausend",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "тысяча"
+    ],
+    "example_de": "Das kostet tausend Euro.",
+    "example_ru": "Это стоит тысячу евро.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0728",
+    "lemma": "du",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "ты"
+    ],
+    "example_de": "Du bist mein bester Freund.",
+    "example_ru": "Ты мой лучший друг.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0729",
+    "lemma": "wir",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "мы"
+    ],
+    "example_de": "Wir gehen heute ins Kino.",
+    "example_ru": "Мы сегодня идём в кино.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0730",
+    "lemma": "Sie",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "Вы"
+    ],
+    "example_de": "Wie heißen Sie, bitte?",
+    "example_ru": "Как Вас зовут?",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0731",
+    "lemma": "mein",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "мой"
+    ],
+    "example_de": "Das ist mein Buch.",
+    "example_ru": "Это моя книга.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0732",
+    "lemma": "dein",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "твой"
+    ],
+    "example_de": "Ist das dein Auto?",
+    "example_ru": "Это твоя машина?",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0733",
+    "lemma": "euer",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "ваш"
+    ],
+    "example_de": "Wo ist euer Haus?",
+    "example_ru": "Где ваш дом?",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0734",
+    "lemma": "bitte",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "пожалуйста"
+    ],
+    "example_de": "Einen Kaffee, bitte.",
+    "example_ru": "Кофе, пожалуйста.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0735",
+    "lemma": "danke",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "спасибо"
+    ],
+    "example_de": "Danke für die Hilfe.",
+    "example_ru": "Спасибо за помощь.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0736",
+    "lemma": "vielen Dank",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "большое спасибо"
+    ],
+    "example_de": "Vielen Dank für das Geschenk!",
+    "example_ru": "Большое спасибо за подарок!",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0737",
+    "lemma": "Guten Morgen",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "доброе утро"
+    ],
+    "example_de": "Guten Morgen, wie geht es dir?",
+    "example_ru": "Доброе утро, как у тебя дела?",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0738",
+    "lemma": "Guten Tag",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "добрый день"
+    ],
+    "example_de": "Guten Tag, ich heiße Anna.",
+    "example_ru": "Добрый день, меня зовут Анна.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0739",
+    "lemma": "Guten Abend",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "добрый вечер"
+    ],
+    "example_de": "Guten Abend, kommen Sie herein.",
+    "example_ru": "Добрый вечер, проходите.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0740",
+    "lemma": "Auf Wiedersehen",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "до свидания"
+    ],
+    "example_de": "Auf Wiedersehen und bis morgen!",
+    "example_ru": "До свидания, до завтра!",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0741",
+    "lemma": "Wie bitte?",
+    "article": null,
+    "plural": null,
+    "pos": "other",
+    "translations": [
+      "простите, что?",
+      "что вы сказали?"
+    ],
+    "example_de": "Wie bitte? Ich habe nicht verstanden.",
+    "example_ru": "Простите, что? Я не понял.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0742",
+    "lemma": "Ärztin",
+    "article": "die",
+    "plural": "Ärztinnen",
+    "pos": "noun",
+    "translations": [
+      "врач",
+      "женщина-врач"
+    ],
+    "example_de": "Meine Ärztin ist sehr nett.",
+    "example_ru": "Моя врач очень милая.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0743",
+    "lemma": "Amerikanerin",
+    "article": "die",
+    "plural": "Amerikanerinnen",
+    "pos": "noun",
+    "translations": [
+      "американка"
+    ],
+    "example_de": "Sie ist Amerikanerin aus New York.",
+    "example_ru": "Она американка из Нью-Йорка.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0744",
+    "lemma": "Musikerin",
+    "article": "die",
+    "plural": "Musikerinnen",
+    "pos": "noun",
+    "translations": [
+      "музыкант",
+      "женщина-музыкант"
+    ],
+    "example_de": "Die Musikerin spielt heute Klavier.",
+    "example_ru": "Музыкантша сегодня играет на пианино.",
+    "verb_forms": null
+  },
+  {
+    "id": "a1-0745",
+    "lemma": "Schauspielerin",
+    "article": "die",
+    "plural": "Schauspielerinnen",
+    "pos": "noun",
+    "translations": [
+      "актриса"
+    ],
+    "example_de": "Sie ist eine berühmte Schauspielerin.",
+    "example_ru": "Она известная актриса.",
     "verb_forms": null
   }
 ]
