@@ -2311,7 +2311,9 @@
     "verb_forms": {
       "praesens": "ist",
       "praeteritum": "war",
-      "partizip_ii": "gewesen"
+      "partizip_ii": "gewesen",
+      "example_perfekt_de": "Wir sind gestern hier gewesen.",
+      "example_perfekt_ru": "Мы вчера были здесь."
     }
   },
   {
@@ -2328,7 +2330,9 @@
     "verb_forms": {
       "praesens": "hat",
       "praeteritum": "hatte",
-      "partizip_ii": "gehabt"
+      "partizip_ii": "gehabt",
+      "example_perfekt_de": "Sie hat keine Zeit gehabt.",
+      "example_perfekt_ru": "У неё не было времени."
     }
   },
   {
@@ -2345,7 +2349,9 @@
     "verb_forms": {
       "praesens": "wird",
       "praeteritum": "wurde",
-      "partizip_ii": "geworden"
+      "partizip_ii": "geworden",
+      "example_perfekt_de": "Mein Sohn ist Lehrer geworden.",
+      "example_perfekt_ru": "Мой сын стал учителем."
     }
   },
   {
@@ -2363,7 +2369,9 @@
     "verb_forms": {
       "praesens": "kann",
       "praeteritum": "konnte",
-      "partizip_ii": "gekonnt"
+      "partizip_ii": "gekonnt",
+      "example_perfekt_de": "Ich habe das nicht gekonnt.",
+      "example_perfekt_ru": "Я не смог это сделать."
     }
   },
   {
@@ -2380,7 +2388,9 @@
     "verb_forms": {
       "praesens": "muss",
       "praeteritum": "musste",
-      "partizip_ii": "gemusst"
+      "partizip_ii": "gemusst",
+      "example_perfekt_de": "Du hast das nicht gemusst.",
+      "example_perfekt_ru": "Тебе не нужно было это."
     }
   },
   {
@@ -2397,7 +2407,9 @@
     "verb_forms": {
       "praesens": "will",
       "praeteritum": "wollte",
-      "partizip_ii": "gewollt"
+      "partizip_ii": "gewollt",
+      "example_perfekt_de": "Ich habe es immer gewollt.",
+      "example_perfekt_ru": "Я всегда этого хотел."
     }
   },
   {
@@ -2415,7 +2427,9 @@
     "verb_forms": {
       "praesens": "darf",
       "praeteritum": "durfte",
-      "partizip_ii": "gedurft"
+      "partizip_ii": "gedurft",
+      "example_perfekt_de": "Sie hat es heute gedurft.",
+      "example_perfekt_ru": "Ей это сегодня разрешили."
     }
   },
   {
@@ -2433,7 +2447,9 @@
     "verb_forms": {
       "praesens": "soll",
       "praeteritum": "sollte",
-      "partizip_ii": "gesollt"
+      "partizip_ii": "gesollt",
+      "example_perfekt_de": "Wir haben das nicht gesollt.",
+      "example_perfekt_ru": "Нам не следовало этого делать."
     }
   },
   {
@@ -2451,7 +2467,9 @@
     "verb_forms": {
       "praesens": "mag",
       "praeteritum": "mochte",
-      "partizip_ii": "gemocht"
+      "partizip_ii": "gemocht",
+      "example_perfekt_de": "Er hat es nie gemocht.",
+      "example_perfekt_ru": "Он никогда этого не любил."
     }
   },
   {
@@ -2468,7 +2486,9 @@
     "verb_forms": {
       "praesens": "macht",
       "praeteritum": "machte",
-      "partizip_ii": "gemacht"
+      "partizip_ii": "gemacht",
+      "example_perfekt_de": "Was hast du gestern gemacht?",
+      "example_perfekt_ru": "Что ты вчера делал?"
     }
   },
   {
@@ -2485,7 +2505,9 @@
     "verb_forms": {
       "praesens": "geht",
       "praeteritum": "ging",
-      "partizip_ii": "gegangen"
+      "partizip_ii": "gegangen",
+      "example_perfekt_de": "Wir sind ins Kino gegangen.",
+      "example_perfekt_ru": "Мы сходили в кино."
     }
   },
   {
@@ -2503,7 +2525,9 @@
     "verb_forms": {
       "praesens": "kommt",
       "praeteritum": "kam",
-      "partizip_ii": "gekommen"
+      "partizip_ii": "gekommen",
+      "example_perfekt_de": "Er ist um acht Uhr gekommen.",
+      "example_perfekt_ru": "Он пришёл в восемь часов."
     }
   },
   {
@@ -2521,7 +2545,9 @@
     "verb_forms": {
       "praesens": "sieht",
       "praeteritum": "sah",
-      "partizip_ii": "gesehen"
+      "partizip_ii": "gesehen",
+      "example_perfekt_de": "Hast du den Film gesehen?",
+      "example_perfekt_ru": "Ты посмотрел этот фильм?"
     }
   },
   {
@@ -2539,7 +2565,9 @@
     "verb_forms": {
       "praesens": "hört",
       "praeteritum": "hörte",
-      "partizip_ii": "gehört"
+      "partizip_ii": "gehört",
+      "example_perfekt_de": "Wir haben ein Geräusch gehört.",
+      "example_perfekt_ru": "Мы услышали какой-то шум."
     }
   },
   {
@@ -2556,7 +2584,9 @@
     "verb_forms": {
       "praesens": "spricht",
       "praeteritum": "sprach",
-      "partizip_ii": "gesprochen"
+      "partizip_ii": "gesprochen",
+      "example_perfekt_de": "Sie hat mit dem Chef gesprochen.",
+      "example_perfekt_ru": "Она поговорила с начальником."
     }
   },
   {
@@ -2573,7 +2603,9 @@
     "verb_forms": {
       "praesens": "sagt",
       "praeteritum": "sagte",
-      "partizip_ii": "gesagt"
+      "partizip_ii": "gesagt",
+      "example_perfekt_de": "Er hat die Wahrheit gesagt.",
+      "example_perfekt_ru": "Он сказал правду."
     }
   },
   {
@@ -2590,7 +2622,9 @@
     "verb_forms": {
       "praesens": "liest",
       "praeteritum": "las",
-      "partizip_ii": "gelesen"
+      "partizip_ii": "gelesen",
+      "example_perfekt_de": "Ich habe das Buch schon gelesen.",
+      "example_perfekt_ru": "Я уже прочитал эту книгу."
     }
   },
   {
@@ -2607,7 +2641,9 @@
     "verb_forms": {
       "praesens": "schreibt",
       "praeteritum": "schrieb",
-      "partizip_ii": "geschrieben"
+      "partizip_ii": "geschrieben",
+      "example_perfekt_de": "Sie hat einen langen Brief geschrieben.",
+      "example_perfekt_ru": "Она написала длинное письмо."
     }
   },
   {
@@ -2625,7 +2661,9 @@
     "verb_forms": {
       "praesens": "isst",
       "praeteritum": "aß",
-      "partizip_ii": "gegessen"
+      "partizip_ii": "gegessen",
+      "example_perfekt_de": "Wir haben Pizza gegessen.",
+      "example_perfekt_ru": "Мы поели пиццу."
     }
   },
   {
@@ -2642,7 +2680,9 @@
     "verb_forms": {
       "praesens": "trinkt",
       "praeteritum": "trank",
-      "partizip_ii": "getrunken"
+      "partizip_ii": "getrunken",
+      "example_perfekt_de": "Er hat zwei Bier getrunken.",
+      "example_perfekt_ru": "Он выпил два пива."
     }
   },
   {
@@ -2659,7 +2699,9 @@
     "verb_forms": {
       "praesens": "schläft",
       "praeteritum": "schlief",
-      "partizip_ii": "geschlafen"
+      "partizip_ii": "geschlafen",
+      "example_perfekt_de": "Ich habe acht Stunden geschlafen.",
+      "example_perfekt_ru": "Я проспал восемь часов."
     }
   },
   {
@@ -2676,7 +2718,9 @@
     "verb_forms": {
       "praesens": "arbeitet",
       "praeteritum": "arbeitete",
-      "partizip_ii": "gearbeitet"
+      "partizip_ii": "gearbeitet",
+      "example_perfekt_de": "Sie hat den ganzen Tag gearbeitet.",
+      "example_perfekt_ru": "Она работала весь день."
     }
   },
   {
@@ -2694,7 +2738,9 @@
     "verb_forms": {
       "praesens": "lernt",
       "praeteritum": "lernte",
-      "partizip_ii": "gelernt"
+      "partizip_ii": "gelernt",
+      "example_perfekt_de": "Wir haben viele Wörter gelernt.",
+      "example_perfekt_ru": "Мы выучили много слов."
     }
   },
   {
@@ -2712,7 +2758,9 @@
     "verb_forms": {
       "praesens": "wohnt",
       "praeteritum": "wohnte",
-      "partizip_ii": "gewohnt"
+      "partizip_ii": "gewohnt",
+      "example_perfekt_de": "Früher habe ich in Bonn gewohnt.",
+      "example_perfekt_ru": "Раньше я жил в Бонне."
     }
   },
   {
@@ -2729,7 +2777,9 @@
     "verb_forms": {
       "praesens": "lebt",
       "praeteritum": "lebte",
-      "partizip_ii": "gelebt"
+      "partizip_ii": "gelebt",
+      "example_perfekt_de": "Mein Opa hat in Hamburg gelebt.",
+      "example_perfekt_ru": "Мой дедушка жил в Гамбурге."
     }
   },
   {
@@ -2746,7 +2796,9 @@
     "verb_forms": {
       "praesens": "kauft",
       "praeteritum": "kaufte",
-      "partizip_ii": "gekauft"
+      "partizip_ii": "gekauft",
+      "example_perfekt_de": "Ich habe einen neuen Mantel gekauft.",
+      "example_perfekt_ru": "Я купил новое пальто."
     }
   },
   {
@@ -2763,7 +2815,9 @@
     "verb_forms": {
       "praesens": "verkauft",
       "praeteritum": "verkaufte",
-      "partizip_ii": "verkauft"
+      "partizip_ii": "verkauft",
+      "example_perfekt_de": "Wir haben unser Haus verkauft.",
+      "example_perfekt_ru": "Мы продали наш дом."
     }
   },
   {
@@ -2780,7 +2834,9 @@
     "verb_forms": {
       "praesens": "kostet",
       "praeteritum": "kostete",
-      "partizip_ii": "gekostet"
+      "partizip_ii": "gekostet",
+      "example_perfekt_de": "Das hat fünfzig Euro gekostet.",
+      "example_perfekt_ru": "Это стоило пятьдесят евро."
     }
   },
   {
@@ -2798,7 +2854,9 @@
     "verb_forms": {
       "praesens": "bezahlt",
       "praeteritum": "bezahlte",
-      "partizip_ii": "bezahlt"
+      "partizip_ii": "bezahlt",
+      "example_perfekt_de": "Sie hat die Miete schon bezahlt.",
+      "example_perfekt_ru": "Она уже заплатила за аренду."
     }
   },
   {
@@ -2815,7 +2873,9 @@
     "verb_forms": {
       "praesens": "hilft",
       "praeteritum": "half",
-      "partizip_ii": "geholfen"
+      "partizip_ii": "geholfen",
+      "example_perfekt_de": "Er hat mir sehr geholfen.",
+      "example_perfekt_ru": "Он мне очень помог."
     }
   },
   {
@@ -2832,7 +2892,9 @@
     "verb_forms": {
       "praesens": "fragt",
       "praeteritum": "fragte",
-      "partizip_ii": "gefragt"
+      "partizip_ii": "gefragt",
+      "example_perfekt_de": "Er hat mich nach dem Weg gefragt.",
+      "example_perfekt_ru": "Он спросил у меня дорогу."
     }
   },
   {
@@ -2849,7 +2911,9 @@
     "verb_forms": {
       "praesens": "antwortet",
       "praeteritum": "antwortete",
-      "partizip_ii": "geantwortet"
+      "partizip_ii": "geantwortet",
+      "example_perfekt_de": "Sie hat mir schnell geantwortet.",
+      "example_perfekt_ru": "Она быстро мне ответила."
     }
   },
   {
@@ -2866,7 +2930,9 @@
     "verb_forms": {
       "praesens": "denkt",
       "praeteritum": "dachte",
-      "partizip_ii": "gedacht"
+      "partizip_ii": "gedacht",
+      "example_perfekt_de": "Ich habe oft an dich gedacht.",
+      "example_perfekt_ru": "Я часто думал о тебе."
     }
   },
   {
@@ -2884,7 +2950,9 @@
     "verb_forms": {
       "praesens": "findet",
       "praeteritum": "fand",
-      "partizip_ii": "gefunden"
+      "partizip_ii": "gefunden",
+      "example_perfekt_de": "Wir haben den Schlüssel gefunden.",
+      "example_perfekt_ru": "Мы нашли ключ."
     }
   },
   {
@@ -2901,7 +2969,9 @@
     "verb_forms": {
       "praesens": "sucht",
       "praeteritum": "suchte",
-      "partizip_ii": "gesucht"
+      "partizip_ii": "gesucht",
+      "example_perfekt_de": "Ich habe dich überall gesucht.",
+      "example_perfekt_ru": "Я искал тебя везде."
     }
   },
   {
@@ -2918,7 +2988,9 @@
     "verb_forms": {
       "praesens": "gibt",
       "praeteritum": "gab",
-      "partizip_ii": "gegeben"
+      "partizip_ii": "gegeben",
+      "example_perfekt_de": "Sie hat mir das Buch gegeben.",
+      "example_perfekt_ru": "Она дала мне книгу."
     }
   },
   {
@@ -2935,7 +3007,9 @@
     "verb_forms": {
       "praesens": "nimmt",
       "praeteritum": "nahm",
-      "partizip_ii": "genommen"
+      "partizip_ii": "genommen",
+      "example_perfekt_de": "Wir haben den Zug genommen.",
+      "example_perfekt_ru": "Мы сели на поезд."
     }
   },
   {
@@ -2952,7 +3026,9 @@
     "verb_forms": {
       "praesens": "bringt",
       "praeteritum": "brachte",
-      "partizip_ii": "gebracht"
+      "partizip_ii": "gebracht",
+      "example_perfekt_de": "Er hat mir Blumen gebracht.",
+      "example_perfekt_ru": "Он принёс мне цветы."
     }
   },
   {
@@ -2970,7 +3046,9 @@
     "verb_forms": {
       "praesens": "holt",
       "praeteritum": "holte",
-      "partizip_ii": "geholt"
+      "partizip_ii": "geholt",
+      "example_perfekt_de": "Ich habe das Brot geholt.",
+      "example_perfekt_ru": "Я сходил за хлебом."
     }
   },
   {
@@ -2988,7 +3066,9 @@
     "verb_forms": {
       "praesens": "fährt",
       "praeteritum": "fuhr",
-      "partizip_ii": "gefahren"
+      "partizip_ii": "gefahren",
+      "example_perfekt_de": "Wir sind nach Berlin gefahren.",
+      "example_perfekt_ru": "Мы поехали в Берлин."
     }
   },
   {
@@ -3006,7 +3086,9 @@
     "verb_forms": {
       "praesens": "läuft",
       "praeteritum": "lief",
-      "partizip_ii": "gelaufen"
+      "partizip_ii": "gelaufen",
+      "example_perfekt_de": "Er ist nach Hause gelaufen.",
+      "example_perfekt_ru": "Он побежал домой."
     }
   },
   {
@@ -3023,7 +3105,9 @@
     "verb_forms": {
       "praesens": "bleibt",
       "praeteritum": "blieb",
-      "partizip_ii": "geblieben"
+      "partizip_ii": "geblieben",
+      "example_perfekt_de": "Ich bin gestern zu Hause geblieben.",
+      "example_perfekt_ru": "Я вчера остался дома."
     }
   },
   {
@@ -3040,7 +3124,9 @@
     "verb_forms": {
       "praesens": "wartet",
       "praeteritum": "wartete",
-      "partizip_ii": "gewartet"
+      "partizip_ii": "gewartet",
+      "example_perfekt_de": "Wir haben eine Stunde gewartet.",
+      "example_perfekt_ru": "Мы прождали час."
     }
   },
   {
@@ -3057,7 +3143,9 @@
     "verb_forms": {
       "praesens": "ruft an",
       "praeteritum": "rief an",
-      "partizip_ii": "angerufen"
+      "partizip_ii": "angerufen",
+      "example_perfekt_de": "Sie hat ihre Mutter angerufen.",
+      "example_perfekt_ru": "Она позвонила маме."
     }
   },
   {
@@ -3075,7 +3163,9 @@
     "verb_forms": {
       "praesens": "trifft",
       "praeteritum": "traf",
-      "partizip_ii": "getroffen"
+      "partizip_ii": "getroffen",
+      "example_perfekt_de": "Wir haben uns im Park getroffen.",
+      "example_perfekt_ru": "Мы встретились в парке."
     }
   },
   {
@@ -3092,7 +3182,9 @@
     "verb_forms": {
       "praesens": "liebt",
       "praeteritum": "liebte",
-      "partizip_ii": "geliebt"
+      "partizip_ii": "geliebt",
+      "example_perfekt_de": "Er hat seine Frau immer geliebt.",
+      "example_perfekt_ru": "Он всегда любил свою жену."
     }
   },
   {
@@ -3110,7 +3202,9 @@
     "verb_forms": {
       "praesens": "braucht",
       "praeteritum": "brauchte",
-      "partizip_ii": "gebraucht"
+      "partizip_ii": "gebraucht",
+      "example_perfekt_de": "Ich habe deine Hilfe gebraucht.",
+      "example_perfekt_ru": "Мне нужна была твоя помощь."
     }
   },
   {
@@ -3128,7 +3222,9 @@
     "verb_forms": {
       "praesens": "kennt",
       "praeteritum": "kannte",
-      "partizip_ii": "gekannt"
+      "partizip_ii": "gekannt",
+      "example_perfekt_de": "Wir haben ihn schon lange gekannt.",
+      "example_perfekt_ru": "Мы давно его знали."
     }
   },
   {
@@ -3145,7 +3241,9 @@
     "verb_forms": {
       "praesens": "weiß",
       "praeteritum": "wusste",
-      "partizip_ii": "gewusst"
+      "partizip_ii": "gewusst",
+      "example_perfekt_de": "Das habe ich nicht gewusst.",
+      "example_perfekt_ru": "Я этого не знал."
     }
   },
   {
@@ -3162,7 +3260,9 @@
     "verb_forms": {
       "praesens": "versteht",
       "praeteritum": "verstand",
-      "partizip_ii": "verstanden"
+      "partizip_ii": "verstanden",
+      "example_perfekt_de": "Hast du die Frage verstanden?",
+      "example_perfekt_ru": "Ты понял вопрос?"
     }
   },
   {
@@ -3179,7 +3279,9 @@
     "verb_forms": {
       "praesens": "spielt",
       "praeteritum": "spielte",
-      "partizip_ii": "gespielt"
+      "partizip_ii": "gespielt",
+      "example_perfekt_de": "Die Kinder haben im Garten gespielt.",
+      "example_perfekt_ru": "Дети играли в саду."
     }
   },
   {
@@ -3197,7 +3299,9 @@
     "verb_forms": {
       "praesens": "kocht",
       "praeteritum": "kochte",
-      "partizip_ii": "gekocht"
+      "partizip_ii": "gekocht",
+      "example_perfekt_de": "Mama hat eine Suppe gekocht.",
+      "example_perfekt_ru": "Мама сварила суп."
     }
   },
   {
@@ -3215,7 +3319,9 @@
     "verb_forms": {
       "praesens": "wäscht",
       "praeteritum": "wusch",
-      "partizip_ii": "gewaschen"
+      "partizip_ii": "gewaschen",
+      "example_perfekt_de": "Ich habe die Wäsche gewaschen.",
+      "example_perfekt_ru": "Я постирал бельё."
     }
   },
   {
@@ -3232,7 +3338,9 @@
     "verb_forms": {
       "praesens": "steht auf",
       "praeteritum": "stand auf",
-      "partizip_ii": "aufgestanden"
+      "partizip_ii": "aufgestanden",
+      "example_perfekt_de": "Heute bin ich sehr früh aufgestanden.",
+      "example_perfekt_ru": "Сегодня я встал очень рано."
     }
   },
   {
@@ -3249,7 +3357,9 @@
     "verb_forms": {
       "praesens": "kauft ein",
       "praeteritum": "kaufte ein",
-      "partizip_ii": "eingekauft"
+      "partizip_ii": "eingekauft",
+      "example_perfekt_de": "Wir haben im Supermarkt eingekauft.",
+      "example_perfekt_ru": "Мы сделали покупки в супермаркете."
     }
   },
   {
@@ -3266,7 +3376,9 @@
     "verb_forms": {
       "praesens": "kommt mit",
       "praeteritum": "kam mit",
-      "partizip_ii": "mitgekommen"
+      "partizip_ii": "mitgekommen",
+      "example_perfekt_de": "Er ist gestern mitgekommen.",
+      "example_perfekt_ru": "Он вчера пошёл с нами."
     }
   },
   {
@@ -3283,7 +3395,9 @@
     "verb_forms": {
       "praesens": "fängt an",
       "praeteritum": "fing an",
-      "partizip_ii": "angefangen"
+      "partizip_ii": "angefangen",
+      "example_perfekt_de": "Der Film hat schon angefangen.",
+      "example_perfekt_ru": "Фильм уже начался."
     }
   },
   {
@@ -3300,7 +3414,9 @@
     "verb_forms": {
       "praesens": "öffnet",
       "praeteritum": "öffnete",
-      "partizip_ii": "geöffnet"
+      "partizip_ii": "geöffnet",
+      "example_perfekt_de": "Ich habe das Fenster geöffnet.",
+      "example_perfekt_ru": "Я открыл окно."
     }
   },
   {
@@ -3317,7 +3433,9 @@
     "verb_forms": {
       "praesens": "schließt",
       "praeteritum": "schloss",
-      "partizip_ii": "geschlossen"
+      "partizip_ii": "geschlossen",
+      "example_perfekt_de": "Er hat die Tür leise geschlossen.",
+      "example_perfekt_ru": "Он тихо закрыл дверь."
     }
   },
   {
@@ -3335,7 +3453,9 @@
     "verb_forms": {
       "praesens": "heißt",
       "praeteritum": "hieß",
-      "partizip_ii": "geheißen"
+      "partizip_ii": "geheißen",
+      "example_perfekt_de": "Sie hat schon immer Anna geheißen.",
+      "example_perfekt_ru": "Её всегда звали Анна."
     }
   },
   {
@@ -3352,7 +3472,9 @@
     "verb_forms": {
       "praesens": "reist",
       "praeteritum": "reiste",
-      "partizip_ii": "gereist"
+      "partizip_ii": "gereist",
+      "example_perfekt_de": "Im Sommer sind wir durch Italien gereist.",
+      "example_perfekt_ru": "Летом мы путешествовали по Италии."
     }
   },
   {
@@ -3370,7 +3492,9 @@
     "verb_forms": {
       "praesens": "besucht",
       "praeteritum": "besuchte",
-      "partizip_ii": "besucht"
+      "partizip_ii": "besucht",
+      "example_perfekt_de": "Wir haben am Wochenende die Oma besucht.",
+      "example_perfekt_ru": "На выходных мы навестили бабушку."
     }
   },
   {
@@ -3388,7 +3512,9 @@
     "verb_forms": {
       "praesens": "glaubt",
       "praeteritum": "glaubte",
-      "partizip_ii": "geglaubt"
+      "partizip_ii": "geglaubt",
+      "example_perfekt_de": "Ich habe seinem Versprechen geglaubt.",
+      "example_perfekt_ru": "Я поверил его обещанию."
     }
   },
   {
@@ -3405,7 +3531,9 @@
     "verb_forms": {
       "praesens": "feiert",
       "praeteritum": "feierte",
-      "partizip_ii": "gefeiert"
+      "partizip_ii": "gefeiert",
+      "example_perfekt_de": "Wir haben den Geburtstag groß gefeiert.",
+      "example_perfekt_ru": "Мы устроили большой день рождения."
     }
   },
   {
@@ -3422,7 +3550,9 @@
     "verb_forms": {
       "praesens": "zeigt",
       "praeteritum": "zeigte",
-      "partizip_ii": "gezeigt"
+      "partizip_ii": "gezeigt",
+      "example_perfekt_de": "Er hat mir seine neuen Fotos gezeigt.",
+      "example_perfekt_ru": "Он показал мне свои новые фотографии."
     }
   },
   {
@@ -3439,7 +3569,9 @@
     "verb_forms": {
       "praesens": "erklärt",
       "praeteritum": "erklärte",
-      "partizip_ii": "erklärt"
+      "partizip_ii": "erklärt",
+      "example_perfekt_de": "Der Lehrer hat die Aufgabe gut erklärt.",
+      "example_perfekt_ru": "Учитель хорошо объяснил задание."
     }
   },
   {
@@ -3456,7 +3588,9 @@
     "verb_forms": {
       "praesens": "vergisst",
       "praeteritum": "vergaß",
-      "partizip_ii": "vergessen"
+      "partizip_ii": "vergessen",
+      "example_perfekt_de": "Ich habe deinen Namen vergessen.",
+      "example_perfekt_ru": "Я забыл твоё имя."
     }
   },
   {
@@ -3473,7 +3607,9 @@
     "verb_forms": {
       "praesens": "bekommt",
       "praeteritum": "bekam",
-      "partizip_ii": "bekommen"
+      "partizip_ii": "bekommen",
+      "example_perfekt_de": "Sie hat einen Brief aus Spanien bekommen.",
+      "example_perfekt_ru": "Она получила письмо из Испании."
     }
   },
   {
@@ -3491,7 +3627,9 @@
     "verb_forms": {
       "praesens": "beginnt",
       "praeteritum": "begann",
-      "partizip_ii": "begonnen"
+      "partizip_ii": "begonnen",
+      "example_perfekt_de": "Der Unterricht hat pünktlich begonnen.",
+      "example_perfekt_ru": "Урок начался вовремя."
     }
   },
   {
@@ -3509,7 +3647,9 @@
     "verb_forms": {
       "praesens": "endet",
       "praeteritum": "endete",
-      "partizip_ii": "geendet"
+      "partizip_ii": "geendet",
+      "example_perfekt_de": "Das Konzert hat um Mitternacht geendet.",
+      "example_perfekt_ru": "Концерт закончился в полночь."
     }
   },
   {
@@ -4375,7 +4515,9 @@
     "verb_forms": {
       "praesens": "meldet an",
       "praeteritum": "meldete an",
-      "partizip_ii": "angemeldet"
+      "partizip_ii": "angemeldet",
+      "example_perfekt_de": "Wir haben unseren Sohn im Kurs angemeldet.",
+      "example_perfekt_ru": "Мы записали сына на курс."
     }
   },
   {
@@ -4407,7 +4549,9 @@
     "verb_forms": {
       "praesens": "zieht an",
       "praeteritum": "zog an",
-      "partizip_ii": "angezogen"
+      "partizip_ii": "angezogen",
+      "example_perfekt_de": "Er hat sich schnell angezogen.",
+      "example_perfekt_ru": "Он быстро оделся."
     }
   },
   {
@@ -4438,7 +4582,9 @@
     "verb_forms": {
       "praesens": "wacht auf",
       "praeteritum": "wachte auf",
-      "partizip_ii": "aufgewacht"
+      "partizip_ii": "aufgewacht",
+      "example_perfekt_de": "Ich bin heute spät aufgewacht.",
+      "example_perfekt_ru": "Я сегодня поздно проснулся."
     }
   },
   {
@@ -4456,7 +4602,9 @@
     "verb_forms": {
       "praesens": "sieht aus",
       "praeteritum": "sah aus",
-      "partizip_ii": "ausgesehen"
+      "partizip_ii": "ausgesehen",
+      "example_perfekt_de": "Gestern hast du müde ausgesehen.",
+      "example_perfekt_ru": "Вчера ты выглядел уставшим."
     }
   },
   {
@@ -4474,7 +4622,9 @@
     "verb_forms": {
       "praesens": "badet",
       "praeteritum": "badete",
-      "partizip_ii": "gebadet"
+      "partizip_ii": "gebadet",
+      "example_perfekt_de": "Die Kinder haben im See gebadet.",
+      "example_perfekt_ru": "Дети купались в озере."
     }
   },
   {
@@ -4626,7 +4776,9 @@
     "verb_forms": {
       "praesens": "dankt",
       "praeteritum": "dankte",
-      "partizip_ii": "gedankt"
+      "partizip_ii": "gedankt",
+      "example_perfekt_de": "Ich habe dir herzlich gedankt.",
+      "example_perfekt_ru": "Я тебя сердечно поблагодарил."
     }
   },
   {
@@ -4687,7 +4839,9 @@
     "verb_forms": {
       "praesens": "dauert",
       "praeteritum": "dauerte",
-      "partizip_ii": "gedauert"
+      "partizip_ii": "gedauert",
+      "example_perfekt_de": "Die Reise hat drei Stunden gedauert.",
+      "example_perfekt_ru": "Поездка длилась три часа."
     }
   },
   {
@@ -4979,7 +5133,9 @@
     "verb_forms": {
       "praesens": "lädt ein",
       "praeteritum": "lud ein",
-      "partizip_ii": "eingeladen"
+      "partizip_ii": "eingeladen",
+      "example_perfekt_de": "Sie hat uns zu einer Party eingeladen.",
+      "example_perfekt_ru": "Она пригласила нас на вечеринку."
     }
   },
   {
@@ -5052,7 +5208,9 @@
     "verb_forms": {
       "praesens": "entschuldigt",
       "praeteritum": "entschuldigte",
-      "partizip_ii": "entschuldigt"
+      "partizip_ii": "entschuldigt",
+      "example_perfekt_de": "Er hat sich für die Verspätung entschuldigt.",
+      "example_perfekt_ru": "Он извинился за опоздание."
     }
   },
   {
@@ -5124,7 +5282,9 @@
     "verb_forms": {
       "praesens": "erzählt",
       "praeteritum": "erzählte",
-      "partizip_ii": "erzählt"
+      "partizip_ii": "erzählt",
+      "example_perfekt_de": "Oma hat uns eine alte Geschichte erzählt.",
+      "example_perfekt_ru": "Бабушка рассказала нам старую историю."
     }
   },
   {
@@ -5277,7 +5437,9 @@
     "verb_forms": {
       "praesens": "fehlt",
       "praeteritum": "fehlte",
-      "partizip_ii": "gefehlt"
+      "partizip_ii": "gefehlt",
+      "example_perfekt_de": "Du hast mir wirklich gefehlt.",
+      "example_perfekt_ru": "Мне тебя очень не хватало."
     }
   },
   {
@@ -5390,7 +5552,9 @@
     "verb_forms": {
       "praesens": "fliegt",
       "praeteritum": "flog",
-      "partizip_ii": "geflogen"
+      "partizip_ii": "geflogen",
+      "example_perfekt_de": "Wir sind nach Hamburg geflogen.",
+      "example_perfekt_ru": "Мы полетели в Гамбург."
     }
   },
   {
@@ -5434,7 +5598,9 @@
     "verb_forms": {
       "praesens": "fotografiert",
       "praeteritum": "fotografierte",
-      "partizip_ii": "fotografiert"
+      "partizip_ii": "fotografiert",
+      "example_perfekt_de": "Sie hat viele Blumen fotografiert.",
+      "example_perfekt_ru": "Она сфотографировала много цветов."
     }
   },
   {
@@ -5505,7 +5671,9 @@
     "verb_forms": {
       "praesens": "freut",
       "praeteritum": "freute",
-      "partizip_ii": "gefreut"
+      "partizip_ii": "gefreut",
+      "example_perfekt_de": "Ich habe mich über das Geschenk gefreut.",
+      "example_perfekt_ru": "Я обрадовался подарку."
     }
   },
   {
@@ -5590,7 +5758,9 @@
     "verb_forms": {
       "praesens": "frühstückt",
       "praeteritum": "frühstückte",
-      "partizip_ii": "gefrühstückt"
+      "partizip_ii": "gefrühstückt",
+      "example_perfekt_de": "Wir haben heute spät gefrühstückt.",
+      "example_perfekt_ru": "Мы сегодня поздно позавтракали."
     }
   },
   {
@@ -5715,7 +5885,9 @@
     "verb_forms": {
       "praesens": "gefällt",
       "praeteritum": "gefiel",
-      "partizip_ii": "gefallen"
+      "partizip_ii": "gefallen",
+      "example_perfekt_de": "Der Film hat mir gut gefallen.",
+      "example_perfekt_ru": "Фильм мне понравился."
     }
   },
   {
@@ -5746,7 +5918,9 @@
     "verb_forms": {
       "praesens": "gehört",
       "praeteritum": "gehörte",
-      "partizip_ii": "gehört"
+      "partizip_ii": "gehört",
+      "example_perfekt_de": "Dieses Auto hat meinem Vater gehört.",
+      "example_perfekt_ru": "Эта машина принадлежала моему отцу."
     }
   },
   {
@@ -6183,7 +6357,9 @@
     "verb_forms": {
       "praesens": "heiratet",
       "praeteritum": "heiratete",
-      "partizip_ii": "geheiratet"
+      "partizip_ii": "geheiratet",
+      "example_perfekt_de": "Sie haben letzten Sommer geheiratet.",
+      "example_perfekt_ru": "Они поженились прошлым летом."
     }
   },
   {
@@ -6900,7 +7076,9 @@
     "verb_forms": {
       "praesens": "lacht",
       "praeteritum": "lachte",
-      "partizip_ii": "gelacht"
+      "partizip_ii": "gelacht",
+      "example_perfekt_de": "Wir haben über seinen Witz gelacht.",
+      "example_perfekt_ru": "Мы смеялись над его шуткой."
     }
   },
   {
@@ -6986,7 +7164,9 @@
     "verb_forms": {
       "praesens": "legt",
       "praeteritum": "legte",
-      "partizip_ii": "gelegt"
+      "partizip_ii": "gelegt",
+      "example_perfekt_de": "Er hat das Buch auf den Tisch gelegt.",
+      "example_perfekt_ru": "Он положил книгу на стол."
     }
   },
   {
@@ -7167,7 +7347,9 @@
     "verb_forms": {
       "praesens": "malt",
       "praeteritum": "malte",
-      "partizip_ii": "gemalt"
+      "partizip_ii": "gemalt",
+      "example_perfekt_de": "Das Kind hat ein schönes Bild gemalt.",
+      "example_perfekt_ru": "Ребёнок нарисовал красивую картину."
     }
   },
   {
@@ -7253,7 +7435,9 @@
     "verb_forms": {
       "praesens": "meint",
       "praeteritum": "meinte",
-      "partizip_ii": "gemeint"
+      "partizip_ii": "gemeint",
+      "example_perfekt_de": "Was hast du damit gemeint?",
+      "example_perfekt_ru": "Что ты этим хотел сказать?"
     }
   },
   {
@@ -7364,7 +7548,9 @@
     "verb_forms": {
       "praesens": "bringt mit",
       "praeteritum": "brachte mit",
-      "partizip_ii": "mitgebracht"
+      "partizip_ii": "mitgebracht",
+      "example_perfekt_de": "Sie hat einen Kuchen mitgebracht.",
+      "example_perfekt_ru": "Она принесла с собой пирог."
     }
   },
   {
@@ -7382,7 +7568,9 @@
     "verb_forms": {
       "praesens": "nimmt mit",
       "praeteritum": "nahm mit",
-      "partizip_ii": "mitgenommen"
+      "partizip_ii": "mitgenommen",
+      "example_perfekt_de": "Ich habe meinen Regenschirm mitgenommen.",
+      "example_perfekt_ru": "Я взял с собой зонт."
     }
   },
   {
@@ -7646,7 +7834,9 @@
     "verb_forms": {
       "praesens": "nennt",
       "praeteritum": "nannte",
-      "partizip_ii": "genannt"
+      "partizip_ii": "genannt",
+      "example_perfekt_de": "Sie haben das Baby Anna genannt.",
+      "example_perfekt_ru": "Они назвали ребёнка Анной."
     }
   },
   {
@@ -7930,7 +8120,9 @@
     "verb_forms": {
       "praesens": "parkt",
       "praeteritum": "parkte",
-      "partizip_ii": "geparkt"
+      "partizip_ii": "geparkt",
+      "example_perfekt_de": "Er hat das Auto vor dem Haus geparkt.",
+      "example_perfekt_ru": "Он припарковал машину перед домом."
     }
   },
   {
@@ -7988,7 +8180,9 @@
     "verb_forms": {
       "praesens": "passt",
       "praeteritum": "passte",
-      "partizip_ii": "gepasst"
+      "partizip_ii": "gepasst",
+      "example_perfekt_de": "Die Schuhe haben mir nicht gepasst.",
+      "example_perfekt_ru": "Туфли мне не подошли."
     }
   },
   {
@@ -8200,7 +8394,9 @@
     "verb_forms": {
       "praesens": "regnet",
       "praeteritum": "regnete",
-      "partizip_ii": "geregnet"
+      "partizip_ii": "geregnet",
+      "example_perfekt_de": "Es hat die ganze Nacht geregnet.",
+      "example_perfekt_ru": "Дождь шёл всю ночь."
     }
   },
   {
@@ -8272,7 +8468,9 @@
     "verb_forms": {
       "praesens": "ruft",
       "praeteritum": "rief",
-      "partizip_ii": "gerufen"
+      "partizip_ii": "gerufen",
+      "example_perfekt_de": "Sie hat sofort einen Arzt gerufen.",
+      "example_perfekt_ru": "Она сразу вызвала врача."
     }
   },
   {
@@ -8373,7 +8571,9 @@
     "verb_forms": {
       "praesens": "schaut",
       "praeteritum": "schaute",
-      "partizip_ii": "geschaut"
+      "partizip_ii": "geschaut",
+      "example_perfekt_de": "Wir haben gestern einen Film geschaut.",
+      "example_perfekt_ru": "Мы вчера посмотрели фильм."
     }
   },
   {
@@ -8404,7 +8604,9 @@
     "verb_forms": {
       "praesens": "schickt",
       "praeteritum": "schickte",
-      "partizip_ii": "geschickt"
+      "partizip_ii": "geschickt",
+      "example_perfekt_de": "Ich habe dir eine Karte geschickt.",
+      "example_perfekt_ru": "Я отправил тебе открытку."
     }
   },
   {
@@ -8489,7 +8691,9 @@
     "verb_forms": {
       "praesens": "schwimmt",
       "praeteritum": "schwamm",
-      "partizip_ii": "geschwommen"
+      "partizip_ii": "geschwommen",
+      "example_perfekt_de": "Wir sind im Meer geschwommen.",
+      "example_perfekt_ru": "Мы плавали в море."
     }
   },
   {
@@ -8588,7 +8792,9 @@
     "verb_forms": {
       "praesens": "sitzt",
       "praeteritum": "saß",
-      "partizip_ii": "gesessen"
+      "partizip_ii": "gesessen",
+      "example_perfekt_de": "Er hat lange am Fenster gesessen.",
+      "example_perfekt_ru": "Он долго сидел у окна."
     }
   },
   {
@@ -8755,7 +8961,9 @@
     "verb_forms": {
       "praesens": "stellt",
       "praeteritum": "stellte",
-      "partizip_ii": "gestellt"
+      "partizip_ii": "gestellt",
+      "example_perfekt_de": "Sie hat die Vase auf den Tisch gestellt.",
+      "example_perfekt_ru": "Она поставила вазу на стол."
     }
   },
   {
@@ -8773,7 +8981,9 @@
     "verb_forms": {
       "praesens": "stimmt",
       "praeteritum": "stimmte",
-      "partizip_ii": "gestimmt"
+      "partizip_ii": "gestimmt",
+      "example_perfekt_de": "Deine Antwort hat gestimmt.",
+      "example_perfekt_ru": "Твой ответ был верным."
     }
   },
   {
@@ -8830,7 +9040,9 @@
     "verb_forms": {
       "praesens": "studiert",
       "praeteritum": "studierte",
-      "partizip_ii": "studiert"
+      "partizip_ii": "studiert",
+      "example_perfekt_de": "Er hat in Berlin Physik studiert.",
+      "example_perfekt_ru": "Он изучал физику в Берлине."
     }
   },
   {
@@ -8929,7 +9141,9 @@
     "verb_forms": {
       "praesens": "tanzt",
       "praeteritum": "tanzte",
-      "partizip_ii": "getanzt"
+      "partizip_ii": "getanzt",
+      "example_perfekt_de": "Wir haben die ganze Nacht getanzt.",
+      "example_perfekt_ru": "Мы танцевали всю ночь."
     }
   },
   {
@@ -8973,7 +9187,9 @@
     "verb_forms": {
       "praesens": "telefoniert",
       "praeteritum": "telefonierte",
-      "partizip_ii": "telefoniert"
+      "partizip_ii": "telefoniert",
+      "example_perfekt_de": "Ich habe gestern mit ihr telefoniert.",
+      "example_perfekt_ru": "Я вчера говорил с ней по телефону."
     }
   },
   {
@@ -9084,7 +9300,9 @@
     "verb_forms": {
       "praesens": "trägt",
       "praeteritum": "trug",
-      "partizip_ii": "getragen"
+      "partizip_ii": "getragen",
+      "example_perfekt_de": "Er hat einen schwarzen Anzug getragen.",
+      "example_perfekt_ru": "Он был одет в чёрный костюм."
     }
   },
   {
@@ -9198,7 +9416,9 @@
     "verb_forms": {
       "praesens": "steigt um",
       "praeteritum": "stieg um",
-      "partizip_ii": "umgestiegen"
+      "partizip_ii": "umgestiegen",
+      "example_perfekt_de": "Wir sind am Bahnhof umgestiegen.",
+      "example_perfekt_ru": "Мы сделали пересадку на вокзале."
     }
   },
   {
@@ -9216,7 +9436,9 @@
     "verb_forms": {
       "praesens": "zieht um",
       "praeteritum": "zog um",
-      "partizip_ii": "umgezogen"
+      "partizip_ii": "umgezogen",
+      "example_perfekt_de": "Letztes Jahr sind wir nach Köln umgezogen.",
+      "example_perfekt_ru": "В прошлом году мы переехали в Кёльн."
     }
   },
   {
@@ -9453,7 +9675,9 @@
     "verb_forms": {
       "praesens": "wandert",
       "praeteritum": "wanderte",
-      "partizip_ii": "gewandert"
+      "partizip_ii": "gewandert",
+      "example_perfekt_de": "Am Sonntag sind wir in den Bergen gewandert.",
+      "example_perfekt_ru": "В воскресенье мы ходили в поход в горы."
     }
   },
   {
@@ -9537,7 +9761,9 @@
     "verb_forms": {
       "praesens": "tut weh",
       "praeteritum": "tat weh",
-      "partizip_ii": "wehgetan"
+      "partizip_ii": "wehgetan",
+      "example_perfekt_de": "Mein Knie hat mir gestern wehgetan.",
+      "example_perfekt_ru": "У меня вчера болело колено."
     }
   },
   {
@@ -9769,7 +9995,9 @@
     "verb_forms": {
       "praesens": "wählt",
       "praeteritum": "wählte",
-      "partizip_ii": "gewählt"
+      "partizip_ii": "gewählt",
+      "example_perfekt_de": "Sie hat ein rotes Kleid gewählt.",
+      "example_perfekt_ru": "Она выбрала красное платье."
     }
   },
   {
@@ -9799,7 +10027,9 @@
     "verb_forms": {
       "praesens": "wünscht",
       "praeteritum": "wünschte",
-      "partizip_ii": "gewünscht"
+      "partizip_ii": "gewünscht",
+      "example_perfekt_de": "Wir haben dir einen guten Tag gewünscht.",
+      "example_perfekt_ru": "Мы пожелали тебе хорошего дня."
     }
   },
   {
@@ -9911,7 +10141,9 @@
     "verb_forms": {
       "praesens": "macht zu",
       "praeteritum": "machte zu",
-      "partizip_ii": "zugemacht"
+      "partizip_ii": "zugemacht",
+      "example_perfekt_de": "Ich habe das Fenster zugemacht.",
+      "example_perfekt_ru": "Я закрыл окно."
     }
   },
   {
@@ -9928,7 +10160,9 @@
     "verb_forms": {
       "praesens": "kommt zurück",
       "praeteritum": "kam zurück",
-      "partizip_ii": "zurückgekommen"
+      "partizip_ii": "zurückgekommen",
+      "example_perfekt_de": "Mein Vater ist gestern aus Paris zurückgekommen.",
+      "example_perfekt_ru": "Мой папа вчера вернулся из Парижа."
     }
   },
   {
@@ -9971,7 +10205,9 @@
     "verb_forms": {
       "praesens": "zählt",
       "praeteritum": "zählte",
-      "partizip_ii": "gezählt"
+      "partizip_ii": "gezählt",
+      "example_perfekt_de": "Mein Sohn hat bis hundert gezählt.",
+      "example_perfekt_ru": "Мой сын досчитал до ста."
     }
   },
   {

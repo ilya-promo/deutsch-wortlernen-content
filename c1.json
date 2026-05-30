@@ -7639,7 +7639,9 @@
     "verb_forms": {
       "praesens": "erörtert",
       "praeteritum": "erörterte",
-      "partizip_ii": "erörtert"
+      "partizip_ii": "erörtert",
+      "example_perfekt_de": "Wir haben die Frage in der Sitzung erörtert.",
+      "example_perfekt_ru": "Мы обсудили вопрос на заседании."
     }
   },
   {
@@ -7657,7 +7659,9 @@
     "verb_forms": {
       "praesens": "hinterfragt",
       "praeteritum": "hinterfragte",
-      "partizip_ii": "hinterfragt"
+      "partizip_ii": "hinterfragt",
+      "example_perfekt_de": "Sie hat die gängigen Annahmen kritisch hinterfragt.",
+      "example_perfekt_ru": "Она критически переосмыслила общепринятые предположения."
     }
   },
   {
@@ -7676,7 +7680,9 @@
     "verb_forms": {
       "praesens": "räumt ein",
       "praeteritum": "räumte ein",
-      "partizip_ii": "eingeräumt"
+      "partizip_ii": "eingeräumt",
+      "example_perfekt_de": "Der Minister hat eigene Fehler öffentlich eingeräumt.",
+      "example_perfekt_ru": "Министр публично признал свои ошибки."
     }
   },
   {
@@ -7695,7 +7701,9 @@
     "verb_forms": {
       "praesens": "entgegnet",
       "praeteritum": "entgegnete",
-      "partizip_ii": "entgegnet"
+      "partizip_ii": "entgegnet",
+      "example_perfekt_de": "Sie hat ihm mit ruhiger Stimme entgegnet.",
+      "example_perfekt_ru": "Она спокойно ему возразила."
     }
   },
   {
@@ -7713,7 +7721,9 @@
     "verb_forms": {
       "praesens": "entkräftet",
       "praeteritum": "entkräftete",
-      "partizip_ii": "entkräftet"
+      "partizip_ii": "entkräftet",
+      "example_perfekt_de": "Er hat die Vorwürfe mit klaren Belegen entkräftet.",
+      "example_perfekt_ru": "Он опроверг обвинения чёткими доказательствами."
     }
   },
   {
@@ -7731,7 +7741,9 @@
     "verb_forms": {
       "praesens": "widerlegt",
       "praeteritum": "widerlegte",
-      "partizip_ii": "widerlegt"
+      "partizip_ii": "widerlegt",
+      "example_perfekt_de": "Die neue Studie hat frühere Annahmen widerlegt.",
+      "example_perfekt_ru": "Новое исследование опровергло прежние предположения."
     }
   },
   {
@@ -7749,7 +7761,9 @@
     "verb_forms": {
       "praesens": "untermauert",
       "praeteritum": "untermauerte",
-      "partizip_ii": "untermauert"
+      "partizip_ii": "untermauert",
+      "example_perfekt_de": "Er hat seine These mit Beispielen untermauert.",
+      "example_perfekt_ru": "Он подкрепил свой тезис примерами."
     }
   },
   {
@@ -7768,7 +7782,9 @@
     "verb_forms": {
       "praesens": "belegt",
       "praeteritum": "belegte",
-      "partizip_ii": "belegt"
+      "partizip_ii": "belegt",
+      "example_perfekt_de": "Diese Aussage hat sich durch Quellen belegen lassen.",
+      "example_perfekt_ru": "Это утверждение удалось подтвердить источниками."
     }
   },
   {
@@ -7787,7 +7803,9 @@
     "verb_forms": {
       "praesens": "legt dar",
       "praeteritum": "legte dar",
-      "partizip_ii": "dargelegt"
+      "partizip_ii": "dargelegt",
+      "example_perfekt_de": "Sie hat ihre Position klar und sachlich dargelegt.",
+      "example_perfekt_ru": "Она ясно и по делу изложила свою позицию."
     }
   },
   {
@@ -7806,7 +7824,9 @@
     "verb_forms": {
       "praesens": "führt aus",
       "praeteritum": "führte aus",
-      "partizip_ii": "ausgeführt"
+      "partizip_ii": "ausgeführt",
+      "example_perfekt_de": "Der Referent hat seine Gedanken detailliert ausgeführt.",
+      "example_perfekt_ru": "Докладчик подробно изложил свои мысли."
     }
   },
   {
@@ -7824,7 +7844,9 @@
     "verb_forms": {
       "praesens": "präzisiert",
       "praeteritum": "präzisierte",
-      "partizip_ii": "präzisiert"
+      "partizip_ii": "präzisiert",
+      "example_perfekt_de": "Er hat seine Aussage auf Bitten präzisiert.",
+      "example_perfekt_ru": "По просьбе он уточнил своё высказывание."
     }
   },
   {
@@ -7843,7 +7865,9 @@
     "verb_forms": {
       "praesens": "spezifiziert",
       "praeteritum": "spezifizierte",
-      "partizip_ii": "spezifiziert"
+      "partizip_ii": "spezifiziert",
+      "example_perfekt_de": "Wir haben die Anforderungen genauer spezifiziert.",
+      "example_perfekt_ru": "Мы детальнее определили требования."
     }
   },
   {
@@ -7861,7 +7885,9 @@
     "verb_forms": {
       "praesens": "konkretisiert",
       "praeteritum": "konkretisierte",
-      "partizip_ii": "konkretisiert"
+      "partizip_ii": "konkretisiert",
+      "example_perfekt_de": "Wir haben den Plan in den letzten Wochen konkretisiert.",
+      "example_perfekt_ru": "В последние недели мы конкретизировали план."
     }
   },
   {
@@ -7879,7 +7905,9 @@
     "verb_forms": {
       "praesens": "abstrahiert",
       "praeteritum": "abstrahierte",
-      "partizip_ii": "abstrahiert"
+      "partizip_ii": "abstrahiert",
+      "example_perfekt_de": "Die Wissenschaftler haben vom Einzelfall abstrahiert.",
+      "example_perfekt_ru": "Учёные абстрагировались от частных случаев."
     }
   },
   {
@@ -7897,7 +7925,9 @@
     "verb_forms": {
       "praesens": "verallgemeinert",
       "praeteritum": "verallgemeinerte",
-      "partizip_ii": "verallgemeinert"
+      "partizip_ii": "verallgemeinert",
+      "example_perfekt_de": "Man hat Einzelfälle vorschnell verallgemeinert.",
+      "example_perfekt_ru": "Частные случаи поспешно обобщили."
     }
   },
   {
@@ -7915,7 +7945,9 @@
     "verb_forms": {
       "praesens": "differenziert",
       "praeteritum": "differenzierte",
-      "partizip_ii": "differenziert"
+      "partizip_ii": "differenziert",
+      "example_perfekt_de": "Wir haben zwischen Ursache und Wirkung differenziert.",
+      "example_perfekt_ru": "Мы разграничили причину и следствие."
     }
   },
   {
@@ -7934,7 +7966,9 @@
     "verb_forms": {
       "praesens": "wägt ab",
       "praeteritum": "wog ab",
-      "partizip_ii": "abgewogen"
+      "partizip_ii": "abgewogen",
+      "example_perfekt_de": "Er hat alle Optionen sorgfältig abgewogen.",
+      "example_perfekt_ru": "Он тщательно взвесил все варианты."
     }
   },
   {
@@ -7952,7 +7986,9 @@
     "verb_forms": {
       "praesens": "stellt gegenüber",
       "praeteritum": "stellte gegenüber",
-      "partizip_ii": "gegenübergestellt"
+      "partizip_ii": "gegenübergestellt",
+      "example_perfekt_de": "Der Autor hat zwei Theorien gegenübergestellt.",
+      "example_perfekt_ru": "Автор сопоставил две теории."
     }
   },
   {
@@ -7970,7 +8006,9 @@
     "verb_forms": {
       "praesens": "kontrastiert",
       "praeteritum": "kontrastierte",
-      "partizip_ii": "kontrastiert"
+      "partizip_ii": "kontrastiert",
+      "example_perfekt_de": "Die helle Farbe hat mit dem Hintergrund kontrastiert.",
+      "example_perfekt_ru": "Светлый цвет контрастировал с фоном."
     }
   },
   {
@@ -7989,7 +8027,9 @@
     "verb_forms": {
       "praesens": "subsumiert",
       "praeteritum": "subsumierte",
-      "partizip_ii": "subsumiert"
+      "partizip_ii": "subsumiert",
+      "example_perfekt_de": "Wir haben die Fälle unter einen Begriff subsumiert.",
+      "example_perfekt_ru": "Мы подвели случаи под одно понятие."
     }
   },
   {
@@ -8007,7 +8047,9 @@
     "verb_forms": {
       "praesens": "klassifiziert",
       "praeteritum": "klassifizierte",
-      "partizip_ii": "klassifiziert"
+      "partizip_ii": "klassifiziert",
+      "example_perfekt_de": "Die Daten sind nach mehreren Kriterien klassifiziert worden.",
+      "example_perfekt_ru": "Данные классифицировали по нескольким критериям."
     }
   },
   {
@@ -8025,7 +8067,9 @@
     "verb_forms": {
       "praesens": "kategorisiert",
       "praeteritum": "kategorisierte",
-      "partizip_ii": "kategorisiert"
+      "partizip_ii": "kategorisiert",
+      "example_perfekt_de": "Man hat das Phänomen nicht eindeutig kategorisiert.",
+      "example_perfekt_ru": "Это явление не удалось однозначно категоризировать."
     }
   },
   {
@@ -8044,7 +8088,9 @@
     "verb_forms": {
       "praesens": "leitet ab",
       "praeteritum": "leitete ab",
-      "partizip_ii": "abgeleitet"
+      "partizip_ii": "abgeleitet",
+      "example_perfekt_de": "Aus den Beobachtungen hat man eine Regel abgeleitet.",
+      "example_perfekt_ru": "Из наблюдений вывели правило."
     }
   },
   {
@@ -8062,7 +8108,9 @@
     "verb_forms": {
       "praesens": "schlussfolgert",
       "praeteritum": "schlussfolgerte",
-      "partizip_ii": "geschlussfolgert"
+      "partizip_ii": "geschlussfolgert",
+      "example_perfekt_de": "Wir haben daraus eine klare Schlussfolgerung geschlussfolgert.",
+      "example_perfekt_ru": "Из этого мы сделали ясный вывод."
     }
   },
   {
@@ -8080,7 +8128,9 @@
     "verb_forms": {
       "praesens": "interpretiert",
       "praeteritum": "interpretierte",
-      "partizip_ii": "interpretiert"
+      "partizip_ii": "interpretiert",
+      "example_perfekt_de": "Man hat sein Verhalten falsch interpretiert.",
+      "example_perfekt_ru": "Его поведение неверно интерпретировали."
     }
   },
   {
@@ -8099,7 +8149,9 @@
     "verb_forms": {
       "praesens": "legt aus",
       "praeteritum": "legte aus",
-      "partizip_ii": "ausgelegt"
+      "partizip_ii": "ausgelegt",
+      "example_perfekt_de": "Das Gericht hat den Paragrafen sorgfältig ausgelegt.",
+      "example_perfekt_ru": "Суд тщательно истолковал параграф."
     }
   },
   {
@@ -8116,7 +8168,9 @@
     "verb_forms": {
       "praesens": "kommentiert",
       "praeteritum": "kommentierte",
-      "partizip_ii": "kommentiert"
+      "partizip_ii": "kommentiert",
+      "example_perfekt_de": "Der Sprecher hat den Vorfall nicht kommentiert.",
+      "example_perfekt_ru": "Представитель не прокомментировал случившееся."
     }
   },
   {
@@ -8134,7 +8188,9 @@
     "verb_forms": {
       "praesens": "rezipiert",
       "praeteritum": "rezipierte",
-      "partizip_ii": "rezipiert"
+      "partizip_ii": "rezipiert",
+      "example_perfekt_de": "Das Publikum hat das neue Stück mit Interesse rezipiert.",
+      "example_perfekt_ru": "Публика с интересом восприняла новую пьесу."
     }
   },
   {
@@ -8153,7 +8209,9 @@
     "verb_forms": {
       "praesens": "reflektiert",
       "praeteritum": "reflektierte",
-      "partizip_ii": "reflektiert"
+      "partizip_ii": "reflektiert",
+      "example_perfekt_de": "Sie hat lange über ihre Karriere reflektiert.",
+      "example_perfekt_ru": "Она долго размышляла о своей карьере."
     }
   },
   {
@@ -8171,7 +8229,9 @@
     "verb_forms": {
       "praesens": "konstatiert",
       "praeteritum": "konstatierte",
-      "partizip_ii": "konstatiert"
+      "partizip_ii": "konstatiert",
+      "example_perfekt_de": "Der Arzt hat nur noch den Tod konstatieren können.",
+      "example_perfekt_ru": "Врачу осталось лишь констатировать смерть."
     }
   },
   {
@@ -8189,7 +8249,9 @@
     "verb_forms": {
       "praesens": "behauptet",
       "praeteritum": "behauptete",
-      "partizip_ii": "behauptet"
+      "partizip_ii": "behauptet",
+      "example_perfekt_de": "Er hat behauptet, nichts gewusst zu haben.",
+      "example_perfekt_ru": "Он утверждал, что ничего не знал."
     }
   },
   {
@@ -8208,7 +8270,9 @@
     "verb_forms": {
       "praesens": "unterstellt",
       "praeteritum": "unterstellte",
-      "partizip_ii": "unterstellt"
+      "partizip_ii": "unterstellt",
+      "example_perfekt_de": "Man hat ihm unlautere Absichten unterstellt.",
+      "example_perfekt_ru": "Ему приписали нечестные намерения."
     }
   },
   {
@@ -8226,7 +8290,9 @@
     "verb_forms": {
       "praesens": "mutmaßt",
       "praeteritum": "mutmaßte",
-      "partizip_ii": "gemutmaßt"
+      "partizip_ii": "gemutmaßt",
+      "example_perfekt_de": "Die Presse hat über die Hintergründe gemutmaßt.",
+      "example_perfekt_ru": "Пресса строила догадки о подоплёке."
     }
   },
   {
@@ -8244,7 +8310,9 @@
     "verb_forms": {
       "praesens": "vermutet",
       "praeteritum": "vermutete",
-      "partizip_ii": "vermutet"
+      "partizip_ii": "vermutet",
+      "example_perfekt_de": "Ich habe vermutet, dass er die Wahrheit kennt.",
+      "example_perfekt_ru": "Я предполагал, что он знает правду."
     }
   },
   {
@@ -8262,7 +8330,9 @@
     "verb_forms": {
       "praesens": "zweifelt an",
       "praeteritum": "zweifelte an",
-      "partizip_ii": "angezweifelt"
+      "partizip_ii": "angezweifelt",
+      "example_perfekt_de": "Viele Experten haben die Ergebnisse angezweifelt.",
+      "example_perfekt_ru": "Многие эксперты ставили результаты под сомнение."
     }
   },
   {
@@ -8280,7 +8350,9 @@
     "verb_forms": {
       "praesens": "bezweifelt",
       "praeteritum": "bezweifelte",
-      "partizip_ii": "bezweifelt"
+      "partizip_ii": "bezweifelt",
+      "example_perfekt_de": "Ich habe stark bezweifelt, dass es klappt.",
+      "example_perfekt_ru": "Я сильно сомневался, что получится."
     }
   },
   {
@@ -8299,7 +8371,9 @@
     "verb_forms": {
       "praesens": "beanstandet",
       "praeteritum": "beanstandete",
-      "partizip_ii": "beanstandet"
+      "partizip_ii": "beanstandet",
+      "example_perfekt_de": "Der Kunde hat die mangelhafte Verarbeitung beanstandet.",
+      "example_perfekt_ru": "Клиент предъявил претензии к плохой обработке."
     }
   },
   {
@@ -8317,7 +8391,9 @@
     "verb_forms": {
       "praesens": "moniert",
       "praeteritum": "monierte",
-      "partizip_ii": "moniert"
+      "partizip_ii": "moniert",
+      "example_perfekt_de": "Die Prüfer haben mehrere Fehler moniert.",
+      "example_perfekt_ru": "Проверяющие указали на несколько ошибок."
     }
   },
   {
@@ -8335,7 +8411,9 @@
     "verb_forms": {
       "praesens": "bemängelt",
       "praeteritum": "bemängelte",
-      "partizip_ii": "bemängelt"
+      "partizip_ii": "bemängelt",
+      "example_perfekt_de": "Der Kritiker hat die Charakterzeichnung bemängelt.",
+      "example_perfekt_ru": "Критик отметил недостатки в характерах."
     }
   },
   {
@@ -8352,7 +8430,9 @@
     "verb_forms": {
       "praesens": "kritisiert",
       "praeteritum": "kritisierte",
-      "partizip_ii": "kritisiert"
+      "partizip_ii": "kritisiert",
+      "example_perfekt_de": "Die Opposition hat den Entwurf scharf kritisiert.",
+      "example_perfekt_ru": "Оппозиция резко раскритиковала проект."
     }
   },
   {
@@ -8371,7 +8451,9 @@
     "verb_forms": {
       "praesens": "tadelt",
       "praeteritum": "tadelte",
-      "partizip_ii": "getadelt"
+      "partizip_ii": "getadelt",
+      "example_perfekt_de": "Der Lehrer hat den Schüler getadelt.",
+      "example_perfekt_ru": "Учитель отругал ученика."
     }
   },
   {
@@ -8390,7 +8472,9 @@
     "verb_forms": {
       "praesens": "rügt",
       "praeteritum": "rügte",
-      "partizip_ii": "gerügt"
+      "partizip_ii": "gerügt",
+      "example_perfekt_de": "Der Chef hat ihn wegen Unpünktlichkeit gerügt.",
+      "example_perfekt_ru": "Начальник сделал ему выговор за непунктуальность."
     }
   },
   {
@@ -8409,7 +8493,9 @@
     "verb_forms": {
       "praesens": "prangert an",
       "praeteritum": "prangerte an",
-      "partizip_ii": "angeprangert"
+      "partizip_ii": "angeprangert",
+      "example_perfekt_de": "Die Aktivisten haben die Missstände angeprangert.",
+      "example_perfekt_ru": "Активисты публично осудили нарушения."
     }
   },
   {
@@ -8428,7 +8514,9 @@
     "verb_forms": {
       "praesens": "geißelt",
       "praeteritum": "geißelte",
-      "partizip_ii": "gegeißelt"
+      "partizip_ii": "gegeißelt",
+      "example_perfekt_de": "Der Autor hat die Heuchelei der Gesellschaft gegeißelt.",
+      "example_perfekt_ru": "Автор бичевал лицемерие общества."
     }
   },
   {
@@ -8446,7 +8534,9 @@
     "verb_forms": {
       "praesens": "brandmarkt",
       "praeteritum": "brandmarkte",
-      "partizip_ii": "gebrandmarkt"
+      "partizip_ii": "gebrandmarkt",
+      "example_perfekt_de": "Man hat ihn zu Unrecht als Verräter gebrandmarkt.",
+      "example_perfekt_ru": "Его несправедливо заклеймили как предателя."
     }
   },
   {
@@ -8464,7 +8554,9 @@
     "verb_forms": {
       "praesens": "verurteilt",
       "praeteritum": "verurteilte",
-      "partizip_ii": "verurteilt"
+      "partizip_ii": "verurteilt",
+      "example_perfekt_de": "Das Gericht hat ihn zu fünf Jahren verurteilt.",
+      "example_perfekt_ru": "Суд приговорил его к пяти годам."
     }
   },
   {
@@ -8482,7 +8574,9 @@
     "verb_forms": {
       "praesens": "bagatellisiert",
       "praeteritum": "bagatellisierte",
-      "partizip_ii": "bagatellisiert"
+      "partizip_ii": "bagatellisiert",
+      "example_perfekt_de": "Man hat den Vorfall nicht bagatellisiert.",
+      "example_perfekt_ru": "Этот случай не преуменьшили."
     }
   },
   {
@@ -8500,7 +8594,9 @@
     "verb_forms": {
       "praesens": "verharmlost",
       "praeteritum": "verharmloste",
-      "partizip_ii": "verharmlost"
+      "partizip_ii": "verharmlost",
+      "example_perfekt_de": "Der Sprecher hat das Problem verharmlost.",
+      "example_perfekt_ru": "Представитель преуменьшил проблему."
     }
   },
   {
@@ -8518,7 +8614,9 @@
     "verb_forms": {
       "praesens": "relativiert",
       "praeteritum": "relativierte",
-      "partizip_ii": "relativiert"
+      "partizip_ii": "relativiert",
+      "example_perfekt_de": "Später hat er seine Aussage relativiert.",
+      "example_perfekt_ru": "Позже он смягчил своё заявление."
     }
   },
   {
@@ -8536,7 +8634,9 @@
     "verb_forms": {
       "praesens": "rechtfertigt",
       "praeteritum": "rechtfertigte",
-      "partizip_ii": "gerechtfertigt"
+      "partizip_ii": "gerechtfertigt",
+      "example_perfekt_de": "Er hat sein Verhalten nicht rechtfertigen können.",
+      "example_perfekt_ru": "Он не смог оправдать своё поведение."
     }
   },
   {
@@ -8555,7 +8655,9 @@
     "verb_forms": {
       "praesens": "verteidigt",
       "praeteritum": "verteidigte",
-      "partizip_ii": "verteidigt"
+      "partizip_ii": "verteidigt",
+      "example_perfekt_de": "Er hat seine These überzeugend verteidigt.",
+      "example_perfekt_ru": "Он убедительно защитил свой тезис."
     }
   },
   {
@@ -8573,7 +8675,9 @@
     "verb_forms": {
       "praesens": "billigt",
       "praeteritum": "billigte",
-      "partizip_ii": "gebilligt"
+      "partizip_ii": "gebilligt",
+      "example_perfekt_de": "Der Vorstand hat den Haushalt einstimmig gebilligt.",
+      "example_perfekt_ru": "Совет директоров единогласно одобрил бюджет."
     }
   },
   {
@@ -8591,7 +8695,9 @@
     "verb_forms": {
       "praesens": "befürwortet",
       "praeteritum": "befürwortete",
-      "partizip_ii": "befürwortet"
+      "partizip_ii": "befürwortet",
+      "example_perfekt_de": "Die Experten haben die Reform befürwortet.",
+      "example_perfekt_ru": "Эксперты высказались в поддержку реформы."
     }
   },
   {
@@ -8609,7 +8715,9 @@
     "verb_forms": {
       "praesens": "missbilligt",
       "praeteritum": "missbilligte",
-      "partizip_ii": "missbilligt"
+      "partizip_ii": "missbilligt",
+      "example_perfekt_de": "Die Lehrerin hat das Verhalten missbilligt.",
+      "example_perfekt_ru": "Учительница не одобрила поведение."
     }
   },
   {
@@ -8628,7 +8736,9 @@
     "verb_forms": {
       "praesens": "lehnt ab",
       "praeteritum": "lehnte ab",
-      "partizip_ii": "abgelehnt"
+      "partizip_ii": "abgelehnt",
+      "example_perfekt_de": "Der Antrag ist aus formalen Gründen abgelehnt worden.",
+      "example_perfekt_ru": "Заявку отклонили по формальным причинам."
     }
   },
   {
@@ -8646,7 +8756,9 @@
     "verb_forms": {
       "praesens": "verwirft",
       "praeteritum": "verwarf",
-      "partizip_ii": "verworfen"
+      "partizip_ii": "verworfen",
+      "example_perfekt_de": "Sie hat die alte Hypothese verworfen.",
+      "example_perfekt_ru": "Она отвергла прежнюю гипотезу."
     }
   },
   {
@@ -8664,7 +8776,9 @@
     "verb_forms": {
       "praesens": "weist zurück",
       "praeteritum": "wies zurück",
-      "partizip_ii": "zurückgewiesen"
+      "partizip_ii": "zurückgewiesen",
+      "example_perfekt_de": "Er hat die Vorwürfe öffentlich zurückgewiesen.",
+      "example_perfekt_ru": "Он публично отверг обвинения."
     }
   },
   {
@@ -8682,7 +8796,9 @@
     "verb_forms": {
       "praesens": "stellt infrage",
       "praeteritum": "stellte infrage",
-      "partizip_ii": "infrage gestellt"
+      "partizip_ii": "infrage gestellt",
+      "example_perfekt_de": "Die Studie hat die Annahmen grundsätzlich infrage gestellt.",
+      "example_perfekt_ru": "Исследование принципиально поставило предположения под сомнение."
     }
   },
   {
@@ -8700,7 +8816,9 @@
     "verb_forms": {
       "praesens": "zieht in Erwägung",
       "praeteritum": "zog in Erwägung",
-      "partizip_ii": "in Erwägung gezogen"
+      "partizip_ii": "in Erwägung gezogen",
+      "example_perfekt_de": "Wir haben alternative Lösungen ernsthaft in Erwägung gezogen.",
+      "example_perfekt_ru": "Мы серьёзно рассмотрели альтернативные решения."
     }
   },
   {
@@ -8718,7 +8836,9 @@
     "verb_forms": {
       "praesens": "nimmt wahr",
       "praeteritum": "nahm wahr",
-      "partizip_ii": "wahrgenommen"
+      "partizip_ii": "wahrgenommen",
+      "example_perfekt_de": "Er hat feine Unterschiede in der Klangfarbe wahrgenommen.",
+      "example_perfekt_ru": "Он различил тончайшие оттенки звучания."
     }
   },
   {
@@ -8737,7 +8857,9 @@
     "verb_forms": {
       "praesens": "ergründet",
       "praeteritum": "ergründete",
-      "partizip_ii": "ergründet"
+      "partizip_ii": "ergründet",
+      "example_perfekt_de": "Die Forscher haben die Ursachen ergründet.",
+      "example_perfekt_ru": "Исследователи выяснили причины."
     }
   },
   {
@@ -8756,7 +8878,9 @@
     "verb_forms": {
       "praesens": "erfasst",
       "praeteritum": "erfasste",
-      "partizip_ii": "erfasst"
+      "partizip_ii": "erfasst",
+      "example_perfekt_de": "Das System hat alle Daten in Echtzeit erfasst.",
+      "example_perfekt_ru": "Система регистрировала данные в реальном времени."
     }
   },
   {
@@ -8774,7 +8898,9 @@
     "verb_forms": {
       "praesens": "begreift",
       "praeteritum": "begriff",
-      "partizip_ii": "begriffen"
+      "partizip_ii": "begriffen",
+      "example_perfekt_de": "Erst nach Jahren hat sie die Bedeutung begriffen.",
+      "example_perfekt_ru": "Лишь спустя годы она осознала истинный смысл."
     }
   },
   {
@@ -8792,7 +8918,9 @@
     "verb_forms": {
       "praesens": "verinnerlicht",
       "praeteritum": "verinnerlichte",
-      "partizip_ii": "verinnerlicht"
+      "partizip_ii": "verinnerlicht",
+      "example_perfekt_de": "Sie hat die Werte ihrer Familie verinnerlicht.",
+      "example_perfekt_ru": "Она глубоко усвоила семейные ценности."
     }
   },
   {
@@ -8810,7 +8938,9 @@
     "verb_forms": {
       "praesens": "durchschaut",
       "praeteritum": "durchschaute",
-      "partizip_ii": "durchschaut"
+      "partizip_ii": "durchschaut",
+      "example_perfekt_de": "Er hat die Absicht sofort durchschaut.",
+      "example_perfekt_ru": "Он сразу разгадал намерение."
     }
   },
   {
@@ -8829,7 +8959,9 @@
     "verb_forms": {
       "praesens": "fasst auf",
       "praeteritum": "fasste auf",
-      "partizip_ii": "aufgefasst"
+      "partizip_ii": "aufgefasst",
+      "example_perfekt_de": "Sie hat seine Bemerkung als Kritik aufgefasst.",
+      "example_perfekt_ru": "Она восприняла его замечание как критику."
     }
   },
   {
@@ -8848,7 +8980,9 @@
     "verb_forms": {
       "praesens": "deutet",
       "praeteritum": "deutete",
-      "partizip_ii": "gedeutet"
+      "partizip_ii": "gedeutet",
+      "example_perfekt_de": "Man hat das Verhalten unterschiedlich gedeutet.",
+      "example_perfekt_ru": "Поведение истолковали по-разному."
     }
   },
   {
@@ -8866,7 +9000,9 @@
     "verb_forms": {
       "praesens": "deutet aus",
       "praeteritum": "deutete aus",
-      "partizip_ii": "ausgedeutet"
+      "partizip_ii": "ausgedeutet",
+      "example_perfekt_de": "Der Philosoph hat den Text neu ausgedeutet.",
+      "example_perfekt_ru": "Философ по-новому истолковал текст."
     }
   },
   {
@@ -8884,7 +9020,9 @@
     "verb_forms": {
       "praesens": "vollzieht nach",
       "praeteritum": "vollzog nach",
-      "partizip_ii": "nachvollzogen"
+      "partizip_ii": "nachvollzogen",
+      "example_perfekt_de": "Ich habe seine Entscheidung gut nachvollzogen.",
+      "example_perfekt_ru": "Я хорошо понял его решение."
     }
   },
   {
@@ -8902,7 +9040,9 @@
     "verb_forms": {
       "praesens": "sinnt nach",
       "praeteritum": "sann nach",
-      "partizip_ii": "nachgesonnen"
+      "partizip_ii": "nachgesonnen",
+      "example_perfekt_de": "Er hat lange über den Sinn des Lebens nachgesonnen.",
+      "example_perfekt_ru": "Он долго размышлял о смысле жизни."
     }
   },
   {
@@ -8920,7 +9060,9 @@
     "verb_forms": {
       "praesens": "grübelt",
       "praeteritum": "grübelte",
-      "partizip_ii": "gegrübelt"
+      "partizip_ii": "gegrübelt",
+      "example_perfekt_de": "Sie hat stundenlang über das Problem gegrübelt.",
+      "example_perfekt_ru": "Она часами раздумывала над проблемой."
     }
   },
   {
@@ -8938,7 +9080,9 @@
     "verb_forms": {
       "praesens": "sinniert",
       "praeteritum": "sinnierte",
-      "partizip_ii": "sinniert"
+      "partizip_ii": "sinniert",
+      "example_perfekt_de": "Der alte Mann hat über vergangene Zeiten sinniert.",
+      "example_perfekt_ru": "Старик размышлял о прошедших временах."
     }
   },
   {
@@ -8956,7 +9100,9 @@
     "verb_forms": {
       "praesens": "überdenkt",
       "praeteritum": "überdachte",
-      "partizip_ii": "überdacht"
+      "partizip_ii": "überdacht",
+      "example_perfekt_de": "Du hast deine Entscheidung gründlich überdacht.",
+      "example_perfekt_ru": "Ты тщательно обдумал своё решение."
     }
   },
   {
@@ -8974,7 +9120,9 @@
     "verb_forms": {
       "praesens": "überprüft",
       "praeteritum": "überprüfte",
-      "partizip_ii": "überprüft"
+      "partizip_ii": "überprüft",
+      "example_perfekt_de": "Sie haben alle Angaben sorgfältig überprüft.",
+      "example_perfekt_ru": "Они тщательно проверили все данные."
     }
   },
   {
@@ -8992,7 +9140,9 @@
     "verb_forms": {
       "praesens": "schätzt ab",
       "praeteritum": "schätzte ab",
-      "partizip_ii": "abgeschätzt"
+      "partizip_ii": "abgeschätzt",
+      "example_perfekt_de": "Es ist schwer gewesen, die Folgen abzuschätzen.",
+      "example_perfekt_ru": "Было сложно оценить последствия."
     }
   },
   {
@@ -9010,7 +9160,9 @@
     "verb_forms": {
       "praesens": "schätzt ein",
       "praeteritum": "schätzte ein",
-      "partizip_ii": "eingeschätzt"
+      "partizip_ii": "eingeschätzt",
+      "example_perfekt_de": "Sie hat die Marktlage realistisch eingeschätzt.",
+      "example_perfekt_ru": "Она реалистично оценила состояние рынка."
     }
   },
   {
@@ -9029,7 +9181,9 @@
     "verb_forms": {
       "praesens": "ermisst",
       "praeteritum": "ermaß",
-      "partizip_ii": "ermessen"
+      "partizip_ii": "ermessen",
+      "example_perfekt_de": "Niemand hat die Tragweite ermessen können.",
+      "example_perfekt_ru": "Никто не смог осознать масштаб последствий."
     }
   },
   {
@@ -9047,7 +9201,9 @@
     "verb_forms": {
       "praesens": "veranschlagt",
       "praeteritum": "veranschlagte",
-      "partizip_ii": "veranschlagt"
+      "partizip_ii": "veranschlagt",
+      "example_perfekt_de": "Die Kosten sind auf zwei Millionen Euro veranschlagt worden.",
+      "example_perfekt_ru": "Затраты оценили в два миллиона евро."
     }
   },
   {
@@ -9065,7 +9221,9 @@
     "verb_forms": {
       "praesens": "erahnt",
       "praeteritum": "erahnte",
-      "partizip_ii": "erahnt"
+      "partizip_ii": "erahnt",
+      "example_perfekt_de": "Sie hat die Schwierigkeiten schon damals erahnt.",
+      "example_perfekt_ru": "Она уже тогда догадывалась о трудностях."
     }
   },
   {
@@ -9083,7 +9241,9 @@
     "verb_forms": {
       "praesens": "sieht voraus",
       "praeteritum": "sah voraus",
-      "partizip_ii": "vorausgesehen"
+      "partizip_ii": "vorausgesehen",
+      "example_perfekt_de": "Niemand hat die Folgen der Krise vorausgesehen.",
+      "example_perfekt_ru": "Никто не предвидел последствий кризиса."
     }
   },
   {
@@ -9101,7 +9261,9 @@
     "verb_forms": {
       "praesens": "sagt voraus",
       "praeteritum": "sagte voraus",
-      "partizip_ii": "vorausgesagt"
+      "partizip_ii": "vorausgesagt",
+      "example_perfekt_de": "Der Meteorologe hat starke Stürme vorausgesagt.",
+      "example_perfekt_ru": "Метеоролог предсказал сильные штормы."
     }
   },
   {
@@ -9118,7 +9280,9 @@
     "verb_forms": {
       "praesens": "prognostiziert",
       "praeteritum": "prognostizierte",
-      "partizip_ii": "prognostiziert"
+      "partizip_ii": "prognostiziert",
+      "example_perfekt_de": "Experten haben moderates Wachstum prognostiziert.",
+      "example_perfekt_ru": "Эксперты прогнозировали умеренный рост."
     }
   },
   {
@@ -9136,7 +9300,9 @@
     "verb_forms": {
       "praesens": "antizipiert",
       "praeteritum": "antizipierte",
-      "partizip_ii": "antizipiert"
+      "partizip_ii": "antizipiert",
+      "example_perfekt_de": "Gute Strategen haben die Gegnerzüge antizipiert.",
+      "example_perfekt_ru": "Хорошие стратеги предвосхищали ходы соперника."
     }
   },
   {
@@ -9154,7 +9320,9 @@
     "verb_forms": {
       "praesens": "bewertet",
       "praeteritum": "bewertete",
-      "partizip_ii": "bewertet"
+      "partizip_ii": "bewertet",
+      "example_perfekt_de": "Die Jury hat die Leistungen sehr genau bewertet.",
+      "example_perfekt_ru": "Жюри очень точно оценило выступления."
     }
   },
   {
@@ -9172,7 +9340,9 @@
     "verb_forms": {
       "praesens": "beurteilt",
       "praeteritum": "beurteilte",
-      "partizip_ii": "beurteilt"
+      "partizip_ii": "beurteilt",
+      "example_perfekt_de": "Man hat ihn zu schnell nach dem Aussehen beurteilt.",
+      "example_perfekt_ru": "Его слишком быстро оценили по внешности."
     }
   },
   {
@@ -9190,7 +9360,9 @@
     "verb_forms": {
       "praesens": "rangiert",
       "praeteritum": "rangierte",
-      "partizip_ii": "rangiert"
+      "partizip_ii": "rangiert",
+      "example_perfekt_de": "Unser Team hat lange auf Platz drei rangiert.",
+      "example_perfekt_ru": "Наша команда долго занимала третье место."
     }
   },
   {
@@ -9208,7 +9380,9 @@
     "verb_forms": {
       "praesens": "gewichtet",
       "praeteritum": "gewichtete",
-      "partizip_ii": "gewichtet"
+      "partizip_ii": "gewichtet",
+      "example_perfekt_de": "Der Lehrer hat die mündliche Note stark gewichtet.",
+      "example_perfekt_ru": "Учитель сильно учитывал устную оценку."
     }
   },
   {
@@ -9226,7 +9400,9 @@
     "verb_forms": {
       "praesens": "hebt hervor",
       "praeteritum": "hob hervor",
-      "partizip_ii": "hervorgehoben"
+      "partizip_ii": "hervorgehoben",
+      "example_perfekt_de": "Der Redner hat die Zusammenarbeit besonders hervorgehoben.",
+      "example_perfekt_ru": "Оратор особо выделил сотрудничество."
     }
   },
   {
@@ -9244,7 +9420,9 @@
     "verb_forms": {
       "praesens": "betont",
       "praeteritum": "betonte",
-      "partizip_ii": "betont"
+      "partizip_ii": "betont",
+      "example_perfekt_de": "Sie hat mehrfach die Pünktlichkeit betont.",
+      "example_perfekt_ru": "Она неоднократно подчёркивала пунктуальность."
     }
   },
   {
@@ -9262,7 +9440,9 @@
     "verb_forms": {
       "praesens": "akzentuiert",
       "praeteritum": "akzentuierte",
-      "partizip_ii": "akzentuiert"
+      "partizip_ii": "akzentuiert",
+      "example_perfekt_de": "Der Autor hat die kulturellen Aspekte akzentuiert.",
+      "example_perfekt_ru": "Автор акцентировал культурные аспекты."
     }
   },
   {
@@ -9279,7 +9459,9 @@
     "verb_forms": {
       "praesens": "unterstreicht",
       "praeteritum": "unterstrich",
-      "partizip_ii": "unterstrichen"
+      "partizip_ii": "unterstrichen",
+      "example_perfekt_de": "Die Statistik hat dringende Reformen unterstrichen.",
+      "example_perfekt_ru": "Статистика подчеркнула необходимость срочных реформ."
     }
   },
   {
@@ -9297,7 +9479,9 @@
     "verb_forms": {
       "praesens": "tut kund",
       "praeteritum": "tat kund",
-      "partizip_ii": "kundgetan"
+      "partizip_ii": "kundgetan",
+      "example_perfekt_de": "Er hat seine Meinung allen offen kundgetan.",
+      "example_perfekt_ru": "Он открыто объявил всем своё мнение."
     }
   },
   {
@@ -9315,7 +9499,9 @@
     "verb_forms": {
       "praesens": "verkündet",
       "praeteritum": "verkündete",
-      "partizip_ii": "verkündet"
+      "partizip_ii": "verkündet",
+      "example_perfekt_de": "Der Präsident hat das Wahlergebnis feierlich verkündet.",
+      "example_perfekt_ru": "Президент торжественно объявил итоги выборов."
     }
   },
   {
@@ -9333,7 +9519,9 @@
     "verb_forms": {
       "praesens": "gibt bekannt",
       "praeteritum": "gab bekannt",
-      "partizip_ii": "bekanntgegeben"
+      "partizip_ii": "bekanntgegeben",
+      "example_perfekt_de": "Das Unternehmen hat die neuen Preise bekanntgegeben.",
+      "example_perfekt_ru": "Компания объявила новые цены."
     }
   },
   {
@@ -9350,7 +9538,9 @@
     "verb_forms": {
       "praesens": "verlautbart",
       "praeteritum": "verlautbarte",
-      "partizip_ii": "verlautbart"
+      "partizip_ii": "verlautbart",
+      "example_perfekt_de": "Die Behörde hat neue Verordnungen verlautbart.",
+      "example_perfekt_ru": "Ведомство официально объявило новые предписания."
     }
   },
   {
@@ -9367,7 +9557,9 @@
     "verb_forms": {
       "praesens": "verbreitet",
       "praeteritum": "verbreitete",
-      "partizip_ii": "verbreitet"
+      "partizip_ii": "verbreitet",
+      "example_perfekt_de": "Falsche Nachrichten haben sich rasend verbreitet.",
+      "example_perfekt_ru": "Ложные новости распространялись стремительно."
     }
   },
   {
@@ -9385,7 +9577,9 @@
     "verb_forms": {
       "praesens": "gibt wieder",
       "praeteritum": "gab wieder",
-      "partizip_ii": "wiedergegeben"
+      "partizip_ii": "wiedergegeben",
+      "example_perfekt_de": "Er hat den Inhalt wörtlich wiedergegeben.",
+      "example_perfekt_ru": "Он дословно передал содержание."
     }
   },
   {
@@ -9403,7 +9597,9 @@
     "verb_forms": {
       "praesens": "schildert",
       "praeteritum": "schilderte",
-      "partizip_ii": "geschildert"
+      "partizip_ii": "geschildert",
+      "example_perfekt_de": "Der Zeuge hat den Vorfall detailliert geschildert.",
+      "example_perfekt_ru": "Свидетель подробно описал происшествие."
     }
   },
   {
@@ -9421,7 +9617,9 @@
     "verb_forms": {
       "praesens": "umreißt",
       "praeteritum": "umriss",
-      "partizip_ii": "umrissen"
+      "partizip_ii": "umrissen",
+      "example_perfekt_de": "Sie hat die Hauptpunkte kurz umrissen.",
+      "example_perfekt_ru": "Она кратко обрисовала главные пункты."
     }
   },
   {
@@ -9439,7 +9637,9 @@
     "verb_forms": {
       "praesens": "skizziert",
       "praeteritum": "skizzierte",
-      "partizip_ii": "skizziert"
+      "partizip_ii": "skizziert",
+      "example_perfekt_de": "Der Manager hat die Strategie für das Jahr skizziert.",
+      "example_perfekt_ru": "Менеджер набросал стратегию на год."
     }
   },
   {
@@ -9457,7 +9657,9 @@
     "verb_forms": {
       "praesens": "umschreibt",
       "praeteritum": "umschrieb",
-      "partizip_ii": "umschrieben"
+      "partizip_ii": "umschrieben",
+      "example_perfekt_de": "Sie hat das Wort mit anderen Begriffen umschrieben.",
+      "example_perfekt_ru": "Она перефразировала слово другими понятиями."
     }
   },
   {
@@ -9475,7 +9677,9 @@
     "verb_forms": {
       "praesens": "deutet an",
       "praeteritum": "deutete an",
-      "partizip_ii": "angedeutet"
+      "partizip_ii": "angedeutet",
+      "example_perfekt_de": "Er hat leise angedeutet, dass er bald gehen wird.",
+      "example_perfekt_ru": "Он тихо намекнул, что скоро уйдёт."
     }
   },
   {
@@ -9492,7 +9696,9 @@
     "verb_forms": {
       "praesens": "spielt an",
       "praeteritum": "spielte an",
-      "partizip_ii": "angespielt"
+      "partizip_ii": "angespielt",
+      "example_perfekt_de": "Der Redner hat auf vergangene Skandale angespielt.",
+      "example_perfekt_ru": "Оратор намекнул на прошлые скандалы."
     }
   },
   {
@@ -9510,7 +9716,9 @@
     "verb_forms": {
       "praesens": "bekräftigt",
       "praeteritum": "bekräftigte",
-      "partizip_ii": "bekräftigt"
+      "partizip_ii": "bekräftigt",
+      "example_perfekt_de": "Der Minister hat seine Position bekräftigt.",
+      "example_perfekt_ru": "Министр подтвердил свою позицию."
     }
   },
   {
@@ -9528,7 +9736,9 @@
     "verb_forms": {
       "praesens": "beteuert",
       "praeteritum": "beteuerte",
-      "partizip_ii": "beteuert"
+      "partizip_ii": "beteuert",
+      "example_perfekt_de": "Er hat seine Unschuld immer wieder beteuert.",
+      "example_perfekt_ru": "Он раз за разом заверял в своей невиновности."
     }
   },
   {
@@ -9547,7 +9757,9 @@
     "verb_forms": {
       "praesens": "versichert",
       "praeteritum": "versicherte",
-      "partizip_ii": "versichert"
+      "partizip_ii": "versichert",
+      "example_perfekt_de": "Ich habe ihm versichert, dass alles in Ordnung ist.",
+      "example_perfekt_ru": "Я заверил его, что всё в порядке."
     }
   },
   {
@@ -9565,7 +9777,9 @@
     "verb_forms": {
       "praesens": "beschwört",
       "praeteritum": "beschwor",
-      "partizip_ii": "beschworen"
+      "partizip_ii": "beschworen",
+      "example_perfekt_de": "Sie hat ihn beschworen, vorsichtig zu sein.",
+      "example_perfekt_ru": "Она умоляла его быть осторожным."
     }
   },
   {
@@ -9584,7 +9798,9 @@
     "verb_forms": {
       "praesens": "stößt an",
       "praeteritum": "stieß an",
-      "partizip_ii": "angestoßen"
+      "partizip_ii": "angestoßen",
+      "example_perfekt_de": "Sein Vorschlag hat eine Debatte angestoßen.",
+      "example_perfekt_ru": "Его предложение инициировало дискуссию."
     }
   },
   {
@@ -9602,7 +9818,9 @@
     "verb_forms": {
       "praesens": "regt an",
       "praeteritum": "regte an",
-      "partizip_ii": "angeregt"
+      "partizip_ii": "angeregt",
+      "example_perfekt_de": "Das Buch hat mich zu neuen Gedanken angeregt.",
+      "example_perfekt_ru": "Книга побудила меня к новым мыслям."
     }
   },
   {
@@ -9620,7 +9838,9 @@
     "verb_forms": {
       "praesens": "fordert auf",
       "praeteritum": "forderte auf",
-      "partizip_ii": "aufgefordert"
+      "partizip_ii": "aufgefordert",
+      "example_perfekt_de": "Der Lehrer hat die Schüler zur Mitarbeit aufgefordert.",
+      "example_perfekt_ru": "Учитель призвал учеников к сотрудничеству."
     }
   },
   {
@@ -9638,7 +9858,9 @@
     "verb_forms": {
       "praesens": "ermahnt",
       "praeteritum": "ermahnte",
-      "partizip_ii": "ermahnt"
+      "partizip_ii": "ermahnt",
+      "example_perfekt_de": "Die Mutter hat die Kinder zur Höflichkeit ermahnt.",
+      "example_perfekt_ru": "Мать наставляла детей быть вежливыми."
     }
   },
   {
@@ -9657,7 +9879,9 @@
     "verb_forms": {
       "praesens": "mahnt",
       "praeteritum": "mahnte",
-      "partizip_ii": "gemahnt"
+      "partizip_ii": "gemahnt",
+      "example_perfekt_de": "Der Bürgermeister hat zur Besonnenheit gemahnt.",
+      "example_perfekt_ru": "Мэр призвал к благоразумию."
     }
   },
   {
@@ -9675,7 +9899,9 @@
     "verb_forms": {
       "praesens": "warnt",
       "praeteritum": "warnte",
-      "partizip_ii": "gewarnt"
+      "partizip_ii": "gewarnt",
+      "example_perfekt_de": "Experten haben jahrelang vor den Folgen gewarnt.",
+      "example_perfekt_ru": "Эксперты годами предупреждали о последствиях."
     }
   },
   {
@@ -9693,7 +9919,9 @@
     "verb_forms": {
       "praesens": "appelliert",
       "praeteritum": "appellierte",
-      "partizip_ii": "appelliert"
+      "partizip_ii": "appelliert",
+      "example_perfekt_de": "Der Bürgermeister hat an die Vernunft appelliert.",
+      "example_perfekt_ru": "Мэр воззвал к разуму."
     }
   },
   {
@@ -9711,7 +9939,9 @@
     "verb_forms": {
       "praesens": "beschwichtigt",
       "praeteritum": "beschwichtigte",
-      "partizip_ii": "beschwichtigt"
+      "partizip_ii": "beschwichtigt",
+      "example_perfekt_de": "Er hat die aufgebrachte Menge beschwichtigt.",
+      "example_perfekt_ru": "Он успокоил разгневанную толпу."
     }
   },
   {
@@ -9729,7 +9959,9 @@
     "verb_forms": {
       "praesens": "besänftigt",
       "praeteritum": "besänftigte",
-      "partizip_ii": "besänftigt"
+      "partizip_ii": "besänftigt",
+      "example_perfekt_de": "Mit ruhigen Worten hat sie das Kind besänftigt.",
+      "example_perfekt_ru": "Спокойными словами она успокоила ребёнка."
     }
   },
   {
@@ -9747,7 +9979,9 @@
     "verb_forms": {
       "praesens": "schlichtet",
       "praeteritum": "schlichtete",
-      "partizip_ii": "geschlichtet"
+      "partizip_ii": "geschlichtet",
+      "example_perfekt_de": "Ein Mediator hat den Konflikt geschlichtet.",
+      "example_perfekt_ru": "Медиатор уладил конфликт."
     }
   },
   {
@@ -9766,7 +10000,9 @@
     "verb_forms": {
       "praesens": "vermittelt",
       "praeteritum": "vermittelte",
-      "partizip_ii": "vermittelt"
+      "partizip_ii": "vermittelt",
+      "example_perfekt_de": "Die Lehrerin hat komplexe Inhalte verständlich vermittelt.",
+      "example_perfekt_ru": "Учительница доходчиво донесла сложный материал."
     }
   },
   {
@@ -9784,7 +10020,9 @@
     "verb_forms": {
       "praesens": "interveniert",
       "praeteritum": "intervenierte",
-      "partizip_ii": "interveniert"
+      "partizip_ii": "interveniert",
+      "example_perfekt_de": "Die Gemeinschaft hat im Konflikt interveniert.",
+      "example_perfekt_ru": "Сообщество вмешалось в конфликт."
     }
   },
   {
@@ -9802,7 +10040,9 @@
     "verb_forms": {
       "praesens": "greift ein",
       "praeteritum": "griff ein",
-      "partizip_ii": "eingegriffen"
+      "partizip_ii": "eingegriffen",
+      "example_perfekt_de": "Die Polizei hat sofort in den Streit eingegriffen.",
+      "example_perfekt_ru": "Полиция сразу вмешалась в ссору."
     }
   },
   {
@@ -9820,7 +10060,9 @@
     "verb_forms": {
       "praesens": "schreitet ein",
       "praeteritum": "schritt ein",
-      "partizip_ii": "eingeschritten"
+      "partizip_ii": "eingeschritten",
+      "example_perfekt_de": "Die Behörden haben gegen die Aktivitäten eingeschritten.",
+      "example_perfekt_ru": "Власти приняли меры против этой деятельности."
     }
   },
   {
@@ -9838,7 +10080,9 @@
     "verb_forms": {
       "praesens": "legt fest",
       "praeteritum": "legte fest",
-      "partizip_ii": "festgelegt"
+      "partizip_ii": "festgelegt",
+      "example_perfekt_de": "Wir haben die Bedingungen schriftlich festgelegt.",
+      "example_perfekt_ru": "Мы зафиксировали условия в письменном виде."
     }
   },
   {
@@ -9857,7 +10101,9 @@
     "verb_forms": {
       "praesens": "verfügt",
       "praeteritum": "verfügte",
-      "partizip_ii": "verfügt"
+      "partizip_ii": "verfügt",
+      "example_perfekt_de": "Sie hat über umfangreiche Erfahrung verfügt.",
+      "example_perfekt_ru": "Она располагала обширным опытом."
     }
   },
   {
@@ -9876,7 +10122,9 @@
     "verb_forms": {
       "praesens": "ordnet an",
       "praeteritum": "ordnete an",
-      "partizip_ii": "angeordnet"
+      "partizip_ii": "angeordnet",
+      "example_perfekt_de": "Der Richter hat die Freilassung angeordnet.",
+      "example_perfekt_ru": "Судья распорядился освободить заключённого."
     }
   },
   {
@@ -9894,7 +10142,9 @@
     "verb_forms": {
       "praesens": "verordnet",
       "praeteritum": "verordnete",
-      "partizip_ii": "verordnet"
+      "partizip_ii": "verordnet",
+      "example_perfekt_de": "Der Arzt hat ihr Bettruhe verordnet.",
+      "example_perfekt_ru": "Врач предписал ей постельный режим."
     }
   },
   {
@@ -9912,7 +10162,9 @@
     "verb_forms": {
       "praesens": "beraumt an",
       "praeteritum": "beraumte an",
-      "partizip_ii": "anberaumt"
+      "partizip_ii": "anberaumt",
+      "example_perfekt_de": "Die Sitzung ist für Montag anberaumt worden.",
+      "example_perfekt_ru": "Заседание назначили на понедельник."
     }
   },
   {
@@ -9930,7 +10182,9 @@
     "verb_forms": {
       "praesens": "setzt an",
       "praeteritum": "setzte an",
-      "partizip_ii": "angesetzt"
+      "partizip_ii": "angesetzt",
+      "example_perfekt_de": "Die Konferenz ist für den Nachmittag angesetzt worden.",
+      "example_perfekt_ru": "Конференцию назначили на вторую половину дня."
     }
   },
   {
@@ -9948,7 +10202,9 @@
     "verb_forms": {
       "praesens": "sieht vor",
       "praeteritum": "sah vor",
-      "partizip_ii": "vorgesehen"
+      "partizip_ii": "vorgesehen",
+      "example_perfekt_de": "Der Plan hat den Bau einer Brücke vorgesehen.",
+      "example_perfekt_ru": "План предусматривал строительство моста."
     }
   },
   {
@@ -9966,7 +10222,9 @@
     "verb_forms": {
       "praesens": "visiert an",
       "praeteritum": "visierte an",
-      "partizip_ii": "anvisiert"
+      "partizip_ii": "anvisiert",
+      "example_perfekt_de": "Die Firma hat einen Marktanteil von zwanzig Prozent anvisiert.",
+      "example_perfekt_ru": "Фирма нацелилась на двадцать процентов рынка."
     }
   },
   {
@@ -9984,7 +10242,9 @@
     "verb_forms": {
       "praesens": "strebt an",
       "praeteritum": "strebte an",
-      "partizip_ii": "angestrebt"
+      "partizip_ii": "angestrebt",
+      "example_perfekt_de": "Sie hat eine leitende Position angestrebt.",
+      "example_perfekt_ru": "Она стремилась к руководящей должности."
     }
   },
   {
@@ -10002,7 +10262,9 @@
     "verb_forms": {
       "praesens": "verfolgt",
       "praeteritum": "verfolgte",
-      "partizip_ii": "verfolgt"
+      "partizip_ii": "verfolgt",
+      "example_perfekt_de": "Die Regierung hat eine Reformstrategie verfolgt.",
+      "example_perfekt_ru": "Правительство проводило реформенную стратегию."
     }
   },
   {
@@ -10020,7 +10282,9 @@
     "verb_forms": {
       "praesens": "setzt um",
       "praeteritum": "setzte um",
-      "partizip_ii": "umgesetzt"
+      "partizip_ii": "umgesetzt",
+      "example_perfekt_de": "Die Pläne sind in einem Jahr umgesetzt worden.",
+      "example_perfekt_ru": "Планы реализовали за год."
     }
   },
   {
@@ -10038,7 +10302,9 @@
     "verb_forms": {
       "praesens": "vollzieht",
       "praeteritum": "vollzog",
-      "partizip_ii": "vollzogen"
+      "partizip_ii": "vollzogen",
+      "example_perfekt_de": "Der Wandel hat sich langsam vollzogen.",
+      "example_perfekt_ru": "Перемены происходили медленно."
     }
   },
   {
@@ -10056,7 +10322,9 @@
     "verb_forms": {
       "praesens": "vollbringt",
       "praeteritum": "vollbrachte",
-      "partizip_ii": "vollbracht"
+      "partizip_ii": "vollbracht",
+      "example_perfekt_de": "Sie hat in ihrem Leben Großes vollbracht.",
+      "example_perfekt_ru": "Она совершила в жизни великие дела."
     }
   },
   {
@@ -10074,7 +10342,9 @@
     "verb_forms": {
       "praesens": "bewerkstelligt",
       "praeteritum": "bewerkstelligte",
-      "partizip_ii": "bewerkstelligt"
+      "partizip_ii": "bewerkstelligt",
+      "example_perfekt_de": "Wie habe ich das alles bewerkstelligt?",
+      "example_perfekt_ru": "Как я всё это успел?"
     }
   },
   {
@@ -10092,7 +10362,9 @@
     "verb_forms": {
       "praesens": "bewältigt",
       "praeteritum": "bewältigte",
-      "partizip_ii": "bewältigt"
+      "partizip_ii": "bewältigt",
+      "example_perfekt_de": "Er hat die schwierige Aufgabe gelassen bewältigt.",
+      "example_perfekt_ru": "Он спокойно справился со сложной задачей."
     }
   },
   {
@@ -10110,7 +10382,9 @@
     "verb_forms": {
       "praesens": "meistert",
       "praeteritum": "meisterte",
-      "partizip_ii": "gemeistert"
+      "partizip_ii": "gemeistert",
+      "example_perfekt_de": "Sie hat alle Herausforderungen souverän gemeistert.",
+      "example_perfekt_ru": "Она уверенно справилась со всеми вызовами."
     }
   },
   {
@@ -10128,7 +10402,9 @@
     "verb_forms": {
       "praesens": "verwirklicht",
       "praeteritum": "verwirklichte",
-      "partizip_ii": "verwirklicht"
+      "partizip_ii": "verwirklicht",
+      "example_perfekt_de": "Er hat endlich seinen Traum verwirklicht.",
+      "example_perfekt_ru": "Он наконец воплотил свою мечту."
     }
   },
   {
@@ -10146,7 +10422,9 @@
     "verb_forms": {
       "praesens": "realisiert",
       "praeteritum": "realisierte",
-      "partizip_ii": "realisiert"
+      "partizip_ii": "realisiert",
+      "example_perfekt_de": "Das Projekt ist dank Spenden vollständig realisiert worden.",
+      "example_perfekt_ru": "Благодаря пожертвованиям проект был полностью реализован."
     }
   },
   {
@@ -10164,7 +10442,9 @@
     "verb_forms": {
       "praesens": "implementiert",
       "praeteritum": "implementierte",
-      "partizip_ii": "implementiert"
+      "partizip_ii": "implementiert",
+      "example_perfekt_de": "Das Team hat die Software erfolgreich implementiert.",
+      "example_perfekt_ru": "Команда успешно внедрила программу."
     }
   },
   {
@@ -10182,7 +10462,9 @@
     "verb_forms": {
       "praesens": "etabliert",
       "praeteritum": "etablierte",
-      "partizip_ii": "etabliert"
+      "partizip_ii": "etabliert",
+      "example_perfekt_de": "Die Firma hat sich als Marktführer etabliert.",
+      "example_perfekt_ru": "Фирма утвердилась как лидер рынка."
     }
   },
   {
@@ -10200,7 +10482,9 @@
     "verb_forms": {
       "praesens": "konsolidiert",
       "praeteritum": "konsolidierte",
-      "partizip_ii": "konsolidiert"
+      "partizip_ii": "konsolidiert",
+      "example_perfekt_de": "Das Unternehmen hat seine Position konsolidiert.",
+      "example_perfekt_ru": "Компания укрепила свои позиции."
     }
   },
   {
@@ -10218,7 +10502,9 @@
     "verb_forms": {
       "praesens": "festigt",
       "praeteritum": "festigte",
-      "partizip_ii": "gefestigt"
+      "partizip_ii": "gefestigt",
+      "example_perfekt_de": "Regelmäßige Übung hat das Wissen gefestigt.",
+      "example_perfekt_ru": "Регулярная практика закрепила знания."
     }
   },
   {
@@ -10236,7 +10522,9 @@
     "verb_forms": {
       "praesens": "verankert",
       "praeteritum": "verankerte",
-      "partizip_ii": "verankert"
+      "partizip_ii": "verankert",
+      "example_perfekt_de": "Diese Rechte sind in der Verfassung verankert worden.",
+      "example_perfekt_ru": "Эти права закрепили в конституции."
     }
   },
   {
@@ -10254,7 +10542,9 @@
     "verb_forms": {
       "praesens": "fundiert",
       "praeteritum": "fundierte",
-      "partizip_ii": "fundiert"
+      "partizip_ii": "fundiert",
+      "example_perfekt_de": "Seine Theorie ist wissenschaftlich gut fundiert worden.",
+      "example_perfekt_ru": "Его теорию обосновали научно."
     }
   },
   {
@@ -10272,7 +10562,9 @@
     "verb_forms": {
       "praesens": "baut aus",
       "praeteritum": "baute aus",
-      "partizip_ii": "ausgebaut"
+      "partizip_ii": "ausgebaut",
+      "example_perfekt_de": "Die Firma hat ihre Marktpräsenz in Asien ausgebaut.",
+      "example_perfekt_ru": "Фирма расширила своё присутствие в Азии."
     }
   },
   {
@@ -10290,7 +10582,9 @@
     "verb_forms": {
       "praesens": "weitet aus",
       "praeteritum": "weitete aus",
-      "partizip_ii": "ausgeweitet"
+      "partizip_ii": "ausgeweitet",
+      "example_perfekt_de": "Wir haben unsere Aktivitäten auf neue Länder ausgeweitet.",
+      "example_perfekt_ru": "Мы расширили деятельность на новые страны."
     }
   },
   {
@@ -10308,7 +10602,9 @@
     "verb_forms": {
       "praesens": "verfeinert",
       "praeteritum": "verfeinerte",
-      "partizip_ii": "verfeinert"
+      "partizip_ii": "verfeinert",
+      "example_perfekt_de": "Der Koch hat das Gericht mit Kräutern verfeinert.",
+      "example_perfekt_ru": "Повар улучшил блюдо травами."
     }
   },
   {
@@ -10325,7 +10621,9 @@
     "verb_forms": {
       "praesens": "vertieft",
       "praeteritum": "vertiefte",
-      "partizip_ii": "vertieft"
+      "partizip_ii": "vertieft",
+      "example_perfekt_de": "Sie hat ihre Kenntnisse in Literatur vertieft.",
+      "example_perfekt_ru": "Она углубила знания по литературе."
     }
   },
   {
@@ -10343,7 +10641,9 @@
     "verb_forms": {
       "praesens": "verschärft",
       "praeteritum": "verschärfte",
-      "partizip_ii": "verschärft"
+      "partizip_ii": "verschärft",
+      "example_perfekt_de": "Die Regierung hat die Sicherheitsmaßnahmen verschärft.",
+      "example_perfekt_ru": "Правительство ужесточило меры безопасности."
     }
   },
   {
@@ -10361,7 +10661,9 @@
     "verb_forms": {
       "praesens": "lockert",
       "praeteritum": "lockerte",
-      "partizip_ii": "gelockert"
+      "partizip_ii": "gelockert",
+      "example_perfekt_de": "Die Behörden haben die Vorschriften gelockert.",
+      "example_perfekt_ru": "Власти смягчили правила."
     }
   },
   {
@@ -10379,7 +10681,9 @@
     "verb_forms": {
       "praesens": "mildert ab",
       "praeteritum": "milderte ab",
-      "partizip_ii": "abgemildert"
+      "partizip_ii": "abgemildert",
+      "example_perfekt_de": "Die Maßnahmen haben die Folgen abgemildert.",
+      "example_perfekt_ru": "Меры смягчили последствия."
     }
   },
   {
@@ -10397,7 +10701,9 @@
     "verb_forms": {
       "praesens": "federt ab",
       "praeteritum": "federte ab",
-      "partizip_ii": "abgefedert"
+      "partizip_ii": "abgefedert",
+      "example_perfekt_de": "Der Staat hat die sozialen Härten abgefedert.",
+      "example_perfekt_ru": "Государство смягчило социальные удары."
     }
   },
   {
@@ -10415,7 +10721,9 @@
     "verb_forms": {
       "praesens": "schwächt ab",
       "praeteritum": "schwächte ab",
-      "partizip_ii": "abgeschwächt"
+      "partizip_ii": "abgeschwächt",
+      "example_perfekt_de": "Die Wirkung hat sich allmählich abgeschwächt.",
+      "example_perfekt_ru": "Эффект постепенно ослабел."
     }
   },
   {
@@ -10433,7 +10741,9 @@
     "verb_forms": {
       "praesens": "drosselt",
       "praeteritum": "drosselte",
-      "partizip_ii": "gedrosselt"
+      "partizip_ii": "gedrosselt",
+      "example_perfekt_de": "Das Unternehmen hat die Produktion gedrosselt.",
+      "example_perfekt_ru": "Компания сократила производство."
     }
   },
   {
@@ -10451,7 +10761,9 @@
     "verb_forms": {
       "praesens": "dämmt ein",
       "praeteritum": "dämmte ein",
-      "partizip_ii": "eingedämmt"
+      "partizip_ii": "eingedämmt",
+      "example_perfekt_de": "Die Behörden haben die Ausbreitung des Virus eingedämmt.",
+      "example_perfekt_ru": "Власти сдержали распространение вируса."
     }
   },
   {
@@ -10468,7 +10780,9 @@
     "verb_forms": {
       "praesens": "begrenzt",
       "praeteritum": "begrenzte",
-      "partizip_ii": "begrenzt"
+      "partizip_ii": "begrenzt",
+      "example_perfekt_de": "Wir haben die Ausgaben strikt begrenzt.",
+      "example_perfekt_ru": "Мы строго ограничили расходы."
     }
   },
   {
@@ -10486,7 +10800,9 @@
     "verb_forms": {
       "praesens": "gestaltet um",
       "praeteritum": "gestaltete um",
-      "partizip_ii": "umgestaltet"
+      "partizip_ii": "umgestaltet",
+      "example_perfekt_de": "Der Park ist komplett umgestaltet worden.",
+      "example_perfekt_ru": "Парк был полностью перестроен."
     }
   },
   {
@@ -10504,7 +10820,9 @@
     "verb_forms": {
       "praesens": "wandelt um",
       "praeteritum": "wandelte um",
-      "partizip_ii": "umgewandelt"
+      "partizip_ii": "umgewandelt",
+      "example_perfekt_de": "Die alte Fabrik ist in ein Wohnhaus umgewandelt worden.",
+      "example_perfekt_ru": "Старый завод перестроили в жилой дом."
     }
   },
   {
@@ -10522,7 +10840,9 @@
     "verb_forms": {
       "praesens": "formt um",
       "praeteritum": "formte um",
-      "partizip_ii": "umgeformt"
+      "partizip_ii": "umgeformt",
+      "example_perfekt_de": "Der Künstler hat das Material in eine Skulptur umgeformt.",
+      "example_perfekt_ru": "Художник превратил материал в скульптуру."
     }
   },
   {
@@ -10540,7 +10860,9 @@
     "verb_forms": {
       "praesens": "modifiziert",
       "praeteritum": "modifizierte",
-      "partizip_ii": "modifiziert"
+      "partizip_ii": "modifiziert",
+      "example_perfekt_de": "Die Ingenieure haben das Design modifiziert.",
+      "example_perfekt_ru": "Инженеры модифицировали дизайн."
     }
   },
   {
@@ -10558,7 +10880,9 @@
     "verb_forms": {
       "praesens": "passt an",
       "praeteritum": "passte an",
-      "partizip_ii": "angepasst"
+      "partizip_ii": "angepasst",
+      "example_perfekt_de": "Wir haben unsere Strategie an die Bedingungen angepasst.",
+      "example_perfekt_ru": "Мы адаптировали стратегию к условиям."
     }
   },
   {
@@ -10576,7 +10900,9 @@
     "verb_forms": {
       "praesens": "ändert ab",
       "praeteritum": "änderte ab",
-      "partizip_ii": "abgeändert"
+      "partizip_ii": "abgeändert",
+      "example_perfekt_de": "Der Vertrag ist an mehreren Stellen abgeändert worden.",
+      "example_perfekt_ru": "Договор изменили в нескольких местах."
     }
   },
   {
@@ -10594,7 +10920,9 @@
     "verb_forms": {
       "praesens": "revidiert",
       "praeteritum": "revidierte",
-      "partizip_ii": "revidiert"
+      "partizip_ii": "revidiert",
+      "example_perfekt_de": "Er hat seine Meinung vollständig revidiert.",
+      "example_perfekt_ru": "Он полностью пересмотрел своё мнение."
     }
   },
   {
@@ -10612,7 +10940,9 @@
     "verb_forms": {
       "praesens": "korrigiert",
       "praeteritum": "korrigierte",
-      "partizip_ii": "korrigiert"
+      "partizip_ii": "korrigiert",
+      "example_perfekt_de": "Die Lehrerin hat die Aufsätze korrigiert.",
+      "example_perfekt_ru": "Учительница проверила сочинения."
     }
   },
   {
@@ -10630,7 +10960,9 @@
     "verb_forms": {
       "praesens": "berichtigt",
       "praeteritum": "berichtigte",
-      "partizip_ii": "berichtigt"
+      "partizip_ii": "berichtigt",
+      "example_perfekt_de": "Sie hat den Fehler in der Rechnung berichtigt.",
+      "example_perfekt_ru": "Она исправила ошибку в счёте."
     }
   },
   {
@@ -10648,7 +10980,9 @@
     "verb_forms": {
       "praesens": "stellt richtig",
       "praeteritum": "stellte richtig",
-      "partizip_ii": "richtiggestellt"
+      "partizip_ii": "richtiggestellt",
+      "example_perfekt_de": "Der Sprecher hat die falschen Behauptungen richtiggestellt.",
+      "example_perfekt_ru": "Представитель опроверг ложные утверждения."
     }
   },
   {
@@ -10666,7 +11000,9 @@
     "verb_forms": {
       "praesens": "macht rückgängig",
       "praeteritum": "machte rückgängig",
-      "partizip_ii": "rückgängig gemacht"
+      "partizip_ii": "rückgängig gemacht",
+      "example_perfekt_de": "Die Entscheidung hat sich nicht rückgängig machen lassen.",
+      "example_perfekt_ru": "Решение уже нельзя было отменить."
     }
   },
   {
@@ -10684,7 +11020,9 @@
     "verb_forms": {
       "praesens": "widerruft",
       "praeteritum": "widerrief",
-      "partizip_ii": "widerrufen"
+      "partizip_ii": "widerrufen",
+      "example_perfekt_de": "Er hat seine Aussage vor Gericht widerrufen.",
+      "example_perfekt_ru": "Он отозвал свои показания в суде."
     }
   },
   {
@@ -10702,7 +11040,9 @@
     "verb_forms": {
       "praesens": "annulliert",
       "praeteritum": "annullierte",
-      "partizip_ii": "annulliert"
+      "partizip_ii": "annulliert",
+      "example_perfekt_de": "Die Behörde hat die Wahlergebnisse annulliert.",
+      "example_perfekt_ru": "Ведомство аннулировало результаты выборов."
     }
   },
   {
@@ -10721,7 +11061,9 @@
     "verb_forms": {
       "praesens": "hebt auf",
       "praeteritum": "hob auf",
-      "partizip_ii": "aufgehoben"
+      "partizip_ii": "aufgehoben",
+      "example_perfekt_de": "Das Gericht hat das Urteil in zweiter Instanz aufgehoben.",
+      "example_perfekt_ru": "Суд второй инстанции отменил приговор."
     }
   },
   {
@@ -10739,7 +11081,9 @@
     "verb_forms": {
       "praesens": "setzt außer Kraft",
       "praeteritum": "setzte außer Kraft",
-      "partizip_ii": "außer Kraft gesetzt"
+      "partizip_ii": "außer Kraft gesetzt",
+      "example_perfekt_de": "Das alte Gesetz ist außer Kraft gesetzt worden.",
+      "example_perfekt_ru": "Старый закон утратил силу."
     }
   },
   {
@@ -10756,7 +11100,9 @@
     "verb_forms": {
       "praesens": "setzt in Kraft",
       "praeteritum": "setzte in Kraft",
-      "partizip_ii": "in Kraft gesetzt"
+      "partizip_ii": "in Kraft gesetzt",
+      "example_perfekt_de": "Der Bundesrat hat die Verordnung in Kraft gesetzt.",
+      "example_perfekt_ru": "Бундесрат ввёл указ в силу."
     }
   },
   {
@@ -10773,7 +11119,9 @@
     "verb_forms": {
       "praesens": "tritt in Kraft",
       "praeteritum": "trat in Kraft",
-      "partizip_ii": "in Kraft getreten"
+      "partizip_ii": "in Kraft getreten",
+      "example_perfekt_de": "Das neue Gesetz ist am ersten Januar in Kraft getreten.",
+      "example_perfekt_ru": "Новый закон вступил в силу первого января."
     }
   },
   {
@@ -10791,7 +11139,9 @@
     "verb_forms": {
       "praesens": "erstarkt",
       "praeteritum": "erstarkte",
-      "partizip_ii": "erstarkt"
+      "partizip_ii": "erstarkt",
+      "example_perfekt_de": "Die Opposition ist in den letzten Monaten erstarkt.",
+      "example_perfekt_ru": "Оппозиция в последние месяцы окрепла."
     }
   },
   {
@@ -10809,7 +11159,9 @@
     "verb_forms": {
       "praesens": "erlahmt",
       "praeteritum": "erlahmte",
-      "partizip_ii": "erlahmt"
+      "partizip_ii": "erlahmt",
+      "example_perfekt_de": "Sein Enthusiasmus ist mit der Zeit erlahmt.",
+      "example_perfekt_ru": "Его энтузиазм со временем угас."
     }
   },
   {
@@ -10827,7 +11179,9 @@
     "verb_forms": {
       "praesens": "flaut ab",
       "praeteritum": "flaute ab",
-      "partizip_ii": "abgeflaut"
+      "partizip_ii": "abgeflaut",
+      "example_perfekt_de": "Der Sturm ist am Abend abgeflaut.",
+      "example_perfekt_ru": "К вечеру шторм утих."
     }
   },
   {
@@ -10845,7 +11199,9 @@
     "verb_forms": {
       "praesens": "schwindet",
       "praeteritum": "schwand",
-      "partizip_ii": "geschwunden"
+      "partizip_ii": "geschwunden",
+      "example_perfekt_de": "Mit den Jahren ist seine Erinnerung geschwunden.",
+      "example_perfekt_ru": "С годами его память ослабла."
     }
   },
   {
@@ -10863,7 +11219,9 @@
     "verb_forms": {
       "praesens": "verflüchtigt",
       "praeteritum": "verflüchtigte",
-      "partizip_ii": "verflüchtigt"
+      "partizip_ii": "verflüchtigt",
+      "example_perfekt_de": "Der Duft hat sich rasch verflüchtigt.",
+      "example_perfekt_ru": "Запах быстро улетучился."
     }
   },
   {
@@ -10881,7 +11239,9 @@
     "verb_forms": {
       "praesens": "entgleitet",
       "praeteritum": "entglitt",
-      "partizip_ii": "entglitten"
+      "partizip_ii": "entglitten",
+      "example_perfekt_de": "Die Kontrolle ist ihm zusehends entglitten.",
+      "example_perfekt_ru": "Контроль постепенно ускользал от него."
     }
   },
   {
@@ -10899,7 +11259,9 @@
     "verb_forms": {
       "praesens": "entgleist",
       "praeteritum": "entgleiste",
-      "partizip_ii": "entgleist"
+      "partizip_ii": "entgleist",
+      "example_perfekt_de": "Das Gespräch ist schnell entgleist.",
+      "example_perfekt_ru": "Разговор быстро вышел из-под контроля."
     }
   },
   {
@@ -10917,7 +11279,9 @@
     "verb_forms": {
       "praesens": "driftet ab",
       "praeteritum": "driftete ab",
-      "partizip_ii": "abgedriftet"
+      "partizip_ii": "abgedriftet",
+      "example_perfekt_de": "Das Boot ist nach Süden abgedriftet.",
+      "example_perfekt_ru": "Лодку отнесло на юг."
     }
   },
   {
@@ -10935,7 +11299,9 @@
     "verb_forms": {
       "praesens": "artet aus",
       "praeteritum": "artete aus",
-      "partizip_ii": "ausgeartet"
+      "partizip_ii": "ausgeartet",
+      "example_perfekt_de": "Die Demonstration ist in Ausschreitungen ausgeartet.",
+      "example_perfekt_ru": "Демонстрация переросла в беспорядки."
     }
   },
   {
@@ -10953,7 +11319,9 @@
     "verb_forms": {
       "praesens": "eskaliert",
       "praeteritum": "eskalierte",
-      "partizip_ii": "eskaliert"
+      "partizip_ii": "eskaliert",
+      "example_perfekt_de": "Der Konflikt ist zu einem Krieg eskaliert.",
+      "example_perfekt_ru": "Конфликт перерос в войну."
     }
   },
   {
@@ -10971,7 +11339,9 @@
     "verb_forms": {
       "praesens": "deeskaliert",
       "praeteritum": "deeskalierte",
-      "partizip_ii": "deeskaliert"
+      "partizip_ii": "deeskaliert",
+      "example_perfekt_de": "Beide Seiten haben die Situation deeskaliert.",
+      "example_perfekt_ru": "Обе стороны разрядили обстановку."
     }
   },
   {
@@ -10990,7 +11360,9 @@
     "verb_forms": {
       "praesens": "fördert",
       "praeteritum": "förderte",
-      "partizip_ii": "gefördert"
+      "partizip_ii": "gefördert",
+      "example_perfekt_de": "Der Staat hat junge Künstler gefördert.",
+      "example_perfekt_ru": "Государство поддержало молодых художников."
     }
   },
   {
@@ -11008,7 +11380,9 @@
     "verb_forms": {
       "praesens": "begünstigt",
       "praeteritum": "begünstigte",
-      "partizip_ii": "begünstigt"
+      "partizip_ii": "begünstigt",
+      "example_perfekt_de": "Die Wetterbedingungen haben das Feuer begünstigt.",
+      "example_perfekt_ru": "Погода способствовала распространению огня."
     }
   },
   {
@@ -11026,7 +11400,9 @@
     "verb_forms": {
       "praesens": "favorisiert",
       "praeteritum": "favorisierte",
-      "partizip_ii": "favorisiert"
+      "partizip_ii": "favorisiert",
+      "example_perfekt_de": "Die Experten haben diesen Kandidaten favorisiert.",
+      "example_perfekt_ru": "Эксперты отдали предпочтение этому кандидату."
     }
   },
   {
@@ -11043,7 +11419,9 @@
     "verb_forms": {
       "praesens": "bevorzugt",
       "praeteritum": "bevorzugte",
-      "partizip_ii": "bevorzugt"
+      "partizip_ii": "bevorzugt",
+      "example_perfekt_de": "Ich habe schwarzen Tee mit Milch bevorzugt.",
+      "example_perfekt_ru": "Я предпочитал чёрный чай с молоком."
     }
   },
   {
@@ -11061,7 +11439,9 @@
     "verb_forms": {
       "praesens": "benachteiligt",
       "praeteritum": "benachteiligte",
-      "partizip_ii": "benachteiligt"
+      "partizip_ii": "benachteiligt",
+      "example_perfekt_de": "Das neue Gesetz hat ärmere Familien benachteiligt.",
+      "example_perfekt_ru": "Новый закон ущемил беднейшие семьи."
     }
   },
   {
@@ -11078,7 +11458,9 @@
     "verb_forms": {
       "praesens": "diskriminiert",
       "praeteritum": "diskriminierte",
-      "partizip_ii": "diskriminiert"
+      "partizip_ii": "diskriminiert",
+      "example_perfekt_de": "Niemand ist wegen seiner Herkunft diskriminiert worden.",
+      "example_perfekt_ru": "Никого не дискриминировали из-за происхождения."
     }
   },
   {
@@ -11096,7 +11478,9 @@
     "verb_forms": {
       "praesens": "grenzt aus",
       "praeteritum": "grenzte aus",
-      "partizip_ii": "ausgegrenzt"
+      "partizip_ii": "ausgegrenzt",
+      "example_perfekt_de": "Minderheiten sind systematisch ausgegrenzt worden.",
+      "example_perfekt_ru": "Меньшинства систематически вытесняли из общества."
     }
   },
   {
@@ -11114,7 +11498,9 @@
     "verb_forms": {
       "praesens": "stigmatisiert",
       "praeteritum": "stigmatisierte",
-      "partizip_ii": "stigmatisiert"
+      "partizip_ii": "stigmatisiert",
+      "example_perfekt_de": "Psychisch Kranke sind lange stigmatisiert worden.",
+      "example_perfekt_ru": "Психически больных долго стигматизировали."
     }
   },
   {
@@ -11132,7 +11518,9 @@
     "verb_forms": {
       "praesens": "integriert",
       "praeteritum": "integrierte",
-      "partizip_ii": "integriert"
+      "partizip_ii": "integriert",
+      "example_perfekt_de": "Die Schule hat neue Schüler schnell integriert.",
+      "example_perfekt_ru": "Школа быстро интегрировала новых учеников."
     }
   },
   {
@@ -11150,7 +11538,9 @@
     "verb_forms": {
       "praesens": "bezieht ein",
       "praeteritum": "bezog ein",
-      "partizip_ii": "einbezogen"
+      "partizip_ii": "einbezogen",
+      "example_perfekt_de": "Wir haben alle Mitarbeiter einbezogen.",
+      "example_perfekt_ru": "Мы привлекли всех сотрудников."
     }
   },
   {
@@ -11168,7 +11558,9 @@
     "verb_forms": {
       "praesens": "bindet ein",
       "praeteritum": "band ein",
-      "partizip_ii": "eingebunden"
+      "partizip_ii": "eingebunden",
+      "example_perfekt_de": "Der Lehrer hat alle Schüler aktiv eingebunden.",
+      "example_perfekt_ru": "Учитель активно вовлёк всех учеников."
     }
   },
   {
@@ -11186,7 +11578,9 @@
     "verb_forms": {
       "praesens": "vernimmt ein",
       "praeteritum": "vernahm ein",
-      "partizip_ii": "einvernommen"
+      "partizip_ii": "einvernommen",
+      "example_perfekt_de": "Die Polizei hat den Zeugen ausführlich einvernommen.",
+      "example_perfekt_ru": "Полиция подробно допросила свидетеля."
     }
   },
   {
@@ -11204,7 +11598,9 @@
     "verb_forms": {
       "praesens": "stimmt ab",
       "praeteritum": "stimmte ab",
-      "partizip_ii": "abgestimmt"
+      "partizip_ii": "abgestimmt",
+      "example_perfekt_de": "Wir haben unsere Pläne mit dem Chef abgestimmt.",
+      "example_perfekt_ru": "Мы согласовали планы с начальником."
     }
   },
   {
@@ -11222,7 +11618,9 @@
     "verb_forms": {
       "praesens": "spricht ab",
       "praeteritum": "sprach ab",
-      "partizip_ii": "abgesprochen"
+      "partizip_ii": "abgesprochen",
+      "example_perfekt_de": "Wir hatten vorher abgesprochen, wer was macht.",
+      "example_perfekt_ru": "Мы заранее договорились, кто что делает."
     }
   },
   {
@@ -11240,7 +11638,9 @@
     "verb_forms": {
       "praesens": "vereinbart",
       "praeteritum": "vereinbarte",
-      "partizip_ii": "vereinbart"
+      "partizip_ii": "vereinbart",
+      "example_perfekt_de": "Wir haben einen Termin für nächste Woche vereinbart.",
+      "example_perfekt_ru": "Мы договорились о встрече на следующей неделе."
     }
   },
   {
@@ -11258,7 +11658,9 @@
     "verb_forms": {
       "praesens": "kommt überein",
       "praeteritum": "kam überein",
-      "partizip_ii": "übereingekommen"
+      "partizip_ii": "übereingekommen",
+      "example_perfekt_de": "Die Parteien sind in allen Punkten übereingekommen.",
+      "example_perfekt_ru": "Стороны достигли согласия по всем пунктам."
     }
   },
   {
@@ -11276,7 +11678,9 @@
     "verb_forms": {
       "praesens": "konzediert",
       "praeteritum": "konzedierte",
-      "partizip_ii": "konzediert"
+      "partizip_ii": "konzediert",
+      "example_perfekt_de": "Er hat konzediert, dass seine Argumentation Schwächen hatte.",
+      "example_perfekt_ru": "Он признал, что в его аргументации есть слабые места."
     }
   },
   {
@@ -11294,7 +11698,9 @@
     "verb_forms": {
       "praesens": "gesteht zu",
       "praeteritum": "gestand zu",
-      "partizip_ii": "zugestanden"
+      "partizip_ii": "zugestanden",
+      "example_perfekt_de": "Sie hat ihm einige Verdienste zugestanden.",
+      "example_perfekt_ru": "Она признала его некоторые заслуги."
     }
   },
   {
@@ -11312,7 +11718,9 @@
     "verb_forms": {
       "praesens": "bekennt ein",
       "praeteritum": "bekannte ein",
-      "partizip_ii": "einbekannt"
+      "partizip_ii": "einbekannt",
+      "example_perfekt_de": "Er hat einbekannt, einen Fehler gemacht zu haben.",
+      "example_perfekt_ru": "Он признался, что совершил ошибку."
     }
   },
   {
@@ -11330,7 +11738,9 @@
     "verb_forms": {
       "praesens": "gesteht ein",
       "praeteritum": "gestand ein",
-      "partizip_ii": "eingestanden"
+      "partizip_ii": "eingestanden",
+      "example_perfekt_de": "Schließlich hat er seine Schuld eingestanden.",
+      "example_perfekt_ru": "В конце концов он признал свою вину."
     }
   },
   {
@@ -11347,7 +11757,9 @@
     "verb_forms": {
       "praesens": "leugnet",
       "praeteritum": "leugnete",
-      "partizip_ii": "geleugnet"
+      "partizip_ii": "geleugnet",
+      "example_perfekt_de": "Er hat jede Beteiligung vehement geleugnet.",
+      "example_perfekt_ru": "Он яростно отрицал любое участие."
     }
   },
   {
@@ -11365,7 +11777,9 @@
     "verb_forms": {
       "praesens": "streitet ab",
       "praeteritum": "stritt ab",
-      "partizip_ii": "abgestritten"
+      "partizip_ii": "abgestritten",
+      "example_perfekt_de": "Er hat jede Schuld vor dem Richter abgestritten.",
+      "example_perfekt_ru": "Он отрицал любую вину перед судьёй."
     }
   },
   {
@@ -11384,7 +11798,9 @@
     "verb_forms": {
       "praesens": "bestreitet",
       "praeteritum": "bestritt",
-      "partizip_ii": "bestritten"
+      "partizip_ii": "bestritten",
+      "example_perfekt_de": "Niemand hat die Bedeutung der Entdeckung bestritten.",
+      "example_perfekt_ru": "Никто не оспаривал значимость открытия."
     }
   },
   {
@@ -11402,7 +11818,9 @@
     "verb_forms": {
       "praesens": "verheimlicht",
       "praeteritum": "verheimlichte",
-      "partizip_ii": "verheimlicht"
+      "partizip_ii": "verheimlicht",
+      "example_perfekt_de": "Sie hat ihre Krankheit lange verheimlicht.",
+      "example_perfekt_ru": "Она долго скрывала свою болезнь."
     }
   },
   {
@@ -11420,7 +11838,9 @@
     "verb_forms": {
       "praesens": "verschleiert",
       "praeteritum": "verschleierte",
-      "partizip_ii": "verschleiert"
+      "partizip_ii": "verschleiert",
+      "example_perfekt_de": "Die Firma hat ihre Probleme verschleiert.",
+      "example_perfekt_ru": "Фирма скрывала свои проблемы."
     }
   },
   {
@@ -11438,7 +11858,9 @@
     "verb_forms": {
       "praesens": "vertuscht",
       "praeteritum": "vertuschte",
-      "partizip_ii": "vertuscht"
+      "partizip_ii": "vertuscht",
+      "example_perfekt_de": "Sie haben den Skandal lange vertuscht.",
+      "example_perfekt_ru": "Они долго замалчивали скандал."
     }
   },
   {
@@ -11455,7 +11877,9 @@
     "verb_forms": {
       "praesens": "verschweigt",
       "praeteritum": "verschwieg",
-      "partizip_ii": "verschwiegen"
+      "partizip_ii": "verschwiegen",
+      "example_perfekt_de": "Er hat ihr seine wahren Motive verschwiegen.",
+      "example_perfekt_ru": "Он умолчал перед ней свои истинные мотивы."
     }
   },
   {
@@ -11473,7 +11897,9 @@
     "verb_forms": {
       "praesens": "gibt preis",
       "praeteritum": "gab preis",
-      "partizip_ii": "preisgegeben"
+      "partizip_ii": "preisgegeben",
+      "example_perfekt_de": "Er hat ihr nie seine geheimen Gedanken preisgegeben.",
+      "example_perfekt_ru": "Он никогда не открывал ей своих тайных мыслей."
     }
   },
   {
@@ -11491,7 +11917,9 @@
     "verb_forms": {
       "praesens": "legt offen",
       "praeteritum": "legte offen",
-      "partizip_ii": "offengelegt"
+      "partizip_ii": "offengelegt",
+      "example_perfekt_de": "Das Unternehmen hat seine Bilanz offengelegt.",
+      "example_perfekt_ru": "Компания обнародовала свой баланс."
     }
   },
   {
@@ -11510,7 +11938,9 @@
     "verb_forms": {
       "praesens": "enthüllt",
       "praeteritum": "enthüllte",
-      "partizip_ii": "enthüllt"
+      "partizip_ii": "enthüllt",
+      "example_perfekt_de": "Der Journalist hat einen Korruptionsskandal enthüllt.",
+      "example_perfekt_ru": "Журналист раскрыл коррупционный скандал."
     }
   },
   {
@@ -11528,7 +11958,9 @@
     "verb_forms": {
       "praesens": "entlarvt",
       "praeteritum": "entlarvte",
-      "partizip_ii": "entlarvt"
+      "partizip_ii": "entlarvt",
+      "example_perfekt_de": "Der Detektiv hat den wahren Täter entlarvt.",
+      "example_perfekt_ru": "Детектив разоблачил настоящего преступника."
     }
   },
   {
@@ -11546,7 +11978,9 @@
     "verb_forms": {
       "praesens": "entblößt",
       "praeteritum": "entblößte",
-      "partizip_ii": "entblößt"
+      "partizip_ii": "entblößt",
+      "example_perfekt_de": "Seine Worte haben seine Geisteshaltung entblößt.",
+      "example_perfekt_ru": "Его слова обнажили его умонастроение."
     }
   },
   {
@@ -11563,7 +11997,9 @@
     "verb_forms": {
       "praesens": "floriert",
       "praeteritum": "florierte",
-      "partizip_ii": "floriert"
+      "partizip_ii": "floriert",
+      "example_perfekt_de": "Das Geschäft hat in den ersten Jahren floriert.",
+      "example_perfekt_ru": "Бизнес процветал первые годы."
     }
   },
   {
@@ -11582,7 +12018,9 @@
     "verb_forms": {
       "praesens": "gedeiht",
       "praeteritum": "gedieh",
-      "partizip_ii": "gediehen"
+      "partizip_ii": "gediehen",
+      "example_perfekt_de": "Die Pflanzen sind im warmen Klima gediehen.",
+      "example_perfekt_ru": "Растения хорошо росли в тёплом климате."
     }
   },
   {
@@ -11600,7 +12038,9 @@
     "verb_forms": {
       "praesens": "prosperiert",
       "praeteritum": "prosperierte",
-      "partizip_ii": "prosperiert"
+      "partizip_ii": "prosperiert",
+      "example_perfekt_de": "Die Wirtschaft hat unter den neuen Bedingungen prosperiert.",
+      "example_perfekt_ru": "Экономика процветала при новых условиях."
     }
   },
   {
@@ -11618,7 +12058,9 @@
     "verb_forms": {
       "praesens": "florisiert",
       "praeteritum": "florisierte",
-      "partizip_ii": "florisiert"
+      "partizip_ii": "florisiert",
+      "example_perfekt_de": "Der Künstler hat die Manuskripte mit Ornamenten florisiert.",
+      "example_perfekt_ru": "Художник украсил рукописи орнаментами."
     }
   },
   {
@@ -11636,7 +12078,9 @@
     "verb_forms": {
       "praesens": "stagniert",
       "praeteritum": "stagnierte",
-      "partizip_ii": "stagniert"
+      "partizip_ii": "stagniert",
+      "example_perfekt_de": "Die Verhandlungen haben monatelang stagniert.",
+      "example_perfekt_ru": "Переговоры месяцами стояли на месте."
     }
   },
   {
@@ -11654,7 +12098,9 @@
     "verb_forms": {
       "praesens": "scheitert",
       "praeteritum": "scheiterte",
-      "partizip_ii": "gescheitert"
+      "partizip_ii": "gescheitert",
+      "example_perfekt_de": "Das Projekt ist an mangelnder Finanzierung gescheitert.",
+      "example_perfekt_ru": "Проект провалился из-за нехватки финансирования."
     }
   },
   {
@@ -11672,7 +12118,9 @@
     "verb_forms": {
       "praesens": "misslingt",
       "praeteritum": "misslang",
-      "partizip_ii": "misslungen"
+      "partizip_ii": "misslungen",
+      "example_perfekt_de": "Der Versuch, ihn zu überzeugen, ist misslungen.",
+      "example_perfekt_ru": "Попытка убедить его не удалась."
     }
   },
   {
@@ -11690,7 +12138,9 @@
     "verb_forms": {
       "praesens": "missglückt",
       "praeteritum": "missglückte",
-      "partizip_ii": "missglückt"
+      "partizip_ii": "missglückt",
+      "example_perfekt_de": "Der Kuchen ist mir heute völlig missglückt.",
+      "example_perfekt_ru": "Пирог сегодня совершенно не удался."
     }
   },
   {
@@ -11708,7 +12158,9 @@
     "verb_forms": {
       "praesens": "vereitelt",
       "praeteritum": "vereitelte",
-      "partizip_ii": "vereitelt"
+      "partizip_ii": "vereitelt",
+      "example_perfekt_de": "Die Polizei hat den Anschlag rechtzeitig vereitelt.",
+      "example_perfekt_ru": "Полиция вовремя сорвала покушение."
     }
   },
   {
@@ -11726,7 +12178,9 @@
     "verb_forms": {
       "praesens": "durchkreuzt",
       "praeteritum": "durchkreuzte",
-      "partizip_ii": "durchkreuzt"
+      "partizip_ii": "durchkreuzt",
+      "example_perfekt_de": "Sein Anruf hat alle meine Pläne durchkreuzt.",
+      "example_perfekt_ru": "Его звонок разрушил все мои планы."
     }
   },
   {
@@ -11744,7 +12198,9 @@
     "verb_forms": {
       "praesens": "konterkariert",
       "praeteritum": "konterkarierte",
-      "partizip_ii": "konterkariert"
+      "partizip_ii": "konterkariert",
+      "example_perfekt_de": "Seine Aussagen haben die Bemühungen konterkariert.",
+      "example_perfekt_ru": "Его высказывания подрывали усилия команды."
     }
   },
   {
@@ -11762,7 +12218,9 @@
     "verb_forms": {
       "praesens": "behindert",
       "praeteritum": "behinderte",
-      "partizip_ii": "behindert"
+      "partizip_ii": "behindert",
+      "example_perfekt_de": "Schlechtes Wetter hat die Rettung erheblich behindert.",
+      "example_perfekt_ru": "Плохая погода серьёзно мешала спасению."
     }
   },
   {
@@ -11780,7 +12238,9 @@
     "verb_forms": {
       "praesens": "blockiert",
       "praeteritum": "blockierte",
-      "partizip_ii": "blockiert"
+      "partizip_ii": "blockiert",
+      "example_perfekt_de": "Demonstranten haben die Straße stundenlang blockiert.",
+      "example_perfekt_ru": "Демонстранты часами блокировали улицу."
     }
   },
   {
@@ -11798,7 +12258,9 @@
     "verb_forms": {
       "praesens": "hemmt",
       "praeteritum": "hemmte",
-      "partizip_ii": "gehemmt"
+      "partizip_ii": "gehemmt",
+      "example_perfekt_de": "Hohe Steuern haben das Wachstum gehemmt.",
+      "example_perfekt_ru": "Высокие налоги сдерживали рост."
     }
   },
   {
@@ -11816,7 +12278,9 @@
     "verb_forms": {
       "praesens": "lähmt",
       "praeteritum": "lähmte",
-      "partizip_ii": "gelähmt"
+      "partizip_ii": "gelähmt",
+      "example_perfekt_de": "Der Streik hat den Verkehr in Berlin gelähmt.",
+      "example_perfekt_ru": "Забастовка парализовала транспорт в Берлине."
     }
   },
   {
@@ -11834,7 +12298,9 @@
     "verb_forms": {
       "praesens": "treibt voran",
       "praeteritum": "trieb voran",
-      "partizip_ii": "vorangetrieben"
+      "partizip_ii": "vorangetrieben",
+      "example_perfekt_de": "Der Direktor hat die Reformen vorangetrieben.",
+      "example_perfekt_ru": "Директор продвинул реформы."
     }
   },
   {
@@ -11852,7 +12318,9 @@
     "verb_forms": {
       "praesens": "kurbelt an",
       "praeteritum": "kurbelte an",
-      "partizip_ii": "angekurbelt"
+      "partizip_ii": "angekurbelt",
+      "example_perfekt_de": "Die Regierung hat die Wirtschaft angekurbelt.",
+      "example_perfekt_ru": "Правительство простимулировало экономику."
     }
   },
   {
@@ -11869,7 +12337,9 @@
     "verb_forms": {
       "praesens": "beschleunigt",
       "praeteritum": "beschleunigte",
-      "partizip_ii": "beschleunigt"
+      "partizip_ii": "beschleunigt",
+      "example_perfekt_de": "Die neue Technologie hat den Prozess beschleunigt.",
+      "example_perfekt_ru": "Новая технология ускорила процесс."
     }
   },
   {
@@ -11887,7 +12357,9 @@
     "verb_forms": {
       "praesens": "verzögert",
       "praeteritum": "verzögerte",
-      "partizip_ii": "verzögert"
+      "partizip_ii": "verzögert",
+      "example_perfekt_de": "Schlechtes Wetter hat die Ankunft des Zuges verzögert.",
+      "example_perfekt_ru": "Плохая погода задержала прибытие поезда."
     }
   },
   {
@@ -11905,7 +12377,9 @@
     "verb_forms": {
       "praesens": "verschiebt",
       "praeteritum": "verschob",
-      "partizip_ii": "verschoben"
+      "partizip_ii": "verschoben",
+      "example_perfekt_de": "Wir haben das Treffen auf nächste Woche verschoben.",
+      "example_perfekt_ru": "Мы перенесли встречу на следующую неделю."
     }
   },
   {
@@ -11923,7 +12397,9 @@
     "verb_forms": {
       "praesens": "vertagt",
       "praeteritum": "vertagte",
-      "partizip_ii": "vertagt"
+      "partizip_ii": "vertagt",
+      "example_perfekt_de": "Die Sitzung ist wegen Krankheit auf morgen vertagt worden.",
+      "example_perfekt_ru": "Заседание перенесли на завтра из-за болезни."
     }
   },
   {
@@ -11942,7 +12418,9 @@
     "verb_forms": {
       "praesens": "setzt aus",
       "praeteritum": "setzte aus",
-      "partizip_ii": "ausgesetzt"
+      "partizip_ii": "ausgesetzt",
+      "example_perfekt_de": "Das Gericht hat das Verfahren ausgesetzt.",
+      "example_perfekt_ru": "Суд приостановил производство."
     }
   },
   {
@@ -11960,7 +12438,9 @@
     "verb_forms": {
       "praesens": "unterbricht",
       "praeteritum": "unterbrach",
-      "partizip_ii": "unterbrochen"
+      "partizip_ii": "unterbrochen",
+      "example_perfekt_de": "Du hast mich beim Sprechen unterbrochen.",
+      "example_perfekt_ru": "Ты прервал меня во время разговора."
     }
   },
   {
@@ -11978,7 +12458,9 @@
     "verb_forms": {
       "praesens": "ediert",
       "praeteritum": "edierte",
-      "partizip_ii": "ediert"
+      "partizip_ii": "ediert",
+      "example_perfekt_de": "Der Wissenschaftler hat die Werke des Autors ediert.",
+      "example_perfekt_ru": "Учёный издал полное собрание сочинений автора."
     }
   },
   {
@@ -11996,7 +12478,9 @@
     "verb_forms": {
       "praesens": "kompiliert",
       "praeteritum": "kompilierte",
-      "partizip_ii": "kompiliert"
+      "partizip_ii": "kompiliert",
+      "example_perfekt_de": "Sie hat alle Daten in einem Bericht kompiliert.",
+      "example_perfekt_ru": "Она собрала все данные в один отчёт."
     }
   },
   {
@@ -12014,7 +12498,9 @@
     "verb_forms": {
       "praesens": "exzerpiert",
       "praeteritum": "exzerpierte",
-      "partizip_ii": "exzerpiert"
+      "partizip_ii": "exzerpiert",
+      "example_perfekt_de": "Die Studenten haben wissenschaftliche Texte exzerpiert.",
+      "example_perfekt_ru": "Студенты конспектировали научные тексты."
     }
   },
   {
@@ -12031,7 +12517,9 @@
     "verb_forms": {
       "praesens": "zitiert",
       "praeteritum": "zitierte",
-      "partizip_ii": "zitiert"
+      "partizip_ii": "zitiert",
+      "example_perfekt_de": "In seiner Rede hat er Philosophen zitiert.",
+      "example_perfekt_ru": "В своей речи он цитировал философов."
     }
   },
   {
@@ -12049,7 +12537,9 @@
     "verb_forms": {
       "praesens": "verweist",
       "praeteritum": "verwies",
-      "partizip_ii": "verwiesen"
+      "partizip_ii": "verwiesen",
+      "example_perfekt_de": "Der Autor hat auf weiterführende Literatur verwiesen.",
+      "example_perfekt_ru": "Автор сослался на дополнительную литературу."
     }
   },
   {
@@ -12067,7 +12557,9 @@
     "verb_forms": {
       "praesens": "rekapituliert",
       "praeteritum": "rekapitulierte",
-      "partizip_ii": "rekapituliert"
+      "partizip_ii": "rekapituliert",
+      "example_perfekt_de": "Der Lehrer hat die wichtigsten Punkte rekapituliert.",
+      "example_perfekt_ru": "Учитель повторил ключевые моменты."
     }
   },
   {
@@ -12085,7 +12577,9 @@
     "verb_forms": {
       "praesens": "resümiert",
       "praeteritum": "resümierte",
-      "partizip_ii": "resümiert"
+      "partizip_ii": "resümiert",
+      "example_perfekt_de": "Der Redner hat die zentralen Aussagen resümiert.",
+      "example_perfekt_ru": "Оратор подвёл итог основным тезисам."
     }
   },
   {
@@ -12103,7 +12597,9 @@
     "verb_forms": {
       "praesens": "fasst zusammen",
       "praeteritum": "fasste zusammen",
-      "partizip_ii": "zusammengefasst"
+      "partizip_ii": "zusammengefasst",
+      "example_perfekt_de": "Sie hat das Wesentliche kurz zusammengefasst.",
+      "example_perfekt_ru": "Она кратко изложила суть."
     }
   },
   {
@@ -12120,7 +12616,9 @@
     "verb_forms": {
       "praesens": "synthetisiert",
       "praeteritum": "synthetisierte",
-      "partizip_ii": "synthetisiert"
+      "partizip_ii": "synthetisiert",
+      "example_perfekt_de": "Der Chemiker hat das Molekül synthetisiert.",
+      "example_perfekt_ru": "Химик синтезировал молекулу."
     }
   },
   {
